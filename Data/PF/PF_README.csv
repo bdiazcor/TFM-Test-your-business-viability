@@ -5,6 +5,7 @@ En estos indicadores se muestra para cada distrito censal el número de personas
     - Nacionalidad: Indica si se trata de residentes en España o en el extranjero.
     Residencia en el distrito. Indica si se trata de residentes en la zona definida como distrito censal o no.
     - Propósito. Indica la actividad principal realizada por un usuario en la zona definida como distrito censal a lo largo del día. Los tipos de actividades que distinguimos son: casa, trabajo/estudio a tiempo completo, actividades frecuentes y actividades no frecuentes. En caso de que un usuario realice varios propósitos en un mismo distrito, se le asigna aquel propósito de mayor duración. Por ejemplo, si un usuario que vive y trabaja en el mismo distrito censal, durante el día analizado está 10 horas en casa y 8 horas en el trabajo, se le asigna "casa" como actividad principal.
+    - Indicadores de población flotante con resolución horaria para los 21 distritos de Madrid. Los campos de la tabla de indicadores son los mismos que los de la otra tabla. Únicamente cambian los valores del campo "Periodo" que en esta nueva tabla indican la hora a la que hacen referencia.
 
 La información que hemos empleado para generar estos indicadores la tenemos precalculada en una malla de 250x250 metros, por lo que hemos ajustado la geometría de cada distrito censal a esta malla. En el archivo adjunto encontrarás un fichero SHP donde ver las geometrías empleadas.
 
