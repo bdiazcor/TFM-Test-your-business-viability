@@ -4,13 +4,15 @@ DS Master TFM repository. Structure:
 #### 1) Data:   
 Contains data files and data description:
 >
-- **censolocales**: 
->> Base data for project. Contains Madrid open data (https://datos.madrid.es/) with info about stores, activities, licences, 
-status, neighborhood id, local coordinates, etc split in three files /month/year (since 2017 and quarterly in 2016):
->>- OPEN DATA Localesyyyymm.csv: stores info
->>- OPEN DATA Locales-Epigrafesyyyymm.csv: stores info + activities
->>- OPEN DATA Licenciasyyyymm: stores info + licences status        
->> More info about fields meaning: Estructura_DS_FicheroCLA.pdf; Estructura_DS_FicheroCLA_Licencias.pdf; EpigrafesActividadEconomica.pdf    
+- **censolocales**:  
+>>
+Base data for project. Contains Madrid open data (https://datos.madrid.es/) with info about stores,        activities, licences, status, neighborhood id, local coordinates, etc split in three files /month/year       (since 2015 and quarterly in 2014):  
+>>
+- OPEN DATA Localesyyyymm.csv: stores info  
+- OPEN DATA Locales-Epigrafesyyyymm.csv: stores info + activities  
+- OPEN DATA Licenciasyyyymm: stores info + licences status  
+>>
+More info about fields meaning: Estructura_DS_FicheroCLA.pdf; Estructura_DS_FicheroCLA_Licencias.pdf;       EpigrafesActividadEconomica.pdf   
         
 - **PF**: Madrid floating population. Based on one standard week. PF_README for details.    
 
