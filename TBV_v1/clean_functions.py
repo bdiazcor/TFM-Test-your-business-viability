@@ -3,6 +3,7 @@ import numpy as np
 import clean_functions as cl
 import os
 import sys
+from geopy.distance import geodesic
 
 #función que compara dos dataframes y devuelve dos arrays de los id_local que aparecen en un dataframe y no en el otro y viceversa
 def missing_id(df1,df2):
@@ -59,7 +60,7 @@ def estado(column1, column2):
 #normalizar ids sin modificar la columna original
 def new_col(df):
     df['conc'] = df.rotulo.str.strip() + "-" + df.desc_vial_acceso.str.strip() + "-" + df.num_acceso.astype(str) 
-    df['id_local_norm'] = df['id_local']
+#    df['id_local_norm'] = df['id_local']
     return df
 
 
@@ -71,7 +72,7 @@ def na(df):
                              'desc_situacion_local', 'clase_vial_acceso', 'desc_vial_acceso', 'nom_acceso', 'num_acceso', 'cal_acceso', 
                              'coordenada_x_agrupacion', 'coordenada_y_agrup', 'id_agrupacion', 'nombre_agrupacion', 'id_tipo_agrup', 
                              'desc_tipo_agrup', 'rotulo', 'id_seccion', 'desc_seccion', 'id_division', 'desc_division', 'id_epigrafe', 
-                             'desc_epigrafe','conc', 'id_local_norm','desc_sit_loc_modif']
+                             'desc_epigrafe','conc', 'desc_sit_loc_modif']
     df = pd.DataFrame(df, columns=columns_of_interest_19)
     
 
@@ -96,13 +97,13 @@ def na(df):
 
 # Funcion para quedarme con las columnas de interes de los dataframes del resto de años con los que voy a comparar
 def col_rest(df): 
-    columns_of_interest_rest=['id_local_norm','conc','desc_sit_loc_modif']
+    columns_of_interest_rest=['id_local','conc','desc_sit_loc_modif']
     df_d = pd.DataFrame(df, columns=columns_of_interest_rest)
     return df_d
 
-# ordeno por id_local_norm y reseteo el indice
+# ordeno por id_local y reseteo el indice
 def reset(df):
-    df.sort_values(['id_local_norm'],inplace=True)
+    df.sort_values(['id_local'],inplace=True)
     df.reset_index(drop=True,inplace=True)
     return df
 
@@ -118,3 +119,197 @@ def unif_id(df1,df2):
     print(i,n)
     return(df1,df2)
 
+#función que calcula la columna target como los locales cerrado en función de los locales abiertos n años antes, empezando con los locales abiertos desde year_i (desde 2016 hasta 2018)
+
+# n = número de años target para cierre ej: n= 1, abierto un año y cerrado el siguiente
+def target(df,n,year_i):
+    
+    df_ = df.copy()
+    print(n)
+    print(year_i)
+    
+    if n == 1: 
+        if year_i == 2018:
+            cond1 = (df_.cerrado_19 == 1) & (df_.abierto_18 == 1)                                  
+        
+            df_['target'] = np.where(cond1, 1 ,0)
+    
+        elif year_i == 2017:
+            cond1 = (df_.cerrado_19 == 1) & (df_.abierto_18 == 1)
+            cond2 = (df_.cerrado_18 == 1) & (df_.abierto_17 == 1)
+        
+            df_['target'] = np.where(cond1 | cond2, 1 ,0)   
+        
+        elif year_i == 2016:
+            cond1 = (df_.cerrado_19 == 1) & (df_.abierto_18 == 1)
+            cond2 = (df_.cerrado_18 == 1) & (df_.abierto_17 == 1)
+            cond3 = (df_.cerrado_17 == 1) & (df_.abierto_16 == 1)
+        
+            df_['target'] = np.where((cond1 | cond2 | cond3), 1 ,0)
+        else:
+            print('error1')
+    
+    elif n == 2:
+        if year_i == 2017:
+            cond1 = (df_.cerrado_19 == 1) & (df_.abierto_18 == 1)
+            cond2 = (df_.cerrado_18 == 1) & (df_.abierto_17 == 1)
+            cond3 = (df_.cerrado_19 == 1) & (df_.cerrado_18 != 1) & (df_.abierto_17 == 1)
+        
+            df_['target'] = np.where(cond1 | cond2 | cond3, 1 ,0)  
+    
+        elif year_i == 2016:
+            cond1 = (df_.cerrado_19 == 1) & (df_.abierto_18 == 1)
+            cond2 = (df_.cerrado_18 == 1) & (df_.abierto_17 == 1)
+            cond3 = (df_.cerrado_17 == 1) & (df_.abierto_16 == 1)
+            cond4 = (df_.cerrado_19 == 1) & (df_.cerrado_18 != 1) & (df_.abierto_17 == 1)
+            cond5 = (df_.cerrado_18 == 1) & (df_.cerrado_17 != 1) & (df_.abierto_16 == 1)
+        
+            df_['target'] = np.where(cond1 | cond2 | cond3 | cond4 | cond5, 1 ,0)
+        else:
+            print('error2')
+        
+    else: 
+        print('error3')
+            
+    return df_
+
+
+# función que genera una columna target en función de los cerrados en los últimos n años
+
+def target2(df_,n):
+    if n == 1:
+        df_['target'] = np.where(df_.cerrado_19 == 1, 1,0)
+        
+    elif n == 2:
+        df_['target'] = np.where((df_.cerrado_19 == 1) | (df_.cerrado_18 == 1), 1,0)
+        
+    elif n == 3:
+        cond3 = ((df_.cerrado_19 == 1) | (df_.cerrado_18 == 1) | (df_.cerrado_17 == 1))
+        df_['target'] = np.where(cond3, 1,0)
+        
+    elif n == 4:
+        cond4 = ((df_.cerrado_19 == 1) | (df_.cerrado_18 == 1) 
+                 | (df_.cerrado_17 == 1) | (df_.cerrado_16 == 1))
+        df_['target'] = np.where(cond4, 1,0)
+        
+    else:
+        print('error')
+    
+    return df_
+
+
+# Genero columnas con los abiertos y cerrados en cada año:   
+#- abiertos cada año (ej: abiertos no existentes el año anterior)   
+#- cerrados cada año (ej 2019: cerrados y uso vivienda no cerrados/uso vivienda en años anteriores)
+
+def sit_year(df):
+    df_ = df.copy()
+    cond1 = ((df_.desc_sit_loc_modif_19 == 'Cerrado') |
+                                 (df_.desc_sit_loc_modif_19 == 'Uso vivienda'))  
+                                 
+    cond2 = ((df_.desc_sit_loc_modif_18 != 'Cerrado') |
+                                 df.desc_sit_loc_modif_18.isnull())
+    cond3 = ((df_.desc_sit_loc_modif_19.notnull()) &
+                                 (df_.desc_sit_loc_modif_18.isnull()))
+    df_['cerrado_19'] = np.where(cond1 & cond2, 1 ,0)
+    df_['abierto_19'] = np.where(cond3, 1 ,0)
+        
+    cond4 = ((df_.desc_sit_loc_modif_18 == 'Cerrado') |
+                                 (df_.desc_sit_loc_modif_18 == 'Uso vivienda'))  
+                                 
+    cond5 = ((df_.desc_sit_loc_modif_17 != 'Cerrado') |
+                                 df.desc_sit_loc_modif_17.isnull())
+    cond6 = ((df_.desc_sit_loc_modif_18.notnull()) &
+                                 (df_.desc_sit_loc_modif_17.isnull()))
+    df_['cerrado_18'] = np.where(cond4 & cond5, 1 ,0)
+    df_['abierto_18'] = np.where(cond6, 1 ,0)
+        
+    cond7 = ((df_.desc_sit_loc_modif_17 == 'Cerrado') |
+                                 (df_.desc_sit_loc_modif_17 == 'Uso vivienda'))
+    cond8 = ((df_.desc_sit_loc_modif_16 != 'Cerrado') |
+                                 df.desc_sit_loc_modif_16.isnull())
+    cond9 = ((df_.desc_sit_loc_modif_17.notnull()) &
+                                 (df_.desc_sit_loc_modif_16.isnull()))
+    df_['cerrado_17'] = np.where(cond7 & cond8, 1 ,0)
+    df_['abierto_17'] = np.where(cond9, 1 ,0)
+       
+    cond10 = ((df_.desc_sit_loc_modif_16 == 'Cerrado') |
+                                 (df_.desc_sit_loc_modif_16 == 'Uso vivienda'))  
+                                 
+    cond11 = ((df_.desc_sit_loc_modif_15 != 'Cerrado') |
+                                 df.desc_sit_loc_modif_15.isnull())
+    cond12 = ((df_.desc_sit_loc_modif_16.notnull()) &
+                                 (df_.desc_sit_loc_modif_15.isnull()))
+    df_['cerrado_16'] = np.where(cond10 & cond11, 1 ,0)
+    df_['abierto_16'] = np.where(cond12, 1 ,0)
+    
+    return df_
+
+# función que estima los id_epigrafes con un número de id_epigrafe > m y donde el % # id_epigrafe target/locales con este id es superior a n
+
+def act_filter_id(df,n,m):
+    df__ = df.copy()
+    df_zero = df__[((df__.desc_sit_loc_modif_19 != 'Cerrado') | (df__.desc_sit_loc_modif_19 != 'Uso vivienda')) & 
+                  (df__.target == 0)]
+    df_ones = df__[df__.target == 1]
+    tablon = [df_zero,df_ones]
+    df_ = pd.concat(tablon)
+    act_count = df_['id_epigrafe'].value_counts()
+    ones = df_ones['id_epigrafe'].value_counts()
+    df_ = pd.concat([act_count, ones], axis=1,sort = False)
+    df_ = df_.rename(columns = {'id_epigrafe':'ones'})
+    names = df_.columns.tolist()
+    names[0] = 'act_count'
+    df_.columns = names
+    df_.ones.fillna(0, inplace=True)
+    df_['perc'] = df_.apply(lambda x: x['ones']/x['act_count'],axis=1)
+    df_.sort_values(by='perc', ascending=False,inplace=True)
+    df_f = df_[(df_.act_count > n) & (df_.perc > m) ]
+    return df_f.index.values.astype(int)
+
+# función que devuelve un df los desc_epigrafes con un número de id_epigrafe > m y donde el % # id_epigrafe target/locales con este id es superior a n
+
+def act_filter_desc(df,n,m):
+    df__ = df.copy()
+    df_zero = df__[((df__.desc_sit_loc_modif_19 != 'Cerrado') | (df__.desc_sit_loc_modif_19 != 'Uso vivienda')) & 
+                  (df__.target == 0)]
+    df_ones = df__[df__.target == 1]
+    tablon = [df_zero,df_ones]
+    df_ = pd.concat(tablon)
+    act_count = df_['desc_epigrafe'].value_counts()
+    ones = df_ones['desc_epigrafe'].value_counts()
+    df_ = pd.concat([act_count, ones], axis=1,sort = False)
+    df_ = df_.rename(columns = {'desc_epigrafe':'ones'})
+    names = df_.columns.tolist()
+    names[0] = 'act_count'
+    df_.columns = names
+    df_.ones.fillna(0, inplace=True)
+    df_['perc'] = df_.apply(lambda x: x['ones']/x['act_count'],axis=1)
+    df_.sort_values(by='perc', ascending=False,inplace=True)
+    df_f = df_[(df_.act_count > n) & (df_.perc > m) ]
+    return df_f
+
+# Incluyo una columna con la descripción de la actividad única para un id_local (sin tiene varias). Me quedo con la primera
+def new_col2(df):
+    act = []
+    for i in range(len(df)):
+        for j in range(len(df.columns.values)-2):
+            if df.iloc[i][df.columns.values[j+1]] > 0:
+                text = df.columns.values[j+1]
+        act.append(text)
+    return act
+
+# Funcion que calcula el número de locales de la misma actividad dentro de una distancia = dist
+def num_loc_dist(df,dist):
+    pointn = (0,0)
+    num_loc_d = []
+    for i in range(len(df)):
+        point1 = (df.lat[i],df.lon[i])
+        distance = []
+        for j in range(len(df)):
+            if df.desc_epigrafe[i] == df.desc_epigrafe[j]:
+                pointn = (df.lat[j],df.lon[j])
+                distance.append(geodesic(point1, pointn).meters)#          
+        num_loc_d.append(len(list(filter(lambda num: num < dist,distance)))-1)
+        
+    return num_loc_d

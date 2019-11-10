@@ -1,0 +1,1539 @@
+datos_año;clase_inmueble;distrito_cod;distrito_nombre;barrio_cod;barrio_nombre;uso_cod;uso_deno;inmuebles_barrio;año_cons_medio;sup_cons_barrio;sup_cons_media;sup_suelo_barrio;sup_suelo_media;val_cat_barrio;val_cat_medio
+2017;UR;01;Centro;011;Palacio;A;Almacén-Estacionamiento;2995;1970,00;205391,00;69,00;;;119936897,66 €;40045,71 €
+2017;UR;01;Centro;011;Palacio;C;Comercial;1477;1921,00;232969,00;158,00;;;425680924,24 €;288206,45 €
+2017;UR;01;Centro;011;Palacio;E;Cultural;36;1934,00;67715,00;1881,00;;;82383918,41 €;2288442,18 €
+2017;UR;01;Centro;011;Palacio;G;Ocio y Hostelería;398;1925,00;127006,00;319,00;;;224104742,40 €;563077,24 €
+2017;UR;01;Centro;011;Palacio;I;Industrial;20;1940,00;2563,00;128,00;;;1737451,92 €;86872,60 €
+2017;UR;01;Centro;011;Palacio;K;Deportivo;8;1959,00;8895,00;1112,00;;;14544962,48 €;1818120,31 €
+2017;UR;01;Centro;011;Palacio;M;Suelos sin edificar, obras de urbanización y jardinería;66;;;;114218,00;1731,00;32925225,00 €;498867,05 €
+2017;UR;01;Centro;011;Palacio;O;Oficinas;552;1947,00;180371,00;327,00;;;307425426,09 €;556930,12 €
+2017;UR;01;Centro;011;Palacio;P;Edificio Singular;16;1890,00;193937,00;12121,00;;;283088451,44 €;17693028,22 €
+2017;UR;01;Centro;011;Palacio;R;Religioso;18;1883,00;107441,00;5969,00;;;117636992,26 €;6535388,46 €
+2017;UR;01;Centro;011;Palacio;T;Espectáculos;5;1939,00;84965,00;16993,00;;;156106207,34 €;31221241,47 €
+2017;UR;01;Centro;011;Palacio;V;Residencial;13185;1928,00;1355702,00;103,00;;;1863673519,20 €;141348,01 €
+2017;UR;01;Centro;011;Palacio;Y;Sanidad y Beneficencia;11;1939,00;25101,00;2282,00;;;27088855,06 €;2462623,19 €
+2017;UR;01;Centro;012;Embajadores;A;Almacén-Estacionamiento;4113;1975,00;259968,00;63,00;;;138286076,08 €;33621,71 €
+2017;UR;01;Centro;012;Embajadores;C;Comercial;2677;1926,00;406691,00;152,00;;;597877490,98 €;223338,62 €
+2017;UR;01;Centro;012;Embajadores;E;Cultural;48;1922,00;195166,00;4066,00;;;222570208,29 €;4636879,34 €
+2017;UR;01;Centro;012;Embajadores;G;Ocio y Hostelería;110;1903,00;58195,00;529,00;;;90699539,43 €;824541,27 €
+2017;UR;01;Centro;012;Embajadores;I;Industrial;24;1940,00;2879,00;120,00;;;2188503,29 €;91187,64 €
+2017;UR;01;Centro;012;Embajadores;K;Deportivo;9;2002,00;4150,00;461,00;;;2866684,00 €;318520,44 €
+2017;UR;01;Centro;012;Embajadores;M;Suelos sin edificar, obras de urbanización y jardinería;37;;;;20593,00;557,00;18535777,00 €;500966,95 €
+2017;UR;01;Centro;012;Embajadores;O;Oficinas;171;1946,00;84147,00;492,00;;;76964569,85 €;450085,20 €
+2017;UR;01;Centro;012;Embajadores;P;Edificio Singular;3;1918,00;18576,00;6192,00;;;18586882,51 €;6195627,50 €
+2017;UR;01;Centro;012;Embajadores;R;Religioso;8;1865,00;17786,00;2223,00;;;15345569,12 €;1918196,14 €
+2017;UR;01;Centro;012;Embajadores;T;Espectáculos;7;1951,00;22092,00;3156,00;;;33725626,38 €;4817946,63 €
+2017;UR;01;Centro;012;Embajadores;V;Residencial;24941;1927,00;1971268,00;79,00;;;2476657476,17 €;99300,65 €
+2017;UR;01;Centro;012;Embajadores;Y;Sanidad y Beneficencia;10;1984,00;8940,00;894,00;;;10211951,61 €;1021195,16 €
+2017;UR;01;Centro;013;Cortes;A;Almacén-Estacionamiento;1547;1970,00;119568,00;77,00;;;87409912,61 €;56502,85 €
+2017;UR;01;Centro;013;Cortes;C;Comercial;878;1916,00;148526,00;169,00;;;289380699,69 €;329590,77 €
+2017;UR;01;Centro;013;Cortes;E;Cultural;22;1952,00;57893,00;2632,00;;;112294811,81 €;5104309,63 €
+2017;UR;01;Centro;013;Cortes;G;Ocio y Hostelería;202;1951,00;286512,00;1418,00;;;565227478,40 €;2798155,83 €
+2017;UR;01;Centro;013;Cortes;I;Industrial;11;1949,00;13750,00;1250,00;;;13256049,00 €;1205095,36 €
+2017;UR;01;Centro;013;Cortes;K;Deportivo;1;1917,00;260,00;260,00;;;372685,34 €;372685,34 €
+2017;UR;01;Centro;013;Cortes;M;Suelos sin edificar, obras de urbanización y jardinería;7;;;;1986,00;284,00;5031725,00 €;718817,86 €
+2017;UR;01;Centro;013;Cortes;O;Oficinas;351;1950,00;435015,00;1239,00;;;988583669,37 €;2816477,69 €
+2017;UR;01;Centro;013;Cortes;P;Edificio Singular;23;1932,00;214586,00;9330,00;;;322309622,80 €;14013461,86 €
+2017;UR;01;Centro;013;Cortes;R;Religioso;8;1868,00;27211,00;3401,00;;;26654446,22 €;3331805,78 €
+2017;UR;01;Centro;013;Cortes;T;Espectáculos;6;1929,00;28133,00;4689,00;;;39384196,40 €;6564032,73 €
+2017;UR;01;Centro;013;Cortes;V;Residencial;6506;1923,00;767644,00;118,00;;;1184023090,84 €;181989,41 €
+2017;UR;01;Centro;013;Cortes;Y;Sanidad y Beneficencia;3;1924,00;1739,00;580,00;;;1870833,08 €;623611,03 €
+2017;UR;01;Centro;014;Justicia;A;Almacén-Estacionamiento;2943;1979,00;198076,00;67,00;;;127349863,49 €;43272,12 €
+2017;UR;01;Centro;014;Justicia;C;Comercial;1394;1923,00;254157,00;182,00;;;573686658,36 €;411539,93 €
+2017;UR;01;Centro;014;Justicia;E;Cultural;36;1945,00;47873,00;1330,00;;;65820547,94 €;1828348,55 €
+2017;UR;01;Centro;014;Justicia;G;Ocio y Hostelería;82;1925,00;80581,00;983,00;;;182788703,91 €;2229130,54 €
+2017;UR;01;Centro;014;Justicia;I;Industrial;15;1971,00;2255,00;150,00;;;2423132,08 €;161542,14 €
+2017;UR;01;Centro;014;Justicia;K;Deportivo;10;1975,00;3335,00;334,00;;;6710735,12 €;671073,51 €
+2017;UR;01;Centro;014;Justicia;M;Suelos sin edificar, obras de urbanización y jardinería;17;;;;13525,00;796,00;2589895,82 €;152346,81 €
+2017;UR;01;Centro;014;Justicia;O;Oficinas;557;1947,00;412079,00;740,00;;;890191190,41 €;1598188,85 €
+2017;UR;01;Centro;014;Justicia;P;Edificio Singular;24;1991,00;159755,00;6656,00;;;295263719,79 €;12302654,99 €
+2017;UR;01;Centro;014;Justicia;R;Religioso;21;1857,00;19270,00;918,00;;;25973560,74 €;1236836,23 €
+2017;UR;01;Centro;014;Justicia;T;Espectáculos;3;1922,00;2868,00;956,00;;;4324802,89 €;1441600,96 €
+2017;UR;01;Centro;014;Justicia;V;Residencial;10383;1929,00;1332817,00;128,00;;;2187389091,46 €;210670,24 €
+2017;UR;01;Centro;014;Justicia;Y;Sanidad y Beneficencia;7;1974,00;13056,00;1865,00;;;22639635,25 €;3234233,61 €
+2017;UR;01;Centro;015;Universidad;A;Almacén-Estacionamiento;4649;1976,00;248621,00;53,00;;;150811269,46 €;32439,51 €
+2017;UR;01;Centro;015;Universidad;C;Comercial;1907;1923,00;353899,00;186,00;;;825365653,83 €;432808,42 €
+2017;UR;01;Centro;015;Universidad;E;Cultural;33;1941,00;89744,00;2720,00;;;94469114,38 €;2862700,44 €
+2017;UR;01;Centro;015;Universidad;G;Ocio y Hostelería;143;1914,00;147670,00;1033,00;;;287845566,48 €;2012906,06 €
+2017;UR;01;Centro;015;Universidad;I;Industrial;41;1936,00;5602,00;137,00;;;8670113,39 €;211466,18 €
+2017;UR;01;Centro;015;Universidad;K;Deportivo;6;1967,00;1854,00;309,00;;;2361408,67 €;393568,11 €
+2017;UR;01;Centro;015;Universidad;M;Suelos sin edificar, obras de urbanización y jardinería;12;;;;3683,00;307,00;3792854,80 €;316071,23 €
+2017;UR;01;Centro;015;Universidad;O;Oficinas;705;1956,00;378398,00;537,00;;;694126531,62 €;984576,64 €
+2017;UR;01;Centro;015;Universidad;P;Edificio Singular;16;1954,00;156415,00;9776,00;;;224726000,25 €;14045375,02 €
+2017;UR;01;Centro;015;Universidad;R;Religioso;17;1905,00;97893,00;5758,00;;;85411630,91 €;5024213,58 €
+2017;UR;01;Centro;015;Universidad;T;Espectáculos;1;1900,00;159,00;159,00;;;215200,63 €;215200,63 €
+2017;UR;01;Centro;015;Universidad;V;Residencial;19891;1930,00;1803720,00;91,00;;;2503378442,70 €;125854,83 €
+2017;UR;01;Centro;015;Universidad;Y;Sanidad y Beneficencia;21;1927,00;14384,00;685,00;;;19362105,40 €;922005,02 €
+2017;UR;01;Centro;016;Sol;A;Almacén-Estacionamiento;820;1954,00;101565,00;124,00;;;66773593,87 €;81431,21 €
+2017;UR;01;Centro;016;Sol;C;Comercial;1282;1917,00;403406,00;315,00;;;1485008485,81 €;1158352,95 €
+2017;UR;01;Centro;016;Sol;E;Cultural;6;1921,00;24300,00;4050,00;;;33521809,29 €;5586968,22 €
+2017;UR;01;Centro;016;Sol;G;Ocio y Hostelería;220;1927,00;187295,00;851,00;;;348716389,03 €;1585074,50 €
+2017;UR;01;Centro;016;Sol;I;Industrial;6;1962,00;37,00;6,00;;;44470,82 €;7411,80 €
+2017;UR;01;Centro;016;Sol;K;Deportivo;1;1890,00;797,00;797,00;;;482127,30 €;482127,30 €
+2017;UR;01;Centro;016;Sol;M;Suelos sin edificar, obras de urbanización y jardinería;41;;;;35106,00;856,00;66687243,52 €;1626518,13 €
+2017;UR;01;Centro;016;Sol;O;Oficinas;933;1941,00;277420,00;297,00;;;501853527,37 €;537892,31 €
+2017;UR;01;Centro;016;Sol;P;Edificio Singular;11;1919,00;128597,00;11691,00;;;181020479,30 €;16456407,21 €
+2017;UR;01;Centro;016;Sol;R;Religioso;8;1817,00;18134,00;2267,00;;;16199466,05 €;2024933,26 €
+2017;UR;01;Centro;016;Sol;T;Espectáculos;7;1936,00;23348,00;3335,00;;;38110196,18 €;5444313,74 €
+2017;UR;01;Centro;016;Sol;V;Residencial;4521;1918,00;631380,00;140,00;;;913511211,42 €;202059,55 €
+2017;UR;01;Centro;016;Sol;Y;Sanidad y Beneficencia;2;1958,00;2629,00;1314,00;;;2176509,07 €;1088254,53 €
+2017;UR;02;Arganzuela;021;Imperial;A;Almacén-Estacionamiento;5054;1993,00;286600,00;57,00;;;128752613,19 €;25475,39 €
+2017;UR;02;Arganzuela;021;Imperial;C;Comercial;629;1967,00;90524,00;144,00;;;117546059,77 €;186877,68 €
+2017;UR;02;Arganzuela;021;Imperial;E;Cultural;9;1962,00;31548,00;3505,00;;;30015298,48 €;3335033,16 €
+2017;UR;02;Arganzuela;021;Imperial;G;Ocio y Hostelería;2;1992,00;20648,00;10324,00;;;35918543,78 €;17959271,89 €
+2017;UR;02;Arganzuela;021;Imperial;I;Industrial;36;1988,00;34173,00;949,00;;;28944078,45 €;804002,18 €
+2017;UR;02;Arganzuela;021;Imperial;K;Deportivo;8;1987,00;88053,00;11007,00;;;136097379,83 €;17012172,48 €
+2017;UR;02;Arganzuela;021;Imperial;M;Suelos sin edificar, obras de urbanización y jardinería;14;;;;135597,00;9686,00;82655270,40 €;5903947,89 €
+2017;UR;02;Arganzuela;021;Imperial;O;Oficinas;123;1975,00;64007,00;520,00;;;75632845,79 €;614901,19 €
+2017;UR;02;Arganzuela;021;Imperial;R;Religioso;1;1965,00;63,00;63,00;;;72920,38 €;72920,38 €
+2017;UR;02;Arganzuela;021;Imperial;T;Espectáculos;1;1965,00;2576,00;2576,00;;;3814484,87 €;3814484,87 €
+2017;UR;02;Arganzuela;021;Imperial;V;Residencial;10726;1971,00;995925,00;93,00;;;1291192523,54 €;120379,69 €
+2017;UR;02;Arganzuela;021;Imperial;Y;Sanidad y Beneficencia;5;1989,00;49821,00;9964,00;;;58048763,02 €;11609752,60 €
+2017;UR;02;Arganzuela;022;Acacias;A;Almacén-Estacionamiento;9353;1991,00;475510,00;51,00;;;223795743,88 €;23927,70 €
+2017;UR;02;Arganzuela;022;Acacias;C;Comercial;1205;1974,00;181732,00;151,00;;;252545927,30 €;209581,68 €
+2017;UR;02;Arganzuela;022;Acacias;E;Cultural;30;1980,00;28899,00;963,00;;;30523692,13 €;1017456,40 €
+2017;UR;02;Arganzuela;022;Acacias;G;Ocio y Hostelería;2;996,00;6640,00;3320,00;;;9885587,69 €;4942793,84 €
+2017;UR;02;Arganzuela;022;Acacias;I;Industrial;40;1977,00;19760,00;494,00;;;14278640,67 €;356966,02 €
+2017;UR;02;Arganzuela;022;Acacias;K;Deportivo;11;1989,00;18479,00;1680,00;;;8268625,98 €;751693,27 €
+2017;UR;02;Arganzuela;022;Acacias;M;Suelos sin edificar, obras de urbanización y jardinería;16;;;;202234,00;12640,00;10213819,00 €;638363,69 €
+2017;UR;02;Arganzuela;022;Acacias;O;Oficinas;166;1973,00;45839,00;276,00;;;56028265,81 €;337519,67 €
+2017;UR;02;Arganzuela;022;Acacias;P;Edificio Singular;8;1978,00;8201,00;1025,00;;;7871945,65 €;983993,21 €
+2017;UR;02;Arganzuela;022;Acacias;R;Religioso;4;1986,00;6554,00;1638,00;;;6954779,05 €;1738694,76 €
+2017;UR;02;Arganzuela;022;Acacias;V;Residencial;17524;1976,00;1648127,00;94,00;;;2083218643,90 €;118878,03 €
+2017;UR;02;Arganzuela;022;Acacias;Y;Sanidad y Beneficencia;4;1981,00;17073,00;4268,00;;;22545379,97 €;5636344,99 €
+2017;UR;02;Arganzuela;023;Chopera;A;Almacén-Estacionamiento;2211;1982,00;109200,00;49,00;;;46402159,42 €;20986,96 €
+2017;UR;02;Arganzuela;023;Chopera;C;Comercial;632;1955,00;86413,00;137,00;;;106281032,46 €;168166,19 €
+2017;UR;02;Arganzuela;023;Chopera;E;Cultural;26;1961,00;36288,00;1396,00;;;32088666,60 €;1234179,48 €
+2017;UR;02;Arganzuela;023;Chopera;G;Ocio y Hostelería;12;1933,00;10197,00;850,00;;;13320073,96 €;1110006,16 €
+2017;UR;02;Arganzuela;023;Chopera;I;Industrial;23;1955,00;47503,00;2065,00;;;28795627,33 €;1251983,80 €
+2017;UR;02;Arganzuela;023;Chopera;K;Deportivo;2;1966,00;360,00;180,00;;;367150,65 €;183575,32 €
+2017;UR;02;Arganzuela;023;Chopera;M;Suelos sin edificar, obras de urbanización y jardinería;2;;;;1168,00;584,00;58866,00 €;29433,00 €
+2017;UR;02;Arganzuela;023;Chopera;O;Oficinas;89;1960,00;18267,00;205,00;;;14677117,27 €;164911,43 €
+2017;UR;02;Arganzuela;023;Chopera;R;Religioso;2;1966,00;1488,00;744,00;;;1467492,45 €;733746,22 €
+2017;UR;02;Arganzuela;023;Chopera;V;Residencial;9463;1957,00;768856,00;81,00;;;905053502,55 €;95641,29 €
+2017;UR;02;Arganzuela;023;Chopera;Y;Sanidad y Beneficencia;10;1954,00;4303,00;430,00;;;5764630,78 €;576463,08 €
+2017;UR;02;Arganzuela;024;Legazpi;A;Almacén-Estacionamiento;7795;2003,00;284524,00;37,00;;;135612192,85 €;17397,33 €
+2017;UR;02;Arganzuela;024;Legazpi;C;Comercial;417;1988,00;65843,00;158,00;;;94822480,60 €;227392,04 €
+2017;UR;02;Arganzuela;024;Legazpi;E;Cultural;3;2001,00;12949,00;4316,00;;;14911905,66 €;4970635,22 €
+2017;UR;02;Arganzuela;024;Legazpi;I;Industrial;83;1976,00;78059,00;940,00;;;44350617,15 €;534344,78 €
+2017;UR;02;Arganzuela;024;Legazpi;K;Deportivo;3;2004,00;21663,00;7221,00;;;6044675,59 €;2014891,86 €
+2017;UR;02;Arganzuela;024;Legazpi;M;Suelos sin edificar, obras de urbanización y jardinería;48;;;;491370,00;10237,00;31562378,50 €;657549,55 €
+2017;UR;02;Arganzuela;024;Legazpi;O;Oficinas;204;1976,00;143899,00;705,00;;;200099206,03 €;980878,46 €
+2017;UR;02;Arganzuela;024;Legazpi;R;Religioso;1;2013,00;1556,00;1556,00;;;2292882,90 €;2292882,90 €
+2017;UR;02;Arganzuela;024;Legazpi;T;Espectáculos;2;1987,00;5237,00;2618,00;;;7077685,16 €;3538842,58 €
+2017;UR;02;Arganzuela;024;Legazpi;V;Residencial;8644;1997,00;911832,00;105,00;;;1294005146,30 €;149699,81 €
+2017;UR;02;Arganzuela;024;Legazpi;Y;Sanidad y Beneficencia;4;2006,00;26351,00;6588,00;;;35333246,43 €;8833311,61 €
+2017;UR;02;Arganzuela;025;Delicias;A;Almacén-Estacionamiento;6277;1996,00;271017,00;43,00;;;126404296,00 €;20137,69 €
+2017;UR;02;Arganzuela;025;Delicias;C;Comercial;710;1962,00;105655,00;149,00;;;135822912,08 €;191299,88 €
+2017;UR;02;Arganzuela;025;Delicias;E;Cultural;9;1972,00;61724,00;6858,00;;;59651168,92 €;6627907,66 €
+2017;UR;02;Arganzuela;025;Delicias;G;Ocio y Hostelería;5;1957,00;4262,00;852,00;;;7146628,46 €;1429325,69 €
+2017;UR;02;Arganzuela;025;Delicias;I;Industrial;32;1962,00;144274,00;4509,00;;;101217166,64 €;3163036,46 €
+2017;UR;02;Arganzuela;025;Delicias;K;Deportivo;4;1978,00;8128,00;2032,00;;;7148712,84 €;1787178,21 €
+2017;UR;02;Arganzuela;025;Delicias;M;Suelos sin edificar, obras de urbanización y jardinería;29;;;;46760,00;1612,00;47579951,00 €;1640687,97 €
+2017;UR;02;Arganzuela;025;Delicias;O;Oficinas;162;1975,00;265831,00;1641,00;;;375183850,70 €;2315949,70 €
+2017;UR;02;Arganzuela;025;Delicias;P;Edificio Singular;5;1941,00;40230,00;8046,00;;;39253400,24 €;7850680,05 €
+2017;UR;02;Arganzuela;025;Delicias;R;Religioso;1;1963,00;3151,00;3151,00;;;2768617,18 €;2768617,18 €
+2017;UR;02;Arganzuela;025;Delicias;V;Residencial;13217;1970,00;1229620,00;93,00;;;1523005110,45 €;115230,77 €
+2017;UR;02;Arganzuela;025;Delicias;Y;Sanidad y Beneficencia;5;1960,00;14215,00;2843,00;;;19984116,41 €;3996823,28 €
+2017;UR;02;Arganzuela;026;Palos de Moguer;A;Almacén-Estacionamiento;4685;1992,00;226007,00;48,00;;;102703300,88 €;21921,73 €
+2017;UR;02;Arganzuela;026;Palos de Moguer;C;Comercial;1050;1949,00;162522,00;155,00;;;198889638,17 €;189418,70 €
+2017;UR;02;Arganzuela;026;Palos de Moguer;E;Cultural;17;1965,00;93215,00;5483,00;;;87203678,64 €;5129628,16 €
+2017;UR;02;Arganzuela;026;Palos de Moguer;G;Ocio y Hostelería;19;1941,00;39642,00;2086,00;;;55446511,05 €;2918237,42 €
+2017;UR;02;Arganzuela;026;Palos de Moguer;I;Industrial;41;1967,00;64596,00;1576,00;;;58245761,97 €;1420628,34 €
+2017;UR;02;Arganzuela;026;Palos de Moguer;K;Deportivo;8;1957,00;15543,00;1943,00;;;19741919,06 €;2467739,88 €
+2017;UR;02;Arganzuela;026;Palos de Moguer;M;Suelos sin edificar, obras de urbanización y jardinería;32;;;;19241,00;601,00;9941384,72 €;310668,27 €
+2017;UR;02;Arganzuela;026;Palos de Moguer;O;Oficinas;318;1975,00;120747,00;380,00;;;147721745,49 €;464533,79 €
+2017;UR;02;Arganzuela;026;Palos de Moguer;P;Edificio Singular;5;1957,00;24961,00;4992,00;;;22668133,66 €;4533626,73 €
+2017;UR;02;Arganzuela;026;Palos de Moguer;R;Religioso;12;1956,00;7585,00;632,00;;;6793371,27 €;566114,27 €
+2017;UR;02;Arganzuela;026;Palos de Moguer;T;Espectáculos;3;1973,00;20467,00;6822,00;;;23731871,67 €;7910623,89 €
+2017;UR;02;Arganzuela;026;Palos de Moguer;V;Residencial;13372;1954,00;1158399,00;87,00;;;1361742516,93 €;101835,37 €
+2017;UR;02;Arganzuela;026;Palos de Moguer;Y;Sanidad y Beneficencia;2;1999,00;8736,00;4368,00;;;9394593,17 €;4697296,58 €
+2017;UR;02;Arganzuela;027;Atocha;A;Almacén-Estacionamiento;650;1997,00;49068,00;75,00;;;36436032,59 €;56055,43 €
+2017;UR;02;Arganzuela;027;Atocha;C;Comercial;19;1986,00;118829,00;6254,00;;;164983472,26 €;8683340,65 €
+2017;UR;02;Arganzuela;027;Atocha;E;Cultural;1;2013,00;7482,00;7482,00;;;5897608,50 €;5897608,50 €
+2017;UR;02;Arganzuela;027;Atocha;I;Industrial;20;1978,00;178431,00;8922,00;;;237789160,47 €;11889458,02 €
+2017;UR;02;Arganzuela;027;Atocha;M;Suelos sin edificar, obras de urbanización y jardinería;32;;;;122941,00;3842,00;202828460,50 €;6338389,39 €
+2017;UR;02;Arganzuela;027;Atocha;O;Oficinas;135;1993,00;116665,00;864,00;;;179032154,46 €;1326164,11 €
+2017;UR;02;Arganzuela;027;Atocha;T;Espectáculos;1;1997,00;18565,00;18565,00;;;22926445,56 €;22926445,56 €
+2017;UR;02;Arganzuela;027;Atocha;V;Residencial;457;1998,00;51044,00;112,00;;;77904953,38 €;170470,36 €
+2017;UR;03;Retiro;031;Pacífico;A;Almacén-Estacionamiento;6372;1987,00;352663,00;55,00;;;143454238,00 €;22513,22 €
+2017;UR;03;Retiro;031;Pacífico;C;Comercial;968;1960,00;168452,00;174,00;;;208047797,63 €;214925,41 €
+2017;UR;03;Retiro;031;Pacífico;E;Cultural;16;1954,00;41653,00;2603,00;;;35886592,83 €;2242912,05 €
+2017;UR;03;Retiro;031;Pacífico;G;Ocio y Hostelería;1;1994,00;1638,00;1638,00;;;2073396,78 €;2073396,78 €
+2017;UR;03;Retiro;031;Pacífico;I;Industrial;39;1967,00;15157,00;389,00;;;13076549,90 €;335296,15 €
+2017;UR;03;Retiro;031;Pacífico;K;Deportivo;5;1952,00;756,00;151,00;;;1119717,78 €;223943,56 €
+2017;UR;03;Retiro;031;Pacífico;M;Suelos sin edificar, obras de urbanización y jardinería;30;;;;50988,00;1700,00;73626552,30 €;2454218,41 €
+2017;UR;03;Retiro;031;Pacífico;O;Oficinas;363;1969,00;163184,00;450,00;;;201908106,37 €;556220,68 €
+2017;UR;03;Retiro;031;Pacífico;P;Edificio Singular;7;1957,00;23362,00;3337,00;;;19835276,82 €;2833610,97 €
+2017;UR;03;Retiro;031;Pacífico;R;Religioso;2;1971,00;6086,00;3043,00;;;7431195,05 €;3715597,52 €
+2017;UR;03;Retiro;031;Pacífico;V;Residencial;16740;1964,00;1598156,00;95,00;;;2053453142,95 €;122667,45 €
+2017;UR;03;Retiro;031;Pacífico;Y;Sanidad y Beneficencia;1;1955,00;152,00;152,00;;;154941,33 €;154941,33 €
+2017;UR;03;Retiro;032;Adelfas;A;Almacén-Estacionamiento;6113;1997,00;241277,00;39,00;;;110381145,06 €;18056,79 €
+2017;UR;03;Retiro;032;Adelfas;C;Comercial;320;1976,00;55624,00;174,00;;;73202991,27 €;228759,35 €
+2017;UR;03;Retiro;032;Adelfas;E;Cultural;6;1956,00;13220,00;2203,00;;;12258066,37 €;2043011,06 €
+2017;UR;03;Retiro;032;Adelfas;G;Ocio y Hostelería;8;1977,00;11658,00;1457,00;;;22808923,30 €;2851115,41 €
+2017;UR;03;Retiro;032;Adelfas;I;Industrial;285;1965,00;23336,00;82,00;;;17983802,11 €;63101,06 €
+2017;UR;03;Retiro;032;Adelfas;K;Deportivo;5;1989,00;10080,00;2016,00;;;7044437,13 €;1408887,43 €
+2017;UR;03;Retiro;032;Adelfas;M;Suelos sin edificar, obras de urbanización y jardinería;27;;;;39642,00;1468,00;29925397,40 €;1108348,05 €
+2017;UR;03;Retiro;032;Adelfas;O;Oficinas;144;1971,00;80880,00;562,00;;;101127032,18 €;702271,06 €
+2017;UR;03;Retiro;032;Adelfas;R;Religioso;1;1958,00;769,00;769,00;;;785379,70 €;785379,70 €
+2017;UR;03;Retiro;032;Adelfas;V;Residencial;8654;1983,00;864444,00;100,00;;;1185232256,14 €;136957,74 €
+2017;UR;03;Retiro;032;Adelfas;Y;Sanidad y Beneficencia;7;1988,00;33381,00;4769,00;;;31070514,02 €;4438644,86 €
+2017;UR;03;Retiro;033;Estrella;A;Almacén-Estacionamiento;5417;1986,00;281891,00;52,00;;;130612487,14 €;24111,59 €
+2017;UR;03;Retiro;033;Estrella;C;Comercial;316;1970,00;36557,00;116,00;;;48723664,34 €;154188,81 €
+2017;UR;03;Retiro;033;Estrella;E;Cultural;7;1975,00;38567,00;5510,00;;;39952808,68 €;5707544,10 €
+2017;UR;03;Retiro;033;Estrella;G;Ocio y Hostelería;7;1966,00;20811,00;2973,00;;;33386412,27 €;4769487,47 €
+2017;UR;03;Retiro;033;Estrella;I;Industrial;10;1974,00;9155,00;916,00;;;7969408,40 €;796940,84 €
+2017;UR;03;Retiro;033;Estrella;K;Deportivo;6;1974,00;31617,00;5270,00;;;32056029,30 €;5342671,55 €
+2017;UR;03;Retiro;033;Estrella;M;Suelos sin edificar, obras de urbanización y jardinería;10;;;;9465,00;946,00;8213244,00 €;821324,40 €
+2017;UR;03;Retiro;033;Estrella;O;Oficinas;251;1975,00;106913,00;426,00;;;163673525,62 €;652085,76 €
+2017;UR;03;Retiro;033;Estrella;R;Religioso;5;1970,00;5436,00;1087,00;;;6158703,20 €;1231740,64 €
+2017;UR;03;Retiro;033;Estrella;V;Residencial;9372;1973,00;1231513,00;131,00;;;1723042174,33 €;183850,00 €
+2017;UR;03;Retiro;033;Estrella;Y;Sanidad y Beneficencia;8;1975,00;44526,00;5566,00;;;50998186,29 €;6374773,29 €
+2017;UR;03;Retiro;034;Ibiza;A;Almacén-Estacionamiento;2091;1973,00;189267,00;91,00;;;148271457,64 €;70909,35 €
+2017;UR;03;Retiro;034;Ibiza;C;Comercial;812;1947,00;105679,00;130,00;;;193083168,79 €;237787,15 €
+2017;UR;03;Retiro;034;Ibiza;E;Cultural;4;1946,00;4402,00;1100,00;;;5768874,74 €;1442218,68 €
+2017;UR;03;Retiro;034;Ibiza;I;Industrial;25;1950,00;6756,00;270,00;;;8425076,39 €;337003,06 €
+2017;UR;03;Retiro;034;Ibiza;M;Suelos sin edificar, obras de urbanización y jardinería;17;;;;10111,00;595,00;3922766,08 €;230750,95 €
+2017;UR;03;Retiro;034;Ibiza;O;Oficinas;225;1963,00;49347,00;219,00;;;101862741,02 €;452723,29 €
+2017;UR;03;Retiro;034;Ibiza;P;Edificio Singular;1;1952,00;1648,00;1648,00;;;2026436,84 €;2026436,84 €
+2017;UR;03;Retiro;034;Ibiza;R;Religioso;5;1969,00;7356,00;1471,00;;;8585123,08 €;1717024,62 €
+2017;UR;03;Retiro;034;Ibiza;T;Espectáculos;1;1945,00;1289,00;1289,00;;;2402044,84 €;2402044,84 €
+2017;UR;03;Retiro;034;Ibiza;V;Residencial;10177;1948,00;1172352,00;115,00;;;1976824309,00 €;194244,31 €
+2017;UR;03;Retiro;034;Ibiza;Y;Sanidad y Beneficencia;7;1962,00;195145,00;27878,00;;;318713538,03 €;45530505,43 €
+2017;UR;03;Retiro;035;Jerónimos;A;Almacén-Estacionamiento;443;1950,00;73646,00;166,00;;;59379956,93 €;134040,53 €
+2017;UR;03;Retiro;035;Jerónimos;C;Comercial;192;1941,00;47462,00;247,00;;;88757481,97 €;462278,55 €
+2017;UR;03;Retiro;035;Jerónimos;E;Cultural;13;1970,00;115378,00;8875,00;;;207925647,17 €;15994280,55 €
+2017;UR;03;Retiro;035;Jerónimos;G;Ocio y Hostelería;24;1984,00;53717,00;2238,00;;;138862794,09 €;5785949,75 €
+2017;UR;03;Retiro;035;Jerónimos;I;Industrial;59;1965,00;65997,00;1119,00;;;69235421,87 €;1173481,73 €
+2017;UR;03;Retiro;035;Jerónimos;K;Deportivo;4;1984,00;12809,00;3202,00;;;13349104,63 €;3337276,16 €
+2017;UR;03;Retiro;035;Jerónimos;M;Suelos sin edificar, obras de urbanización y jardinería;17;;;;1141705,00;67159,00;32804696,58 €;1929688,03 €
+2017;UR;03;Retiro;035;Jerónimos;O;Oficinas;256;1946,00;228059,00;891,00;;;611588063,68 €;2389015,87 €
+2017;UR;03;Retiro;035;Jerónimos;P;Edificio Singular;21;1960,00;183133,00;8721,00;;;403015134,78 €;19191196,89 €
+2017;UR;03;Retiro;035;Jerónimos;T;Espectáculos;3;1985,00;5479,00;1826,00;;;8997786,61 €;2999262,20 €
+2017;UR;03;Retiro;035;Jerónimos;V;Residencial;3167;1950,00;611363,00;193,00;;;1342759495,44 €;423984,68 €
+2017;UR;03;Retiro;035;Jerónimos;Y;Sanidad y Beneficencia;1;1900,00;3087,00;3087,00;;;4874684,38 €;4874684,38 €
+2017;UR;03;Retiro;036;Niño Jesús;A;Almacén-Estacionamiento;1779;1984,00;196996,00;111,00;;;85906447,28 €;48289,18 €
+2017;UR;03;Retiro;036;Niño Jesús;C;Comercial;300;1967,00;96565,00;322,00;;;134408001,52 €;448026,67 €
+2017;UR;03;Retiro;036;Niño Jesús;E;Cultural;19;1945,00;22949,00;1208,00;;;34565366,96 €;1819229,84 €
+2017;UR;03;Retiro;036;Niño Jesús;G;Ocio y Hostelería;1;2013,00;48,00;48,00;;;932232,00 €;932232,00 €
+2017;UR;03;Retiro;036;Niño Jesús;I;Industrial;7;1976,00;625,00;89,00;;;430511,03 €;61501,58 €
+2017;UR;03;Retiro;036;Niño Jesús;K;Deportivo;10;1974,00;2908,00;291,00;;;2212566,98 €;221256,70 €
+2017;UR;03;Retiro;036;Niño Jesús;M;Suelos sin edificar, obras de urbanización y jardinería;4;;;;7674,00;1918,00;1945350,00 €;486337,50 €
+2017;UR;03;Retiro;036;Niño Jesús;O;Oficinas;261;1969,00;95351,00;365,00;;;150313673,27 €;575914,46 €
+2017;UR;03;Retiro;036;Niño Jesús;R;Religioso;6;1981,00;7914,00;1319,00;;;10890195,84 €;1815032,64 €
+2017;UR;03;Retiro;036;Niño Jesús;V;Residencial;6255;1968,00;895925,00;143,00;;;1568605702,93 €;250776,29 €
+2017;UR;03;Retiro;036;Niño Jesús;Y;Sanidad y Beneficencia;17;1961,00;45240,00;2661,00;;;58079735,21 €;3416455,01 €
+2017;UR;04;Salamanca;041;Recoletos;A;Almacén-Estacionamiento;4393;1974,00;378891,00;86,00;;;355875747,62 €;81009,73 €
+2017;UR;04;Salamanca;041;Recoletos;C;Comercial;1275;1941,00;331343,00;260,00;;;1125612922,99 €;882833,67 €
+2017;UR;04;Salamanca;041;Recoletos;E;Cultural;28;1935,00;90637,00;3237,00;;;170444787,24 €;6087313,83 €
+2017;UR;04;Salamanca;041;Recoletos;G;Ocio y Hostelería;28;1974,00;112433,00;4015,00;;;277570838,81 €;9913244,24 €
+2017;UR;04;Salamanca;041;Recoletos;I;Industrial;30;1955,00;11288,00;376,00;;;11325282,65 €;377509,42 €
+2017;UR;04;Salamanca;041;Recoletos;K;Deportivo;5;1969,00;31320,00;6264,00;;;38749315,22 €;7749863,04 €
+2017;UR;04;Salamanca;041;Recoletos;M;Suelos sin edificar, obras de urbanización y jardinería;6;;;;19313,00;3219,00;1542295,03 €;257049,17 €
+2017;UR;04;Salamanca;041;Recoletos;O;Oficinas;969;1958,00;575107,00;594,00;;;1498866288,60 €;1546817,64 €
+2017;UR;04;Salamanca;041;Recoletos;P;Edificio Singular;6;1952,00;28297,00;4716,00;;;52747491,94 €;8791248,66 €
+2017;UR;04;Salamanca;041;Recoletos;R;Religioso;9;1939,00;19270,00;2141,00;;;25219076,41 €;2802119,60 €
+2017;UR;04;Salamanca;041;Recoletos;T;Espectáculos;3;1977,00;13188,00;4396,00;;;38925514,81 €;12975171,60 €
+2017;UR;04;Salamanca;041;Recoletos;V;Residencial;8683;1947,00;1703601,00;196,00;;;3508955260,10 €;404117,85 €
+2017;UR;04;Salamanca;041;Recoletos;Y;Sanidad y Beneficencia;2;1935,00;497,00;248,00;;;966929,85 €;483464,92 €
+2017;UR;04;Salamanca;042;Goya;A;Almacén-Estacionamiento;4376;1982,00;300249,00;69,00;;;236251292,48 €;53987,96 €
+2017;UR;04;Salamanca;042;Goya;C;Comercial;1531;1941,00;340668,00;223,00;;;886774212,39 €;579212,42 €
+2017;UR;04;Salamanca;042;Goya;E;Cultural;23;1959,00;36195,00;1574,00;;;44669635,98 €;1942158,09 €
+2017;UR;04;Salamanca;042;Goya;G;Ocio y Hostelería;19;1946,00;75397,00;3968,00;;;180165337,89 €;9482386,20 €
+2017;UR;04;Salamanca;042;Goya;I;Industrial;26;1958,00;92840,00;3571,00;;;102940302,89 €;3959242,42 €
+2017;UR;04;Salamanca;042;Goya;K;Deportivo;7;1979,00;112768,00;16110,00;;;204361698,54 €;29194528,36 €
+2017;UR;04;Salamanca;042;Goya;M;Suelos sin edificar, obras de urbanización y jardinería;4;;;;2027,00;507,00;3341602,50 €;835400,62 €
+2017;UR;04;Salamanca;042;Goya;O;Oficinas;600;1964,00;202798,00;338,00;;;348841999,49 €;581403,33 €
+2017;UR;04;Salamanca;042;Goya;P;Edificio Singular;1;1974,00;1538,00;1538,00;;;1995801,08 €;1995801,08 €
+2017;UR;04;Salamanca;042;Goya;R;Religioso;3;1949,00;4697,00;1566,00;;;6336562,38 €;2112187,46 €
+2017;UR;04;Salamanca;042;Goya;T;Espectáculos;1;2003,00;4902,00;4902,00;;;9833706,12 €;9833706,12 €
+2017;UR;04;Salamanca;042;Goya;V;Residencial;16196;1944,00;1878534,00;116,00;;;3141160632,00 €;193946,69 €
+2017;UR;04;Salamanca;042;Goya;Y;Sanidad y Beneficencia;9;1958,00;50260,00;5584,00;;;88430630,26 €;9825625,58 €
+2017;UR;04;Salamanca;043;Fuente del Berro;A;Almacén-Estacionamiento;3355;1987,00;178580,00;53,00;;;92005693,46 €;27423,46 €
+2017;UR;04;Salamanca;043;Fuente del Berro;C;Comercial;680;1956,00;99838,00;147,00;;;135513946,41 €;199285,22 €
+2017;UR;04;Salamanca;043;Fuente del Berro;E;Cultural;24;1958,00;38294,00;1596,00;;;37197420,26 €;1549892,51 €
+2017;UR;04;Salamanca;043;Fuente del Berro;G;Ocio y Hostelería;2;1982,00;1581,00;790,00;;;2397903,95 €;1198951,98 €
+2017;UR;04;Salamanca;043;Fuente del Berro;I;Industrial;72;1958,00;35716,00;496,00;;;36285747,17 €;503968,71 €
+2017;UR;04;Salamanca;043;Fuente del Berro;K;Deportivo;6;1986,00;28704,00;4784,00;;;13535583,06 €;2255930,51 €
+2017;UR;04;Salamanca;043;Fuente del Berro;M;Suelos sin edificar, obras de urbanización y jardinería;15;;;;7288,00;486,00;9217129,20 €;614475,28 €
+2017;UR;04;Salamanca;043;Fuente del Berro;O;Oficinas;249;1967,00;88721,00;356,00;;;108451532,89 €;435548,32 €
+2017;UR;04;Salamanca;043;Fuente del Berro;P;Edificio Singular;1;1985,00;72857,00;72857,00;;;84394684,80 €;84394684,80 €
+2017;UR;04;Salamanca;043;Fuente del Berro;R;Religioso;20;1969,00;6066,00;303,00;;;6151218,07 €;307560,90 €
+2017;UR;04;Salamanca;043;Fuente del Berro;T;Espectáculos;1;1960,00;1271,00;1271,00;;;1880380,95 €;1880380,95 €
+2017;UR;04;Salamanca;043;Fuente del Berro;V;Residencial;10490;1958,00;1027412,00;98,00;;;1420130372,52 €;135379,44 €
+2017;UR;04;Salamanca;043;Fuente del Berro;Y;Sanidad y Beneficencia;9;1948,00;27594,00;3066,00;;;29081488,13 €;3231276,46 €
+2017;UR;04;Salamanca;044;Guindalera;A;Almacén-Estacionamiento;8128;1988,00;428696,00;53,00;;;198256191,10 €;24391,76 €
+2017;UR;04;Salamanca;044;Guindalera;C;Comercial;1493;1960,00;213803,00;143,00;;;296382573,98 €;198514,78 €
+2017;UR;04;Salamanca;044;Guindalera;E;Cultural;33;1960,00;68729,00;2083,00;;;74980250,90 €;2272128,82 €
+2017;UR;04;Salamanca;044;Guindalera;G;Ocio y Hostelería;13;2001,00;40585,00;3122,00;;;69629271,19 €;5356097,78 €
+2017;UR;04;Salamanca;044;Guindalera;I;Industrial;126;1962,00;38039,00;302,00;;;28614869,42 €;227102,14 €
+2017;UR;04;Salamanca;044;Guindalera;K;Deportivo;24;1974,00;104485,00;4354,00;;;116151881,15 €;4839661,71 €
+2017;UR;04;Salamanca;044;Guindalera;M;Suelos sin edificar, obras de urbanización y jardinería;52;;;;83292,00;1602,00;27245697,12 €;523955,71 €
+2017;UR;04;Salamanca;044;Guindalera;O;Oficinas;551;1971,00;215606,00;391,00;;;285421013,24 €;518005,47 €
+2017;UR;04;Salamanca;044;Guindalera;P;Edificio Singular;1;1990,00;3224,00;3224,00;;;3875779,60 €;3875779,60 €
+2017;UR;04;Salamanca;044;Guindalera;R;Religioso;8;1964,00;7794,00;974,00;;;9293254,05 €;1161656,76 €
+2017;UR;04;Salamanca;044;Guindalera;T;Espectáculos;2;1976,00;7073,00;3536,00;;;10151151,89 €;5075575,94 €
+2017;UR;04;Salamanca;044;Guindalera;V;Residencial;20245;1966,00;2165419,00;107,00;;;2980276435,32 €;147210,49 €
+2017;UR;04;Salamanca;044;Guindalera;Y;Sanidad y Beneficencia;13;1968,00;29660,00;2282,00;;;39009021,26 €;3000693,94 €
+2017;UR;04;Salamanca;045;Lista;A;Almacén-Estacionamiento;3415;1981,00;215649,00;63,00;;;175536397,58 €;51401,58 €
+2017;UR;04;Salamanca;045;Lista;C;Comercial;878;1947,00;145966,00;166,00;;;298149031,17 €;339577,48 €
+2017;UR;04;Salamanca;045;Lista;E;Cultural;9;1962,00;9991,00;1110,00;;;12015638,90 €;1335070,99 €
+2017;UR;04;Salamanca;045;Lista;G;Ocio y Hostelería;72;1995,00;22734,00;316,00;;;51508883,69 €;715401,16 €
+2017;UR;04;Salamanca;045;Lista;I;Industrial;12;1975,00;50097,00;4175,00;;;52506856,21 €;4375571,35 €
+2017;UR;04;Salamanca;045;Lista;K;Deportivo;5;1975,00;9124,00;1825,00;;;10737568,69 €;2147513,74 €
+2017;UR;04;Salamanca;045;Lista;M;Suelos sin edificar, obras de urbanización y jardinería;4;;;;5591,00;1398,00;1514900,20 €;378725,05 €
+2017;UR;04;Salamanca;045;Lista;O;Oficinas;376;1965,00;155711,00;414,00;;;298699585,39 €;794413,79 €
+2017;UR;04;Salamanca;045;Lista;P;Edificio Singular;4;1944,00;69594,00;17398,00;;;102945929,53 €;25736482,38 €
+2017;UR;04;Salamanca;045;Lista;R;Religioso;1;1955,00;5275,00;5275,00;;;6974886,16 €;6974886,16 €
+2017;UR;04;Salamanca;045;Lista;T;Espectáculos;1;1950,00;2199,00;2199,00;;;2374616,54 €;2374616,54 €
+2017;UR;04;Salamanca;045;Lista;V;Residencial;10904;1950,00;1282250,00;118,00;;;2093207915,03 €;191966,98 €
+2017;UR;04;Salamanca;045;Lista;Y;Sanidad y Beneficencia;12;1948,00;105548,00;8796,00;;;142631496,74 €;11885958,06 €
+2017;UR;04;Salamanca;046;Castellana;A;Almacén-Estacionamiento;4072;1977,00;368789,00;91,00;;;334288316,24 €;82094,38 €
+2017;UR;04;Salamanca;046;Castellana;C;Comercial;824;1947,00;222583,00;270,00;;;699582940,03 €;849008,42 €
+2017;UR;04;Salamanca;046;Castellana;E;Cultural;10;1954,00;58813,00;5881,00;;;88487481,00 €;8848748,10 €
+2017;UR;04;Salamanca;046;Castellana;G;Ocio y Hostelería;20;1977,00;71357,00;3568,00;;;181570809,19 €;9078540,46 €
+2017;UR;04;Salamanca;046;Castellana;I;Industrial;39;1974,00;8343,00;214,00;;;8506997,88 €;218128,15 €
+2017;UR;04;Salamanca;046;Castellana;K;Deportivo;10;1979,00;6987,00;699,00;;;19708856,40 €;1970885,64 €
+2017;UR;04;Salamanca;046;Castellana;M;Suelos sin edificar, obras de urbanización y jardinería;127;;;;145859,00;1148,00;34597320,70 €;272419,85 €
+2017;UR;04;Salamanca;046;Castellana;O;Oficinas;734;1965,00;631408,00;860,00;;;1633790453,65 €;2225872,55 €
+2017;UR;04;Salamanca;046;Castellana;P;Edificio Singular;7;1963,00;39057,00;5580,00;;;88198823,70 €;12599831,96 €
+2017;UR;04;Salamanca;046;Castellana;R;Religioso;10;1948,00;15230,00;1523,00;;;18041907,65 €;1804190,76 €
+2017;UR;04;Salamanca;046;Castellana;T;Espectáculos;1;2002,00;958,00;958,00;;;1670900,50 €;1670900,50 €
+2017;UR;04;Salamanca;046;Castellana;V;Residencial;8335;1951,00;1465448,00;176,00;;;2926040543,97 €;351054,65 €
+2017;UR;04;Salamanca;046;Castellana;Y;Sanidad y Beneficencia;10;1952,00;42474,00;4247,00;;;71990517,52 €;7199051,75 €
+2017;UR;05;Chamartín;051;El Viso;A;Almacén-Estacionamiento;2609;1935,00;165576,00;63,00;;;114382878,92 €;43841,66 €
+2017;UR;05;Chamartín;051;El Viso;C;Comercial;616;1962,00;100631,00;163,00;;;235221733,81 €;381853,46 €
+2017;UR;05;Chamartín;051;El Viso;E;Cultural;72;1957,00;253418,00;3520,00;;;368302502,55 €;5115312,54 €
+2017;UR;05;Chamartín;051;El Viso;G;Ocio y Hostelería;7;1676,00;9552,00;1365,00;;;20367844,85 €;2909692,12 €
+2017;UR;05;Chamartín;051;El Viso;I;Industrial;31;1968,00;12081,00;390,00;;;13419845,20 €;432898,23 €
+2017;UR;05;Chamartín;051;El Viso;K;Deportivo;7;1971,00;2851,00;407,00;;;5252998,49 €;750428,36 €
+2017;UR;05;Chamartín;051;El Viso;M;Suelos sin edificar, obras de urbanización y jardinería;32;;;;29653,00;927,00;23109857,21 €;722183,04 €
+2017;UR;05;Chamartín;051;El Viso;O;Oficinas;706;1968,00;458479,00;649,00;;;975789137,49 €;1382137,59 €
+2017;UR;05;Chamartín;051;El Viso;P;Edificio Singular;18;1967,00;104019,00;5779,00;;;179789067,85 €;9988281,55 €
+2017;UR;05;Chamartín;051;El Viso;R;Religioso;7;1956,00;14661,00;2094,00;;;22712418,83 €;3244631,26 €
+2017;UR;05;Chamartín;051;El Viso;V;Residencial;7168;1966,00;1482497,00;207,00;;;3026139195,84 €;422173,44 €
+2017;UR;05;Chamartín;051;El Viso;Y;Sanidad y Beneficencia;20;1967,00;35399,00;1770,00;;;54496030,11 €;2724801,51 €
+2017;UR;05;Chamartín;052;Prosperidad;A;Almacén-Estacionamiento;7446;1982,00;430841,00;58,00;;;216014998,78 €;29010,88 €
+2017;UR;05;Chamartín;052;Prosperidad;C;Comercial;1164;1968,00;200136,00;172,00;;;289461040,58 €;248677,87 €
+2017;UR;05;Chamartín;052;Prosperidad;E;Cultural;12;1964,00;44855,00;3738,00;;;48783288,05 €;4065274,00 €
+2017;UR;05;Chamartín;052;Prosperidad;G;Ocio y Hostelería;88;1994,00;26810,00;305,00;;;68713127,48 €;780830,99 €
+2017;UR;05;Chamartín;052;Prosperidad;I;Industrial;101;1967,00;30983,00;307,00;;;28356920,42 €;280761,59 €
+2017;UR;05;Chamartín;052;Prosperidad;K;Deportivo;11;1978,00;7855,00;714,00;;;6497604,61 €;590691,33 €
+2017;UR;05;Chamartín;052;Prosperidad;M;Suelos sin edificar, obras de urbanización y jardinería;21;;;;53153,00;2531,00;11396730,50 €;542701,45 €
+2017;UR;05;Chamartín;052;Prosperidad;O;Oficinas;446;1972,00;238403,00;535,00;;;327052920,29 €;733302,51 €
+2017;UR;05;Chamartín;052;Prosperidad;P;Edificio Singular;3;1989,00;20837,00;6946,00;;;21295308,97 €;7098436,32 €
+2017;UR;05;Chamartín;052;Prosperidad;R;Religioso;2;1940,00;3485,00;1742,00;;;2931780,64 €;1465890,32 €
+2017;UR;05;Chamartín;052;Prosperidad;V;Residencial;18476;1970,00;1739966,00;94,00;;;2428218737,25 €;131425,56 €
+2017;UR;05;Chamartín;052;Prosperidad;Y;Sanidad y Beneficencia;7;1979,00;13693,00;1956,00;;;19800920,15 €;2828702,88 €
+2017;UR;05;Chamartín;053;Ciudad Jardín;A;Almacén-Estacionamiento;3470;1991,00;203226,00;59,00;;;98617676,09 €;28420,08 €
+2017;UR;05;Chamartín;053;Ciudad Jardín;C;Comercial;816;1966,00;115107,00;141,00;;;169738835,63 €;208013,28 €
+2017;UR;05;Chamartín;053;Ciudad Jardín;E;Cultural;14;1958,00;46876,00;3348,00;;;54819620,33 €;3915687,17 €
+2017;UR;05;Chamartín;053;Ciudad Jardín;G;Ocio y Hostelería;129;1996,00;17082,00;132,00;;;25461042,66 €;197372,42 €
+2017;UR;05;Chamartín;053;Ciudad Jardín;I;Industrial;142;1969,00;84683,00;596,00;;;86046504,37 €;605961,30 €
+2017;UR;05;Chamartín;053;Ciudad Jardín;K;Deportivo;6;1976,00;8525,00;1421,00;;;9425966,90 €;1570994,48 €
+2017;UR;05;Chamartín;053;Ciudad Jardín;M;Suelos sin edificar, obras de urbanización y jardinería;18;;;;18020,00;1001,00;9050843,50 €;502824,64 €
+2017;UR;05;Chamartín;053;Ciudad Jardín;O;Oficinas;260;1979,00;160998,00;619,00;;;232310910,94 €;893503,50 €
+2017;UR;05;Chamartín;053;Ciudad Jardín;P;Edificio Singular;3;1973,00;16599,00;5533,00;;;19558487,17 €;6519495,72 €
+2017;UR;05;Chamartín;053;Ciudad Jardín;R;Religioso;3;1964,00;7906,00;2635,00;;;7425750,75 €;2475250,25 €
+2017;UR;05;Chamartín;053;Ciudad Jardín;T;Espectáculos;3;1983,00;28606,00;9535,00;;;50029703,62 €;16676567,87 €
+2017;UR;05;Chamartín;053;Ciudad Jardín;V;Residencial;8909;1967,00;887324,00;100,00;;;1265826827,51 €;142084,05 €
+2017;UR;05;Chamartín;053;Ciudad Jardín;Y;Sanidad y Beneficencia;8;1971,00;14748,00;1844,00;;;21151066,23 €;2643883,28 €
+2017;UR;05;Chamartín;054;Hispanoamérica;A;Almacén-Estacionamiento;6108;1984,00;303951,00;50,00;;;180715205,57 €;29586,64 €
+2017;UR;05;Chamartín;054;Hispanoamérica;C;Comercial;1182;1967,00;188678,00;160,00;;;347852576,58 €;294291,52 €
+2017;UR;05;Chamartín;054;Hispanoamérica;E;Cultural;30;1968,00;120933,00;4031,00;;;152772612,09 €;5092420,40 €
+2017;UR;05;Chamartín;054;Hispanoamérica;G;Ocio y Hostelería;12;1973,00;55185,00;4599,00;;;117912579,41 €;9826048,28 €
+2017;UR;05;Chamartín;054;Hispanoamérica;I;Industrial;19;1975,00;14372,00;756,00;;;15709140,11 €;826796,85 €
+2017;UR;05;Chamartín;054;Hispanoamérica;K;Deportivo;22;1971,00;124464,00;5657,00;;;191957894,16 €;8725358,83 €
+2017;UR;05;Chamartín;054;Hispanoamérica;M;Suelos sin edificar, obras de urbanización y jardinería;62;;;;109289,00;1763,00;11988031,70 €;193355,35 €
+2017;UR;05;Chamartín;054;Hispanoamérica;O;Oficinas;615;1970,00;238622,00;388,00;;;440580678,21 €;716391,35 €
+2017;UR;05;Chamartín;054;Hispanoamérica;P;Edificio Singular;7;1982,00;212896,00;30414,00;;;318701345,92 €;45528763,70 €
+2017;UR;05;Chamartín;054;Hispanoamérica;R;Religioso;10;1969,00;15823,00;1582,00;;;18594288,79 €;1859428,88 €
+2017;UR;05;Chamartín;054;Hispanoamérica;V;Residencial;13942;1968,00;1826716,00;131,00;;;2977648676,58 €;213574,00 €
+2017;UR;05;Chamartín;054;Hispanoamérica;Y;Sanidad y Beneficencia;18;1967,00;74009,00;4112,00;;;91327144,51 €;5073730,25 €
+2017;UR;05;Chamartín;055;Nueva España;A;Almacén-Estacionamiento;4048;1982,00;294086,00;73,00;;;181051187,14 €;44726,08 €
+2017;UR;05;Chamartín;055;Nueva España;C;Comercial;623;1969,00;121406,00;195,00;;;254000524,58 €;407705,50 €
+2017;UR;05;Chamartín;055;Nueva España;E;Cultural;36;1968,00;145254,00;4035,00;;;175947763,45 €;4887437,87 €
+2017;UR;05;Chamartín;055;Nueva España;G;Ocio y Hostelería;8;1739,00;5706,00;713,00;;;13107057,99 €;1638382,25 €
+2017;UR;05;Chamartín;055;Nueva España;I;Industrial;26;1972,00;45396,00;1746,00;;;48809171,58 €;1877275,83 €
+2017;UR;05;Chamartín;055;Nueva España;K;Deportivo;19;1985,00;58837,00;3097,00;;;59647086,23 €;3139320,33 €
+2017;UR;05;Chamartín;055;Nueva España;M;Suelos sin edificar, obras de urbanización y jardinería;49;;;;98698,00;2014,00;56594320,11 €;1154986,12 €
+2017;UR;05;Chamartín;055;Nueva España;O;Oficinas;644;1971,00;263432,00;409,00;;;487043498,54 €;756278,72 €
+2017;UR;05;Chamartín;055;Nueva España;P;Edificio Singular;10;1966,00;15399,00;1540,00;;;23482736,00 €;2348273,60 €
+2017;UR;05;Chamartín;055;Nueva España;R;Religioso;8;1958,00;14172,00;1772,00;;;18824631,70 €;2353078,96 €
+2017;UR;05;Chamartín;055;Nueva España;V;Residencial;10516;1971,00;1684982,00;160,00;;;2865775389,86 €;272515,73 €
+2017;UR;05;Chamartín;055;Nueva España;Y;Sanidad y Beneficencia;12;1980,00;19318,00;1610,00;;;31257817,28 €;2604818,11 €
+2017;UR;05;Chamartín;056;Castilla;A;Almacén-Estacionamiento;5607;1984,00;357818,00;64,00;;;227808729,89 €;40629,34 €
+2017;UR;05;Chamartín;056;Castilla;C;Comercial;317;1971,00;132251,00;417,00;;;167416090,83 €;528126,47 €
+2017;UR;05;Chamartín;056;Castilla;E;Cultural;11;1978,00;61919,00;5629,00;;;61045988,64 €;5549635,33 €
+2017;UR;05;Chamartín;056;Castilla;G;Ocio y Hostelería;13;1973,00;47273,00;3636,00;;;60228414,00 €;4632954,92 €
+2017;UR;05;Chamartín;056;Castilla;I;Industrial;12;1982,00;184212,00;15351,00;;;65562381,81 €;5463531,82 €
+2017;UR;05;Chamartín;056;Castilla;K;Deportivo;9;1979,00;18461,00;2051,00;;;14278428,56 €;1586492,06 €
+2017;UR;05;Chamartín;056;Castilla;M;Suelos sin edificar, obras de urbanización y jardinería;279;;;;412488,00;1478,00;116844048,86 €;418795,87 €
+2017;UR;05;Chamartín;056;Castilla;O;Oficinas;449;1981,00;660344,00;1471,00;;;882520715,83 €;1965524,98 €
+2017;UR;05;Chamartín;056;Castilla;P;Edificio Singular;1;1970,00;23514,00;23514,00;;;23669066,84 €;23669066,84 €
+2017;UR;05;Chamartín;056;Castilla;R;Religioso;4;1951,00;9469,00;2367,00;;;8344205,43 €;2086051,36 €
+2017;UR;05;Chamartín;056;Castilla;V;Residencial;7858;1974,00;926727,00;118,00;;;1231260656,83 €;156688,81 €
+2017;UR;05;Chamartín;056;Castilla;Y;Sanidad y Beneficencia;4;1976,00;4351,00;1088,00;;;4440089,94 €;1110022,49 €
+2017;UR;06;Tetuán;061;Bellas Vistas;A;Almacén-Estacionamiento;4294;1990,00;217693,00;51,00;;;108120652,73 €;25179,47 €
+2017;UR;06;Tetuán;061;Bellas Vistas;C;Comercial;1074;1955,00;134220,00;125,00;;;184168991,28 €;171479,51 €
+2017;UR;06;Tetuán;061;Bellas Vistas;E;Cultural;18;1964,00;17800,00;989,00;;;19096519,08 €;1060917,73 €
+2017;UR;06;Tetuán;061;Bellas Vistas;G;Ocio y Hostelería;12;1947,00;12478,00;1040,00;;;19276441,24 €;1606370,10 €
+2017;UR;06;Tetuán;061;Bellas Vistas;I;Industrial;97;1963,00;30572,00;315,00;;;22816026,86 €;235216,77 €
+2017;UR;06;Tetuán;061;Bellas Vistas;K;Deportivo;7;1979,00;2176,00;311,00;;;2061062,76 €;294437,54 €
+2017;UR;06;Tetuán;061;Bellas Vistas;M;Suelos sin edificar, obras de urbanización y jardinería;53;;;;26213,00;495,00;21501302,32 €;405684,95 €
+2017;UR;06;Tetuán;061;Bellas Vistas;O;Oficinas;206;1971,00;43426,00;211,00;;;55937669,99 €;271542,09 €
+2017;UR;06;Tetuán;061;Bellas Vistas;R;Religioso;7;1971,00;5093,00;728,00;;;4678833,34 €;668404,76 €
+2017;UR;06;Tetuán;061;Bellas Vistas;V;Residencial;13583;1960,00;1105438,00;81,00;;;1288650950,28 €;94872,34 €
+2017;UR;06;Tetuán;061;Bellas Vistas;Y;Sanidad y Beneficencia;11;1974,00;29930,00;2721,00;;;34528234,81 €;3138930,44 €
+2017;UR;06;Tetuán;062;Cuatro Caminos;A;Almacén-Estacionamiento;7578;1976,00;567177,00;75,00;;;307569117,43 €;40587,11 €
+2017;UR;06;Tetuán;062;Cuatro Caminos;C;Comercial;1545;1962,00;437751,00;283,00;;;1065621533,94 €;689722,68 €
+2017;UR;06;Tetuán;062;Cuatro Caminos;E;Cultural;24;1964,00;47033,00;1960,00;;;48694613,48 €;2028942,23 €
+2017;UR;06;Tetuán;062;Cuatro Caminos;G;Ocio y Hostelería;566;1984,00;77202,00;136,00;;;146135842,15 €;258190,53 €
+2017;UR;06;Tetuán;062;Cuatro Caminos;I;Industrial;148;1964,00;80610,00;545,00;;;67800855,23 €;458113,89 €
+2017;UR;06;Tetuán;062;Cuatro Caminos;K;Deportivo;15;1967,00;6196,00;413,00;;;8444490,51 €;562966,03 €
+2017;UR;06;Tetuán;062;Cuatro Caminos;M;Suelos sin edificar, obras de urbanización y jardinería;30;;;;30033,00;1001,00;19777261,59 €;659242,05 €
+2017;UR;06;Tetuán;062;Cuatro Caminos;O;Oficinas;1256;1976,00;958538,00;763,00;;;1978309886,76 €;1575087,49 €
+2017;UR;06;Tetuán;062;Cuatro Caminos;P;Edificio Singular;2;1968,00;62679,00;31340,00;;;101862275,66 €;50931137,83 €
+2017;UR;06;Tetuán;062;Cuatro Caminos;R;Religioso;8;1964,00;15180,00;1898,00;;;19897467,21 €;2487183,40 €
+2017;UR;06;Tetuán;062;Cuatro Caminos;T;Espectáculos;5;1966,00;10389,00;2078,00;;;13232110,19 €;2646422,04 €
+2017;UR;06;Tetuán;062;Cuatro Caminos;V;Residencial;17930;1961,00;1859143,00;104,00;;;2589030716,31 €;144396,58 €
+2017;UR;06;Tetuán;062;Cuatro Caminos;Y;Sanidad y Beneficencia;13;1952,00;5666,00;436,00;;;7667236,44 €;589787,42 €
+2017;UR;06;Tetuán;063;Castillejos;A;Almacén-Estacionamiento;6115;1978,00;410194,00;67,00;;;200496618,14 €;32787,67 €
+2017;UR;06;Tetuán;063;Castillejos;C;Comercial;850;1969,00;141119,00;166,00;;;238368924,86 €;280434,03 €
+2017;UR;06;Tetuán;063;Castillejos;E;Cultural;9;1963,00;21710,00;2412,00;;;21739720,08 €;2415524,45 €
+2017;UR;06;Tetuán;063;Castillejos;G;Ocio y Hostelería;1009;1973,00;104400,00;103,00;;;191145678,87 €;189440,71 €
+2017;UR;06;Tetuán;063;Castillejos;I;Industrial;95;1965,00;25172,00;265,00;;;19460464,21 €;204846,99 €
+2017;UR;06;Tetuán;063;Castillejos;K;Deportivo;5;1956,00;7381,00;1476,00;;;9311697,25 €;1862339,45 €
+2017;UR;06;Tetuán;063;Castillejos;M;Suelos sin edificar, obras de urbanización y jardinería;15;;;;5180,00;345,00;5184172,19 €;345611,48 €
+2017;UR;06;Tetuán;063;Castillejos;O;Oficinas;809;1974,00;414181,00;512,00;;;710368509,13 €;878082,21 €
+2017;UR;06;Tetuán;063;Castillejos;P;Edificio Singular;5;1982,00;116312,00;23262,00;;;197755539,41 €;39551107,88 €
+2017;UR;06;Tetuán;063;Castillejos;R;Religioso;2;1980,00;3573,00;1786,00;;;4121705,00 €;2060852,50 €
+2017;UR;06;Tetuán;063;Castillejos;V;Residencial;11878;1969,00;1309850,00;110,00;;;1826910907,06 €;153806,27 €
+2017;UR;06;Tetuán;063;Castillejos;Y;Sanidad y Beneficencia;4;1970,00;779,00;195,00;;;1139705,11 €;284926,28 €
+2017;UR;06;Tetuán;064;Almenara;A;Almacén-Estacionamiento;6143;1992,00;237733,00;39,00;;;88714963,21 €;14441,63 €
+2017;UR;06;Tetuán;064;Almenara;C;Comercial;936;1980,00;142672,00;152,00;;;183709644,59 €;196270,99 €
+2017;UR;06;Tetuán;064;Almenara;E;Cultural;10;1971,00;57093,00;5709,00;;;46447332,30 €;4644733,23 €
+2017;UR;06;Tetuán;064;Almenara;G;Ocio y Hostelería;2;1990,00;3309,00;1654,00;;;2994551,77 €;1497275,88 €
+2017;UR;06;Tetuán;064;Almenara;I;Industrial;66;1972,00;99113,00;1502,00;;;116587535,41 €;1766477,81 €
+2017;UR;06;Tetuán;064;Almenara;K;Deportivo;3;1964,00;9418,00;3139,00;;;9654685,59 €;3218228,53 €
+2017;UR;06;Tetuán;064;Almenara;M;Suelos sin edificar, obras de urbanización y jardinería;63;;;;148009,00;2349,00;30840796,65 €;489536,45 €
+2017;UR;06;Tetuán;064;Almenara;O;Oficinas;230;1978,00;96869,00;421,00;;;189506760,45 €;823942,44 €
+2017;UR;06;Tetuán;064;Almenara;P;Edificio Singular;4;1996,00;16330,00;4082,00;;;17703839,16 €;4425959,79 €
+2017;UR;06;Tetuán;064;Almenara;R;Religioso;9;1974,00;3621,00;402,00;;;3310373,54 €;367819,28 €
+2017;UR;06;Tetuán;064;Almenara;V;Residencial;10257;1985,00;986515,00;96,00;;;1149418391,23 €;112061,85 €
+2017;UR;06;Tetuán;064;Almenara;Y;Sanidad y Beneficencia;14;1971,00;23995,00;1714,00;;;27302631,12 €;1950187,94 €
+2017;UR;06;Tetuán;065;Valdeacederas;A;Almacén-Estacionamiento;6282;1990,00;236986,00;38,00;;;87523280,21 €;13932,39 €
+2017;UR;06;Tetuán;065;Valdeacederas;C;Comercial;864;1971,00;103882,00;120,00;;;106542030,12 €;123312,53 €
+2017;UR;06;Tetuán;065;Valdeacederas;E;Cultural;23;1974,00;23087,00;1004,00;;;19924879,86 €;866299,12 €
+2017;UR;06;Tetuán;065;Valdeacederas;G;Ocio y Hostelería;7;1965,00;4319,00;617,00;;;5308451,23 €;758350,18 €
+2017;UR;06;Tetuán;065;Valdeacederas;I;Industrial;143;1967,00;29568,00;207,00;;;17258973,48 €;120692,12 €
+2017;UR;06;Tetuán;065;Valdeacederas;K;Deportivo;9;1981,00;19577,00;2175,00;;;13389993,52 €;1487777,06 €
+2017;UR;06;Tetuán;065;Valdeacederas;M;Suelos sin edificar, obras de urbanización y jardinería;260;;;;95260,00;366,00;86219713,87 €;331614,28 €
+2017;UR;06;Tetuán;065;Valdeacederas;O;Oficinas;121;1976,00;13322,00;110,00;;;13200893,02 €;109098,29 €
+2017;UR;06;Tetuán;065;Valdeacederas;P;Edificio Singular;2;1972,00;3822,00;1911,00;;;3433396,02 €;1716698,01 €
+2017;UR;06;Tetuán;065;Valdeacederas;R;Religioso;2;1970,00;1295,00;648,00;;;1188780,32 €;594390,16 €
+2017;UR;06;Tetuán;065;Valdeacederas;T;Espectáculos;1;1993,00;84,00;84,00;;;96629,46 €;96629,46 €
+2017;UR;06;Tetuán;065;Valdeacederas;V;Residencial;12411;1979,00;940048,00;76,00;;;937392740,77 €;75529,19 €
+2017;UR;06;Tetuán;065;Valdeacederas;Y;Sanidad y Beneficencia;7;1985,00;9006,00;1287,00;;;8199669,92 €;1171381,42 €
+2017;UR;06;Tetuán;066;Berruguete;A;Almacén-Estacionamiento;4541;1996,00;205519,00;45,00;;;86376624,75 €;19021,50 €
+2017;UR;06;Tetuán;066;Berruguete;C;Comercial;858;1962,00;105259,00;123,00;;;129488205,95 €;150918,65 €
+2017;UR;06;Tetuán;066;Berruguete;E;Cultural;9;1953,00;20753,00;2306,00;;;14754527,89 €;1639391,99 €
+2017;UR;06;Tetuán;066;Berruguete;G;Ocio y Hostelería;2;1948,00;298,00;149,00;;;350133,74 €;175066,87 €
+2017;UR;06;Tetuán;066;Berruguete;I;Industrial;120;1962,00;28675,00;239,00;;;20517465,17 €;170978,88 €
+2017;UR;06;Tetuán;066;Berruguete;K;Deportivo;3;1971,00;5134,00;1711,00;;;6310197,46 €;2103399,15 €
+2017;UR;06;Tetuán;066;Berruguete;M;Suelos sin edificar, obras de urbanización y jardinería;89;;;;32607,00;366,00;19790991,41 €;222370,69 €
+2017;UR;06;Tetuán;066;Berruguete;O;Oficinas;94;1972,00;16365,00;174,00;;;16863546,08 €;179399,43 €
+2017;UR;06;Tetuán;066;Berruguete;R;Religioso;6;1972,00;3412,00;569,00;;;2721504,35 €;453584,06 €
+2017;UR;06;Tetuán;066;Berruguete;V;Residencial;11890;1970,00;920033,00;77,00;;;1027183874,83 €;86390,57 €
+2017;UR;06;Tetuán;066;Berruguete;Y;Sanidad y Beneficencia;9;1980,00;10330,00;1148,00;;;10819267,76 €;1202140,86 €
+2017;UR;07;Chamberí;071;Gaztambide;A;Almacén-Estacionamiento;5077;1977,00;251838,00;50,00;;;124232850,16 €;24469,74 €
+2017;UR;07;Chamberí;071;Gaztambide;C;Comercial;1319;1956,00;177316,00;134,00;;;299240706,76 €;226869,38 €
+2017;UR;07;Chamberí;071;Gaztambide;E;Cultural;21;1959,00;36103,00;1719,00;;;34664133,31 €;1650673,01 €
+2017;UR;07;Chamberí;071;Gaztambide;G;Ocio y Hostelería;4;1969,00;7860,00;1965,00;;;15082955,34 €;3770738,84 €
+2017;UR;07;Chamberí;071;Gaztambide;I;Industrial;30;1954,00;11964,00;399,00;;;8333047,28 €;277768,24 €
+2017;UR;07;Chamberí;071;Gaztambide;K;Deportivo;2;1949,00;617,00;308,00;;;651509,60 €;325754,80 €
+2017;UR;07;Chamberí;071;Gaztambide;M;Suelos sin edificar, obras de urbanización y jardinería;3;;;;1238,00;413,00;157793,23 €;52597,74 €
+2017;UR;07;Chamberí;071;Gaztambide;O;Oficinas;218;1967,00;42344,00;194,00;;;62514625,25 €;286764,34 €
+2017;UR;07;Chamberí;071;Gaztambide;P;Edificio Singular;4;1947,00;1209,00;302,00;;;1059315,52 €;264828,88 €
+2017;UR;07;Chamberí;071;Gaztambide;R;Religioso;3;1945,00;9995,00;3332,00;;;8542522,65 €;2847507,55 €
+2017;UR;07;Chamberí;071;Gaztambide;T;Espectáculos;2;1980,00;1748,00;874,00;;;3133448,08 €;1566724,04 €
+2017;UR;07;Chamberí;071;Gaztambide;V;Residencial;12956;1956,00;1473120,00;114,00;;;2017999538,52 €;155757,91 €
+2017;UR;07;Chamberí;071;Gaztambide;Y;Sanidad y Beneficencia;78;1968,00;56068,00;719,00;;;61651370,36 €;790402,18 €
+2017;UR;07;Chamberí;072;Arapiles;A;Almacén-Estacionamiento;2379;1977,00;207054,00;87,00;;;107458319,71 €;45169,53 €
+2017;UR;07;Chamberí;072;Arapiles;C;Comercial;1008;1950,00;153810,00;153,00;;;237269365,74 €;235386,28 €
+2017;UR;07;Chamberí;072;Arapiles;E;Cultural;31;1950,00;42205,00;1361,00;;;43457110,97 €;1401842,29 €
+2017;UR;07;Chamberí;072;Arapiles;G;Ocio y Hostelería;17;1959,00;23208,00;1365,00;;;41616345,00 €;2448020,29 €
+2017;UR;07;Chamberí;072;Arapiles;I;Industrial;28;1953,00;90447,00;3230,00;;;76426741,26 €;2729526,47 €
+2017;UR;07;Chamberí;072;Arapiles;K;Deportivo;6;1952,00;3054,00;509,00;;;2561710,57 €;426951,76 €
+2017;UR;07;Chamberí;072;Arapiles;M;Suelos sin edificar, obras de urbanización y jardinería;1;;;;1069,00;1069,00;11088,00 €;11088,00 €
+2017;UR;07;Chamberí;072;Arapiles;O;Oficinas;381;1965,00;103253,00;271,00;;;174963452,88 €;459221,66 €
+2017;UR;07;Chamberí;072;Arapiles;P;Edificio Singular;3;1952,00;3062,00;1021,00;;;3402741,80 €;1134247,27 €
+2017;UR;07;Chamberí;072;Arapiles;R;Religioso;5;1975,00;2635,00;527,00;;;2735605,97 €;547121,19 €
+2017;UR;07;Chamberí;072;Arapiles;T;Espectáculos;5;1976,00;40925,00;8185,00;;;61274984,89 €;12254996,98 €
+2017;UR;07;Chamberí;072;Arapiles;V;Residencial;13393;1951,00;1391601,00;104,00;;;1925152357,05 €;143743,18 €
+2017;UR;07;Chamberí;072;Arapiles;Y;Sanidad y Beneficencia;7;1946,00;16850,00;2407,00;;;15998125,70 €;2285446,53 €
+2017;UR;07;Chamberí;073;Trafalgar;A;Almacén-Estacionamiento;3588;1982,00;194648,00;54,00;;;94672687,01 €;26385,92 €
+2017;UR;07;Chamberí;073;Trafalgar;C;Comercial;1196;1949,00;200423,00;168,00;;;307143339,00 €;256808,81 €
+2017;UR;07;Chamberí;073;Trafalgar;E;Cultural;18;1960,00;38277,00;2126,00;;;43503907,66 €;2416883,76 €
+2017;UR;07;Chamberí;073;Trafalgar;G;Ocio y Hostelería;9;1976,00;25943,00;2883,00;;;49360097,67 €;5484455,30 €
+2017;UR;07;Chamberí;073;Trafalgar;I;Industrial;33;1955,00;24315,00;737,00;;;19651646,44 €;595504,44 €
+2017;UR;07;Chamberí;073;Trafalgar;K;Deportivo;3;1956,00;1481,00;494,00;;;1292067,55 €;430689,18 €
+2017;UR;07;Chamberí;073;Trafalgar;M;Suelos sin edificar, obras de urbanización y jardinería;6;;;;2460,00;410,00;5764992,02 €;960832,00 €
+2017;UR;07;Chamberí;073;Trafalgar;O;Oficinas;628;1962,00;244527,00;389,00;;;387319599,33 €;616750,95 €
+2017;UR;07;Chamberí;073;Trafalgar;P;Edificio Singular;4;1971,00;27699,00;6925,00;;;37548069,37 €;9387017,34 €
+2017;UR;07;Chamberí;073;Trafalgar;R;Religioso;7;1960,00;12663,00;1809,00;;;12588031,07 €;1798290,15 €
+2017;UR;07;Chamberí;073;Trafalgar;T;Espectáculos;6;1960,00;18299,00;3050,00;;;33546974,80 €;5591162,47 €
+2017;UR;07;Chamberí;073;Trafalgar;V;Residencial;13494;1951,00;1403158,00;104,00;;;1946855762,94 €;144275,66 €
+2017;UR;07;Chamberí;073;Trafalgar;Y;Sanidad y Beneficencia;12;1959,00;24782,00;2065,00;;;29470737,81 €;2455894,82 €
+2017;UR;07;Chamberí;074;Almagro;A;Almacén-Estacionamiento;5200;1979,00;333145,00;64,00;;;210614142,09 €;40502,72 €
+2017;UR;07;Chamberí;074;Almagro;C;Comercial;726;1953,00;142483,00;196,00;;;258359301,92 €;355866,81 €
+2017;UR;07;Chamberí;074;Almagro;E;Cultural;47;1963,00;113365,00;2412,00;;;141865332,32 €;3018411,33 €
+2017;UR;07;Chamberí;074;Almagro;G;Ocio y Hostelería;126;1986,00;72675,00;577,00;;;166959898,78 €;1325078,56 €
+2017;UR;07;Chamberí;074;Almagro;I;Industrial;18;1962,00;18414,00;1023,00;;;16898980,86 €;938832,27 €
+2017;UR;07;Chamberí;074;Almagro;K;Deportivo;5;1976,00;12848,00;2570,00;;;10864296,54 €;2172859,31 €
+2017;UR;07;Chamberí;074;Almagro;M;Suelos sin edificar, obras de urbanización y jardinería;1;;;;3539,00;3539,00;2814567,00 €;2814567,00 €
+2017;UR;07;Chamberí;074;Almagro;O;Oficinas;950;1960,00;632079,00;665,00;;;1376446386,16 €;1448890,93 €
+2017;UR;07;Chamberí;074;Almagro;P;Edificio Singular;27;1962,00;113919,00;4219,00;;;169838910,89 €;6290330,03 €
+2017;UR;07;Chamberí;074;Almagro;R;Religioso;10;1950,00;51039,00;5104,00;;;50126048,58 €;5012604,86 €
+2017;UR;07;Chamberí;074;Almagro;V;Residencial;8994;1957,00;1610465,00;179,00;;;2637559284,19 €;293257,65 €
+2017;UR;07;Chamberí;074;Almagro;Y;Sanidad y Beneficencia;23;1956,00;54833,00;2384,00;;;67518686,96 €;2935595,09 €
+2017;UR;07;Chamberí;075;Rios Rosas;A;Almacén-Estacionamiento;4749;1985,00;289412,00;61,00;;;150067096,58 €;31599,73 €
+2017;UR;07;Chamberí;075;Rios Rosas;C;Comercial;1028;1955,00;139920,00;136,00;;;204015993,45 €;198459,14 €
+2017;UR;07;Chamberí;075;Rios Rosas;E;Cultural;14;1956,00;85704,00;6122,00;;;98702171,97 €;7050155,14 €
+2017;UR;07;Chamberí;075;Rios Rosas;G;Ocio y Hostelería;5;1977,00;40125,00;8025,00;;;80905890,49 €;16181178,10 €
+2017;UR;07;Chamberí;075;Rios Rosas;I;Industrial;25;1964,00;99441,00;3978,00;;;49748202,94 €;1989928,12 €
+2017;UR;07;Chamberí;075;Rios Rosas;K;Deportivo;3;1972,00;2787,00;929,00;;;4251123,54 €;1417041,18 €
+2017;UR;07;Chamberí;075;Rios Rosas;M;Suelos sin edificar, obras de urbanización y jardinería;3;;;;10195,00;3398,00;120322,00 €;40107,33 €
+2017;UR;07;Chamberí;075;Rios Rosas;O;Oficinas;645;1967,00;278310,00;431,00;;;459272535,24 €;712050,44 €
+2017;UR;07;Chamberí;075;Rios Rosas;P;Edificio Singular;15;1969,00;255277,00;17018,00;;;370310644,08 €;24687376,27 €
+2017;UR;07;Chamberí;075;Rios Rosas;R;Religioso;3;1967,00;10658,00;3553,00;;;14128508,17 €;4709502,72 €
+2017;UR;07;Chamberí;075;Rios Rosas;T;Espectáculos;1;1965,00;848,00;848,00;;;1409681,28 €;1409681,28 €
+2017;UR;07;Chamberí;075;Rios Rosas;V;Residencial;14241;1956,00;1547461,00;109,00;;;2256483591,57 €;158449,80 €
+2017;UR;07;Chamberí;075;Rios Rosas;Y;Sanidad y Beneficencia;19;1951,00;25446,00;1339,00;;;29116843,88 €;1532465,47 €
+2017;UR;07;Chamberí;076;Vallehermoso;A;Almacén-Estacionamiento;2675;1982,00;251217,00;94,00;;;118247714,36 €;44204,75 €
+2017;UR;07;Chamberí;076;Vallehermoso;C;Comercial;599;1960,00;102385,00;171,00;;;184832045,92 €;308567,69 €
+2017;UR;07;Chamberí;076;Vallehermoso;E;Cultural;47;1965,00;177086,00;3768,00;;;223432106,88 €;4753874,61 €
+2017;UR;07;Chamberí;076;Vallehermoso;I;Industrial;17;1961,00;2366,00;139,00;;;1841587,17 €;108328,66 €
+2017;UR;07;Chamberí;076;Vallehermoso;K;Deportivo;6;1988,00;107575,00;17929,00;;;110711272,88 €;18451878,81 €
+2017;UR;07;Chamberí;076;Vallehermoso;M;Suelos sin edificar, obras de urbanización y jardinería;4;;;;43237,00;10809,00;24653110,00 €;6163277,50 €
+2017;UR;07;Chamberí;076;Vallehermoso;O;Oficinas;356;1966,00;81544,00;229,00;;;143886164,51 €;404174,62 €
+2017;UR;07;Chamberí;076;Vallehermoso;P;Edificio Singular;6;1962,00;251900,00;41983,00;;;341540692,13 €;56923448,69 €
+2017;UR;07;Chamberí;076;Vallehermoso;R;Religioso;27;1961,00;50386,00;1866,00;;;51999521,74 €;1925908,21 €
+2017;UR;07;Chamberí;076;Vallehermoso;V;Residencial;9919;1963,00;1266977,00;128,00;;;2122730954,64 €;214006,55 €
+2017;UR;07;Chamberí;076;Vallehermoso;Y;Sanidad y Beneficencia;14;1965,00;63473,00;4534,00;;;106217264,95 €;7586947,50 €
+2017;UR;08;Fuencarral - El Pardo;081;El Pardo;A;Almacén-Estacionamiento;58;1988,00;3178,00;55,00;;;548753,64 €;9461,27 €
+2017;UR;08;Fuencarral - El Pardo;081;El Pardo;C;Comercial;77;1957,00;8230,00;107,00;;;8811140,36 €;114430,39 €
+2017;UR;08;Fuencarral - El Pardo;081;El Pardo;E;Cultural;4;1950,00;4523,00;1131,00;;;3721541,36 €;930385,34 €
+2017;UR;08;Fuencarral - El Pardo;081;El Pardo;G;Ocio y Hostelería;8;1953,00;3690,00;461,00;;;3638008,88 €;454751,11 €
+2017;UR;08;Fuencarral - El Pardo;081;El Pardo;I;Industrial;9;1953,00;6808,00;756,00;;;4344965,17 €;482773,91 €
+2017;UR;08;Fuencarral - El Pardo;081;El Pardo;K;Deportivo;5;1982,00;161156,00;32231,00;;;65734965,07 €;13146993,01 €
+2017;UR;08;Fuencarral - El Pardo;081;El Pardo;M;Suelos sin edificar, obras de urbanización y jardinería;38;;;;770382,00;20273,00;43973773,69 €;1157204,57 €
+2017;UR;08;Fuencarral - El Pardo;081;El Pardo;O;Oficinas;4;1954,00;5866,00;1466,00;;;5656747,58 €;1414186,90 €
+2017;UR;08;Fuencarral - El Pardo;081;El Pardo;P;Edificio Singular;10;1963,00;260911,00;26091,00;;;253008595,70 €;25300859,57 €
+2017;UR;08;Fuencarral - El Pardo;081;El Pardo;R;Religioso;3;1955,00;22584,00;7528,00;;;2977606,34 €;992535,45 €
+2017;UR;08;Fuencarral - El Pardo;081;El Pardo;V;Residencial;1460;1960,00;155845,00;107,00;;;158891093,64 €;108829,52 €
+2017;UR;08;Fuencarral - El Pardo;081;El Pardo;Y;Sanidad y Beneficencia;2;1972,00;131,00;66,00;;;116592,89 €;58296,44 €
+2017;UR;08;Fuencarral - El Pardo;082;Fuentelareina;A;Almacén-Estacionamiento;1093;1975,00;36977,00;34,00;;;11565730,64 €;10581,64 €
+2017;UR;08;Fuencarral - El Pardo;082;Fuentelareina;C;Comercial;10;1977,00;2346,00;235,00;;;3532299,19 €;353229,92 €
+2017;UR;08;Fuencarral - El Pardo;082;Fuentelareina;E;Cultural;1;1991,00;24894,00;24894,00;;;31283602,54 €;31283602,54 €
+2017;UR;08;Fuencarral - El Pardo;082;Fuentelareina;G;Ocio y Hostelería;2;1954,00;6961,00;3480,00;;;9409767,08 €;4704883,54 €
+2017;UR;08;Fuencarral - El Pardo;082;Fuentelareina;I;Industrial;6;1978,00;7650,00;1275,00;;;2502380,82 €;417063,47 €
+2017;UR;08;Fuencarral - El Pardo;082;Fuentelareina;K;Deportivo;4;1976,00;607159,00;151790,00;;;26524315,53 €;6631078,88 €
+2017;UR;08;Fuencarral - El Pardo;082;Fuentelareina;M;Suelos sin edificar, obras de urbanización y jardinería;26;;;;81491,00;3134,00;14008629,50 €;538793,44 €
+2017;UR;08;Fuencarral - El Pardo;082;Fuentelareina;O;Oficinas;1;1993,00;3582,00;3582,00;;;3157572,18 €;3157572,18 €
+2017;UR;08;Fuencarral - El Pardo;082;Fuentelareina;P;Edificio Singular;1;1996,00;6691,00;6691,00;;;7991778,38 €;7991778,38 €
+2017;UR;08;Fuencarral - El Pardo;082;Fuentelareina;V;Residencial;1295;1972,00;348486,00;269,00;;;424375904,30 €;327703,40 €
+2017;UR;08;Fuencarral - El Pardo;083;Peñagrande;A;Almacén-Estacionamiento;8065;1991,00;361100,00;45,00;;;114227949,08 €;14163,42 €
+2017;UR;08;Fuencarral - El Pardo;083;Peñagrande;C;Comercial;845;1977,00;93714,00;111,00;;;97844380,17 €;115792,17 €
+2017;UR;08;Fuencarral - El Pardo;083;Peñagrande;E;Cultural;25;1974,00;103543,00;4142,00;;;79639756,37 €;3185590,25 €
+2017;UR;08;Fuencarral - El Pardo;083;Peñagrande;G;Ocio y Hostelería;3;1959,00;994,00;331,00;;;1202144,55 €;400714,85 €
+2017;UR;08;Fuencarral - El Pardo;083;Peñagrande;I;Industrial;45;1975,00;10196,00;227,00;;;6127525,09 €;136167,22 €
+2017;UR;08;Fuencarral - El Pardo;083;Peñagrande;K;Deportivo;37;1989,00;38187,00;1032,00;;;22324674,98 €;603369,59 €
+2017;UR;08;Fuencarral - El Pardo;083;Peñagrande;M;Suelos sin edificar, obras de urbanización y jardinería;305;;;;378517,00;1241,00;137864182,00 €;452013,71 €
+2017;UR;08;Fuencarral - El Pardo;083;Peñagrande;O;Oficinas;141;1956,00;73004,00;518,00;;;88542272,60 €;627959,38 €
+2017;UR;08;Fuencarral - El Pardo;083;Peñagrande;R;Religioso;16;1978,00;8294,00;518,00;;;8574239,57 €;535889,97 €
+2017;UR;08;Fuencarral - El Pardo;083;Peñagrande;V;Residencial;19486;1981,00;2320474,00;119,00;;;2673878801,85 €;137220,51 €
+2017;UR;08;Fuencarral - El Pardo;083;Peñagrande;Y;Sanidad y Beneficencia;27;1989,00;74099,00;2744,00;;;93707198,54 €;3470636,98 €
+2017;UR;08;Fuencarral - El Pardo;084;Pilar;A;Almacén-Estacionamiento;3525;1978,00;199603,00;57,00;;;57505381,05 €;16313,58 €
+2017;UR;08;Fuencarral - El Pardo;084;Pilar;C;Comercial;2095;1970,00;391791,00;187,00;;;598471676,06 €;285666,67 €
+2017;UR;08;Fuencarral - El Pardo;084;Pilar;E;Cultural;51;1969,00;90716,00;1779,00;;;72109062,82 €;1413903,19 €
+2017;UR;08;Fuencarral - El Pardo;084;Pilar;G;Ocio y Hostelería;4;1973,00;1358,00;340,00;;;1434538,77 €;358634,69 €
+2017;UR;08;Fuencarral - El Pardo;084;Pilar;I;Industrial;68;1970,00;14336,00;211,00;;;13421306,52 €;197372,15 €
+2017;UR;08;Fuencarral - El Pardo;084;Pilar;K;Deportivo;9;1986,00;28153,00;3128,00;;;17278098,59 €;1919788,73 €
+2017;UR;08;Fuencarral - El Pardo;084;Pilar;M;Suelos sin edificar, obras de urbanización y jardinería;9;;;;111966,00;12441,00;9982504,00 €;1109167,11 €
+2017;UR;08;Fuencarral - El Pardo;084;Pilar;O;Oficinas;116;1967,00;28777,00;248,00;;;35794942,64 €;308577,09 €
+2017;UR;08;Fuencarral - El Pardo;084;Pilar;P;Edificio Singular;1;1969,00;972,00;972,00;;;817296,48 €;817296,48 €
+2017;UR;08;Fuencarral - El Pardo;084;Pilar;R;Religioso;9;1967,00;3320,00;369,00;;;2722150,08 €;302461,12 €
+2017;UR;08;Fuencarral - El Pardo;084;Pilar;T;Espectáculos;2;1976,00;28385,00;14192,00;;;28493727,57 €;14246863,78 €
+2017;UR;08;Fuencarral - El Pardo;084;Pilar;V;Residencial;21401;1969,00;1700593,00;79,00;;;1807177189,96 €;84443,59 €
+2017;UR;08;Fuencarral - El Pardo;084;Pilar;Y;Sanidad y Beneficencia;3;1973,00;1534,00;511,00;;;1356170,45 €;452056,82 €
+2017;UR;08;Fuencarral - El Pardo;085;La Paz;A;Almacén-Estacionamiento;7953;1983,00;287519,00;36,00;;;109899861,69 €;13818,67 €
+2017;UR;08;Fuencarral - El Pardo;085;La Paz;C;Comercial;579;1978,00;98294,00;170,00;;;87896262,27 €;151807,02 €
+2017;UR;08;Fuencarral - El Pardo;085;La Paz;E;Cultural;17;1981,00;95495,00;5617,00;;;91727571,24 €;5395739,48 €
+2017;UR;08;Fuencarral - El Pardo;085;La Paz;G;Ocio y Hostelería;3;1999,00;167556,00;55852,00;;;346210875,55 €;115403625,18 €
+2017;UR;08;Fuencarral - El Pardo;085;La Paz;I;Industrial;26;1979,00;6179,00;238,00;;;4491907,22 €;172765,66 €
+2017;UR;08;Fuencarral - El Pardo;085;La Paz;K;Deportivo;11;1987,00;33303,00;3028,00;;;22479885,96 €;2043626,00 €
+2017;UR;08;Fuencarral - El Pardo;085;La Paz;M;Suelos sin edificar, obras de urbanización y jardinería;19;;;;178709,00;9406,00;48716326,00 €;2564017,16 €
+2017;UR;08;Fuencarral - El Pardo;085;La Paz;O;Oficinas;73;1987,00;450730,00;6174,00;;;887337555,46 €;12155308,98 €
+2017;UR;08;Fuencarral - El Pardo;085;La Paz;P;Edificio Singular;1;1981,00;2896,00;2896,00;;;2539654,18 €;2539654,18 €
+2017;UR;08;Fuencarral - El Pardo;085;La Paz;R;Religioso;3;1981,00;2811,00;937,00;;;2589044,26 €;863014,75 €
+2017;UR;08;Fuencarral - El Pardo;085;La Paz;V;Residencial;13532;1980,00;1726207,00;128,00;;;1987794589,44 €;146895,85 €
+2017;UR;08;Fuencarral - El Pardo;085;La Paz;Y;Sanidad y Beneficencia;30;1985,00;322790,00;10760,00;;;376952190,47 €;12565073,02 €
+2017;UR;08;Fuencarral - El Pardo;086;Valverde;A;Almacén-Estacionamiento;19541;2003,00;670002,00;34,00;;;250419874,80 €;12815,10 €
+2017;UR;08;Fuencarral - El Pardo;086;Valverde;C;Comercial;1306;1986,00;237924,00;182,00;;;262889436,04 €;201293,60 €
+2017;UR;08;Fuencarral - El Pardo;086;Valverde;E;Cultural;32;1987,00;140101,00;4378,00;;;131971330,05 €;4124104,06 €
+2017;UR;08;Fuencarral - El Pardo;086;Valverde;G;Ocio y Hostelería;10;1587,00;76741,00;7674,00;;;86012256,42 €;8601225,64 €
+2017;UR;08;Fuencarral - El Pardo;086;Valverde;I;Industrial;395;1984,00;1320023,00;3342,00;;;448551530,90 €;1135573,50 €
+2017;UR;08;Fuencarral - El Pardo;086;Valverde;K;Deportivo;23;1992,00;112363,00;4885,00;;;74975301,24 €;3259795,71 €
+2017;UR;08;Fuencarral - El Pardo;086;Valverde;M;Suelos sin edificar, obras de urbanización y jardinería;486;;;;3365028,00;6924,00;591092234,28 €;1216239,17 €
+2017;UR;08;Fuencarral - El Pardo;086;Valverde;O;Oficinas;541;1993,00;1697357,00;3137,00;;;2027216754,39 €;3747165,90 €
+2017;UR;08;Fuencarral - El Pardo;086;Valverde;P;Edificio Singular;2;1976,00;14579,00;7290,00;;;22335395,34 €;11167697,67 €
+2017;UR;08;Fuencarral - El Pardo;086;Valverde;R;Religioso;10;1951,00;9233,00;923,00;;;7355980,28 €;735598,03 €
+2017;UR;08;Fuencarral - El Pardo;086;Valverde;T;Espectáculos;3;1981,00;39901,00;13300,00;;;37621854,83 €;12540618,28 €
+2017;UR;08;Fuencarral - El Pardo;086;Valverde;V;Residencial;26465;1990,00;3052644,00;115,00;;;3303934431,70 €;124841,66 €
+2017;UR;08;Fuencarral - El Pardo;086;Valverde;Y;Sanidad y Beneficencia;24;1981,00;244525,00;10189,00;;;283245734,45 €;11801905,60 €
+2017;UR;08;Fuencarral - El Pardo;087;Mirasierra;A;Almacén-Estacionamiento;6343;1996,00;272592,00;43,00;;;96575428,80 €;15225,51 €
+2017;UR;08;Fuencarral - El Pardo;087;Mirasierra;C;Comercial;209;1995,00;62143,00;297,00;;;66200319,87 €;316747,94 €
+2017;UR;08;Fuencarral - El Pardo;087;Mirasierra;E;Cultural;15;1989,00;160036,00;10669,00;;;137985614,48 €;9199040,97 €
+2017;UR;08;Fuencarral - El Pardo;087;Mirasierra;G;Ocio y Hostelería;4;1992,00;5208,00;1302,00;;;6133312,36 €;1533328,09 €
+2017;UR;08;Fuencarral - El Pardo;087;Mirasierra;I;Industrial;25;1980,00;30183,00;1207,00;;;26081882,17 €;1043275,29 €
+2017;UR;08;Fuencarral - El Pardo;087;Mirasierra;K;Deportivo;24;1993,00;86767,00;3615,00;;;75095516,82 €;3128979,87 €
+2017;UR;08;Fuencarral - El Pardo;087;Mirasierra;M;Suelos sin edificar, obras de urbanización y jardinería;247;;;;965022,00;3907,00;237999373,75 €;963560,22 €
+2017;UR;08;Fuencarral - El Pardo;087;Mirasierra;O;Oficinas;66;1990,00;69229,00;1049,00;;;83444437,87 €;1264309,66 €
+2017;UR;08;Fuencarral - El Pardo;087;Mirasierra;P;Edificio Singular;1;2011,00;7587,00;7587,00;;;8709773,10 €;8709773,10 €
+2017;UR;08;Fuencarral - El Pardo;087;Mirasierra;R;Religioso;2;2004,00;4789,00;2394,00;;;7320325,32 €;3660162,66 €
+2017;UR;08;Fuencarral - El Pardo;087;Mirasierra;V;Residencial;11843;1994,00;2182017,00;184,00;;;2523271079,47 €;213060,13 €
+2017;UR;08;Fuencarral - El Pardo;087;Mirasierra;Y;Sanidad y Beneficencia;18;1988,00;108816,00;6045,00;;;138675952,18 €;7704219,57 €
+2017;UR;08;Fuencarral - El Pardo;088;El Goloso;A;Almacén-Estacionamiento;7733;2006,00;237409,00;31,00;;;103876508,22 €;13432,89 €
+2017;UR;08;Fuencarral - El Pardo;088;El Goloso;C;Comercial;255;2006,00;78699,00;309,00;;;79965448,14 €;313589,99 €
+2017;UR;08;Fuencarral - El Pardo;088;El Goloso;E;Cultural;10;1990,00;728069,00;72807,00;;;640531509,11 €;64053150,91 €
+2017;UR;08;Fuencarral - El Pardo;088;El Goloso;G;Ocio y Hostelería;1;1965,00;922,00;922,00;;;830093,88 €;830093,88 €
+2017;UR;08;Fuencarral - El Pardo;088;El Goloso;I;Industrial;5;1997,00;49742,00;9948,00;;;27350720,10 €;5470144,02 €
+2017;UR;08;Fuencarral - El Pardo;088;El Goloso;K;Deportivo;4;1992,00;21893,00;5473,00;;;15078399,64 €;3769599,91 €
+2017;UR;08;Fuencarral - El Pardo;088;El Goloso;M;Suelos sin edificar, obras de urbanización y jardinería;152;;;;1152934,00;7585,00;162697316,00 €;1070377,08 €
+2017;UR;08;Fuencarral - El Pardo;088;El Goloso;O;Oficinas;5;2008,00;16865,00;3373,00;;;19259656,26 €;3851931,25 €
+2017;UR;08;Fuencarral - El Pardo;088;El Goloso;P;Edificio Singular;2;1948,00;215425,00;107712,00;;;168888514,62 €;84444257,31 €
+2017;UR;08;Fuencarral - El Pardo;088;El Goloso;R;Religioso;6;1983,00;85010,00;14168,00;;;30355254,11 €;5059209,02 €
+2017;UR;08;Fuencarral - El Pardo;088;El Goloso;V;Residencial;6580;2006,00;956887,00;145,00;;;1028964463,15 €;156377,58 €
+2017;UR;08;Fuencarral - El Pardo;088;El Goloso;Y;Sanidad y Beneficencia;4;1981,00;114190,00;28548,00;;;122320239,33 €;30580059,83 €
+2017;UR;09;Moncloa - Aravaca;091;Casa de Campo;A;Almacén-Estacionamiento;969;1988,00;81868,00;84,00;;;42621824,00 €;43985,37 €
+2017;UR;09;Moncloa - Aravaca;091;Casa de Campo;C;Comercial;398;1961,00;114443,00;288,00;;;157072683,98 €;394654,98 €
+2017;UR;09;Moncloa - Aravaca;091;Casa de Campo;E;Cultural;13;1947,00;43549,00;3350,00;;;36768356,76 €;2828335,14 €
+2017;UR;09;Moncloa - Aravaca;091;Casa de Campo;G;Ocio y Hostelería;43;1826,00;109123,00;2538,00;;;114253283,39 €;2657053,10 €
+2017;UR;09;Moncloa - Aravaca;091;Casa de Campo;I;Industrial;41;1964,00;86829,00;2118,00;;;100522555,77 €;2451769,65 €
+2017;UR;09;Moncloa - Aravaca;091;Casa de Campo;K;Deportivo;6;1972,00;34334,00;5722,00;;;23218464,29 €;3869744,05 €
+2017;UR;09;Moncloa - Aravaca;091;Casa de Campo;M;Suelos sin edificar, obras de urbanización y jardinería;52;;;;14498743,00;278822,00;170708642,51 €;3282858,51 €
+2017;UR;09;Moncloa - Aravaca;091;Casa de Campo;O;Oficinas;37;1963,00;33343,00;901,00;;;46220996,57 €;1249216,12 €
+2017;UR;09;Moncloa - Aravaca;091;Casa de Campo;P;Edificio Singular;2;1972,00;20264,00;10132,00;;;15741723,20 €;7870861,60 €
+2017;UR;09;Moncloa - Aravaca;091;Casa de Campo;R;Religioso;3;1852,00;1969,00;656,00;;;1650776,26 €;550258,75 €
+2017;UR;09;Moncloa - Aravaca;091;Casa de Campo;T;Espectáculos;5;1975,00;443698,00;88740,00;;;54702979,08 €;10940595,82 €
+2017;UR;09;Moncloa - Aravaca;091;Casa de Campo;V;Residencial;6326;1969,00;636076,00;101,00;;;707519800,84 €;111843,16 €
+2017;UR;09;Moncloa - Aravaca;091;Casa de Campo;Y;Sanidad y Beneficencia;10;1980,00;36726,00;3673,00;;;40755905,55 €;4075590,56 €
+2017;UR;09;Moncloa - Aravaca;092;Argüelles;A;Almacén-Estacionamiento;2409;1979,00;280866,00;117,00;;;198318244,41 €;82323,89 €
+2017;UR;09;Moncloa - Aravaca;092;Argüelles;C;Comercial;1019;1948,00;202867,00;199,00;;;460653561,99 €;452064,34 €
+2017;UR;09;Moncloa - Aravaca;092;Argüelles;E;Cultural;18;1952,00;47722,00;2651,00;;;62308116,84 €;3461562,05 €
+2017;UR;09;Moncloa - Aravaca;092;Argüelles;G;Ocio y Hostelería;141;2007,00;65671,00;466,00;;;140939072,30 €;999567,89 €
+2017;UR;09;Moncloa - Aravaca;092;Argüelles;I;Industrial;15;1960,00;47331,00;3155,00;;;81728908,21 €;5448593,88 €
+2017;UR;09;Moncloa - Aravaca;092;Argüelles;K;Deportivo;3;1973,00;17307,00;5769,00;;;25870704,63 €;8623568,21 €
+2017;UR;09;Moncloa - Aravaca;092;Argüelles;M;Suelos sin edificar, obras de urbanización y jardinería;1;;;;248,00;248,00;608292,00 €;608292,00 €
+2017;UR;09;Moncloa - Aravaca;092;Argüelles;O;Oficinas;351;1964,00;207206,00;590,00;;;406528019,39 €;1158199,49 €
+2017;UR;09;Moncloa - Aravaca;092;Argüelles;P;Edificio Singular;7;1956,00;133618,00;19088,00;;;182448023,22 €;26064003,32 €
+2017;UR;09;Moncloa - Aravaca;092;Argüelles;R;Religioso;14;1953,00;26226,00;1873,00;;;38367373,23 €;2740526,66 €
+2017;UR;09;Moncloa - Aravaca;092;Argüelles;V;Residencial;12738;1950,00;1655642,00;130,00;;;3127030198,40 €;245488,32 €
+2017;UR;09;Moncloa - Aravaca;092;Argüelles;Y;Sanidad y Beneficencia;10;1952,00;47910,00;4791,00;;;67408921,48 €;6740892,15 €
+2017;UR;09;Moncloa - Aravaca;093;Ciudad Universitaria;A;Almacén-Estacionamiento;4485;1984,00;238273,00;53,00;;;123573550,82 €;27552,63 €
+2017;UR;09;Moncloa - Aravaca;093;Ciudad Universitaria;C;Comercial;331;1967,00;53975,00;163,00;;;72697097,40 €;219628,69 €
+2017;UR;09;Moncloa - Aravaca;093;Ciudad Universitaria;E;Cultural;90;1966,00;1382910,00;15366,00;;;1184343521,35 €;13159372,46 €
+2017;UR;09;Moncloa - Aravaca;093;Ciudad Universitaria;G;Ocio y Hostelería;5;1963,00;3085,00;617,00;;;4594295,80 €;918859,16 €
+2017;UR;09;Moncloa - Aravaca;093;Ciudad Universitaria;I;Industrial;67;1967,00;622032,00;9284,00;;;442435734,83 €;6603518,43 €
+2017;UR;09;Moncloa - Aravaca;093;Ciudad Universitaria;K;Deportivo;33;1982,00;4091755,00;123993,00;;;387781832,27 €;11750964,61 €
+2017;UR;09;Moncloa - Aravaca;093;Ciudad Universitaria;M;Suelos sin edificar, obras de urbanización y jardinería;189;;;;1669299,00;8832,00;348335067,89 €;1843042,69 €
+2017;UR;09;Moncloa - Aravaca;093;Ciudad Universitaria;O;Oficinas;137;1974,00;272405,00;1988,00;;;304660015,60 €;2223795,73 €
+2017;UR;09;Moncloa - Aravaca;093;Ciudad Universitaria;P;Edificio Singular;20;1975,00;281747,00;14087,00;;;230559766,11 €;11527988,31 €
+2017;UR;09;Moncloa - Aravaca;093;Ciudad Universitaria;R;Religioso;9;1950,00;11086,00;1232,00;;;11416240,02 €;1268471,11 €
+2017;UR;09;Moncloa - Aravaca;093;Ciudad Universitaria;T;Espectáculos;1;1957,00;361,00;361,00;;;617497,72 €;617497,72 €
+2017;UR;09;Moncloa - Aravaca;093;Ciudad Universitaria;V;Residencial;7344;1973,00;1569675,00;214,00;;;2027698246,91 €;276102,70 €
+2017;UR;09;Moncloa - Aravaca;093;Ciudad Universitaria;Y;Sanidad y Beneficencia;88;1987,00;268352,00;3049,00;;;248623260,51 €;2825264,32 €
+2017;UR;09;Moncloa - Aravaca;094;Valdezarza;A;Almacén-Estacionamiento;3420;1990,00;184697,00;54,00;;;89942786,92 €;26299,06 €
+2017;UR;09;Moncloa - Aravaca;094;Valdezarza;C;Comercial;786;1961,00;55923,00;71,00;;;60706433,56 €;77234,65 €
+2017;UR;09;Moncloa - Aravaca;094;Valdezarza;E;Cultural;9;1968,00;75003,00;8334,00;;;60822532,34 €;6758059,15 €
+2017;UR;09;Moncloa - Aravaca;094;Valdezarza;G;Ocio y Hostelería;3;1961,00;314,00;105,00;;;328798,96 €;109599,65 €
+2017;UR;09;Moncloa - Aravaca;094;Valdezarza;I;Industrial;32;1958,00;3022,00;94,00;;;2267320,99 €;70853,78 €
+2017;UR;09;Moncloa - Aravaca;094;Valdezarza;K;Deportivo;7;1986,00;10793,00;1542,00;;;7922824,07 €;1131832,01 €
+2017;UR;09;Moncloa - Aravaca;094;Valdezarza;M;Suelos sin edificar, obras de urbanización y jardinería;100;;;;99449,00;994,00;32483331,90 €;324833,32 €
+2017;UR;09;Moncloa - Aravaca;094;Valdezarza;O;Oficinas;9;1976,00;1820,00;202,00;;;2311743,85 €;256860,43 €
+2017;UR;09;Moncloa - Aravaca;094;Valdezarza;P;Edificio Singular;2;1960,00;20671,00;10336,00;;;13678918,41 €;6839459,20 €
+2017;UR;09;Moncloa - Aravaca;094;Valdezarza;R;Religioso;10;1967,00;6887,00;689,00;;;7103320,77 €;710332,08 €
+2017;UR;09;Moncloa - Aravaca;094;Valdezarza;V;Residencial;14324;1969,00;1252820,00;87,00;;;1418648003,43 €;99039,93 €
+2017;UR;09;Moncloa - Aravaca;094;Valdezarza;Y;Sanidad y Beneficencia;15;1975,00;13958,00;931,00;;;17756177,74 €;1183745,18 €
+2017;UR;09;Moncloa - Aravaca;095;Valdemarín;A;Almacén-Estacionamiento;2143;2003,00;97269,00;45,00;;;34834303,96 €;16254,92 €
+2017;UR;09;Moncloa - Aravaca;095;Valdemarín;C;Comercial;19;2003,00;5438,00;286,00;;;8547032,10 €;449843,79 €
+2017;UR;09;Moncloa - Aravaca;095;Valdemarín;E;Cultural;13;1988,00;105394,00;8107,00;;;90169757,36 €;6936135,18 €
+2017;UR;09;Moncloa - Aravaca;095;Valdemarín;G;Ocio y Hostelería;77;1993,00;27916,00;363,00;;;37314663,34 €;484606,02 €
+2017;UR;09;Moncloa - Aravaca;095;Valdemarín;I;Industrial;10;1985,00;5877,00;588,00;;;4453121,32 €;445312,13 €
+2017;UR;09;Moncloa - Aravaca;095;Valdemarín;K;Deportivo;13;2004,00;24329,00;1871,00;;;15604033,97 €;1200310,31 €
+2017;UR;09;Moncloa - Aravaca;095;Valdemarín;M;Suelos sin edificar, obras de urbanización y jardinería;334;;;;760391,00;2277,00;124977309,02 €;374183,56 €
+2017;UR;09;Moncloa - Aravaca;095;Valdemarín;O;Oficinas;48;2002,00;78132,00;1628,00;;;105746400,04 €;2203050,00 €
+2017;UR;09;Moncloa - Aravaca;095;Valdemarín;P;Edificio Singular;2;1979,00;7567,00;3784,00;;;7712638,91 €;3856319,46 €
+2017;UR;09;Moncloa - Aravaca;095;Valdemarín;R;Religioso;2;1982,00;6134,00;3067,00;;;1477269,95 €;738634,98 €
+2017;UR;09;Moncloa - Aravaca;095;Valdemarín;V;Residencial;2462;2001,00;673599,00;274,00;;;824269851,68 €;334796,85 €
+2017;UR;09;Moncloa - Aravaca;095;Valdemarín;Y;Sanidad y Beneficencia;8;1994,00;59145,00;7393,00;;;55758231,71 €;6969778,96 €
+2017;UR;09;Moncloa - Aravaca;096;El Plantío;A;Almacén-Estacionamiento;1267;2005,00;69428,00;55,00;;;36352005,62 €;28691,40 €
+2017;UR;09;Moncloa - Aravaca;096;El Plantío;C;Comercial;48;1989,00;53769,00;1120,00;;;68066855,54 €;1418059,49 €
+2017;UR;09;Moncloa - Aravaca;096;El Plantío;E;Cultural;7;1983,00;10430,00;1490,00;;;9189685,55 €;1312812,22 €
+2017;UR;09;Moncloa - Aravaca;096;El Plantío;G;Ocio y Hostelería;12;1968,00;13070,00;1089,00;;;14503766,89 €;1208647,24 €
+2017;UR;09;Moncloa - Aravaca;096;El Plantío;I;Industrial;24;1978,00;22122,00;922,00;;;18690828,86 €;778784,54 €
+2017;UR;09;Moncloa - Aravaca;096;El Plantío;K;Deportivo;6;1977,00;7543,00;1257,00;;;5559813,95 €;926635,66 €
+2017;UR;09;Moncloa - Aravaca;096;El Plantío;M;Suelos sin edificar, obras de urbanización y jardinería;73;;;;204661,00;2804,00;50775872,80 €;695559,90 €
+2017;UR;09;Moncloa - Aravaca;096;El Plantío;O;Oficinas;220;1998,00;266976,00;1214,00;;;323297457,09 €;1469533,90 €
+2017;UR;09;Moncloa - Aravaca;096;El Plantío;R;Religioso;1;1950,00;296,00;296,00;;;708972,06 €;708972,06 €
+2017;UR;09;Moncloa - Aravaca;096;El Plantío;T;Espectáculos;7;283,00;633,00;90,00;;;560836,08 €;80119,44 €
+2017;UR;09;Moncloa - Aravaca;096;El Plantío;V;Residencial;1061;1984,00;456523,00;430,00;;;552857894,06 €;521072,47 €
+2017;UR;09;Moncloa - Aravaca;096;El Plantío;Y;Sanidad y Beneficencia;10;1974,00;7649,00;765,00;;;9184918,07 €;918491,81 €
+2017;UR;09;Moncloa - Aravaca;097;Aravaca;A;Almacén-Estacionamiento;6132;1999,00;222363,00;36,00;;;74033985,23 €;12073,38 €
+2017;UR;09;Moncloa - Aravaca;097;Aravaca;C;Comercial;379;1984,00;41934,00;111,00;;;57835630,27 €;152600,61 €
+2017;UR;09;Moncloa - Aravaca;097;Aravaca;E;Cultural;13;1981,00;74714,00;5747,00;;;74907539,01 €;5762118,39 €
+2017;UR;09;Moncloa - Aravaca;097;Aravaca;G;Ocio y Hostelería;4;1973,00;3375,00;844,00;;;4594504,10 €;1148626,02 €
+2017;UR;09;Moncloa - Aravaca;097;Aravaca;I;Industrial;28;1975,00;3084,00;110,00;;;3223619,39 €;115129,26 €
+2017;UR;09;Moncloa - Aravaca;097;Aravaca;K;Deportivo;63;1989,00;42117,00;669,00;;;38425658,88 €;609931,09 €
+2017;UR;09;Moncloa - Aravaca;097;Aravaca;M;Suelos sin edificar, obras de urbanización y jardinería;236;;;;1154326,00;4891,00;121857234,59 €;516344,21 €
+2017;UR;09;Moncloa - Aravaca;097;Aravaca;O;Oficinas;74;1989,00;74445,00;1006,00;;;76793116,05 €;1037744,81 €
+2017;UR;09;Moncloa - Aravaca;097;Aravaca;P;Edificio Singular;4;1978,00;3061,00;765,00;;;2610509,58 €;652627,40 €
+2017;UR;09;Moncloa - Aravaca;097;Aravaca;R;Religioso;8;1974,00;18255,00;2282,00;;;19527167,18 €;2440895,90 €
+2017;UR;09;Moncloa - Aravaca;097;Aravaca;T;Espectáculos;1;1960,00;1573,00;1573,00;;;1749889,90 €;1749889,90 €
+2017;UR;09;Moncloa - Aravaca;097;Aravaca;V;Residencial;9744;1991,00;2112711,00;217,00;;;2293369557,88 €;235362,23 €
+2017;UR;09;Moncloa - Aravaca;097;Aravaca;Y;Sanidad y Beneficencia;18;1989,00;64078,00;3560,00;;;76890256,16 €;4271680,90 €
+2017;UR;10;Latina;101;Cármenes;A;Almacén-Estacionamiento;1999;1994,00;103495,00;52,00;;;33665847,34 €;16841,34 €
+2017;UR;10;Latina;101;Cármenes;C;Comercial;402;1976,00;55547,00;138,00;;;47264161,35 €;117572,54 €
+2017;UR;10;Latina;101;Cármenes;E;Cultural;3;1981,00;13190,00;4397,00;;;10462592,35 €;3487530,78 €
+2017;UR;10;Latina;101;Cármenes;G;Ocio y Hostelería;5;1568,00;520,00;104,00;;;431991,15 €;86398,23 €
+2017;UR;10;Latina;101;Cármenes;I;Industrial;22;1967,00;34041,00;1547,00;;;18918586,99 €;859935,77 €
+2017;UR;10;Latina;101;Cármenes;K;Deportivo;14;1994,00;87280,00;6234,00;;;53752342,08 €;3839453,01 €
+2017;UR;10;Latina;101;Cármenes;M;Suelos sin edificar, obras de urbanización y jardinería;48;;;;537472,00;11197,00;20266960,83 €;422228,35 €
+2017;UR;10;Latina;101;Cármenes;O;Oficinas;31;1986,00;6870,00;222,00;;;6688691,44 €;215764,24 €
+2017;UR;10;Latina;101;Cármenes;P;Edificio Singular;2;1975,00;7829,00;3914,00;;;6586835,15 €;3293417,58 €
+2017;UR;10;Latina;101;Cármenes;V;Residencial;7398;1977,00;667385,00;90,00;;;574378299,78 €;77639,67 €
+2017;UR;10;Latina;101;Cármenes;Y;Sanidad y Beneficencia;6;1993,00;9445,00;1574,00;;;10124536,42 €;1687422,74 €
+2017;UR;10;Latina;102;Puerta del Angel;A;Almacén-Estacionamiento;3419;1990,00;212249,00;62,00;;;76660385,84 €;22421,87 €
+2017;UR;10;Latina;102;Puerta del Angel;C;Comercial;1606;1959,00;168848,00;105,00;;;171888823,89 €;107029,16 €
+2017;UR;10;Latina;102;Puerta del Angel;E;Cultural;32;1960,00;51475,00;1609,00;;;40365504,47 €;1261422,01 €
+2017;UR;10;Latina;102;Puerta del Angel;G;Ocio y Hostelería;7;1688,00;3104,00;443,00;;;3850160,08 €;550022,87 €
+2017;UR;10;Latina;102;Puerta del Angel;I;Industrial;75;1962,00;18386,00;245,00;;;9890640,14 €;131875,20 €
+2017;UR;10;Latina;102;Puerta del Angel;K;Deportivo;5;1983,00;1793,00;359,00;;;1157998,79 €;231599,76 €
+2017;UR;10;Latina;102;Puerta del Angel;M;Suelos sin edificar, obras de urbanización y jardinería;49;;;;36015,00;735,00;11759592,60 €;239991,69 €
+2017;UR;10;Latina;102;Puerta del Angel;O;Oficinas;148;1967,00;44444,00;300,00;;;38709765,22 €;261552,47 €
+2017;UR;10;Latina;102;Puerta del Angel;P;Edificio Singular;1;1970,00;3548,00;3548,00;;;3346899,36 €;3346899,36 €
+2017;UR;10;Latina;102;Puerta del Angel;R;Religioso;3;1968,00;828,00;276,00;;;701506,12 €;233835,37 €
+2017;UR;10;Latina;102;Puerta del Angel;T;Espectáculos;1;1950,00;246,00;246,00;;;257180,70 €;257180,70 €
+2017;UR;10;Latina;102;Puerta del Angel;V;Residencial;20109;1964,00;1674632,00;83,00;;;1572403702,23 €;78194,03 €
+2017;UR;10;Latina;102;Puerta del Angel;Y;Sanidad y Beneficencia;15;1964,00;11348,00;757,00;;;10852773,17 €;723518,21 €
+2017;UR;10;Latina;103;Lucero;A;Almacén-Estacionamiento;3929;1993,00;185250,00;47,00;;;54974891,44 €;13992,08 €
+2017;UR;10;Latina;103;Lucero;C;Comercial;958;1974,00;101624,00;106,00;;;90108916,05 €;94059,41 €
+2017;UR;10;Latina;103;Lucero;E;Cultural;23;1972,00;50843,00;2211,00;;;37544974,65 €;1632390,20 €
+2017;UR;10;Latina;103;Lucero;G;Ocio y Hostelería;15;1963,00;1621,00;108,00;;;1386205,93 €;92413,73 €
+2017;UR;10;Latina;103;Lucero;I;Industrial;40;1970,00;8632,00;216,00;;;4132860,65 €;103321,52 €
+2017;UR;10;Latina;103;Lucero;K;Deportivo;10;1981,00;12761,00;1276,00;;;7044536,18 €;704453,62 €
+2017;UR;10;Latina;103;Lucero;M;Suelos sin edificar, obras de urbanización y jardinería;51;;;;418032,00;8197,00;12064792,50 €;236564,56 €
+2017;UR;10;Latina;103;Lucero;O;Oficinas;75;1978,00;13429,00;179,00;;;11630447,90 €;155072,64 €
+2017;UR;10;Latina;103;Lucero;P;Edificio Singular;1;2007,00;12559,00;12559,00;;;7566873,61 €;7566873,61 €
+2017;UR;10;Latina;103;Lucero;R;Religioso;6;1977,00;4671,00;778,00;;;4318372,74 €;719728,79 €
+2017;UR;10;Latina;103;Lucero;V;Residencial;16176;1972,00;1339575,00;83,00;;;1223100404,61 €;75612,04 €
+2017;UR;10;Latina;103;Lucero;Y;Sanidad y Beneficencia;11;1985,00;21173,00;1925,00;;;20798240,75 €;1890749,16 €
+2017;UR;10;Latina;104;Aluche;A;Almacén-Estacionamiento;9363;1990,00;340993,00;36,00;;;96154891,84 €;10269,67 €
+2017;UR;10;Latina;104;Aluche;C;Comercial;2030;1970,00;199695,00;98,00;;;157404179,62 €;77539,00 €
+2017;UR;10;Latina;104;Aluche;E;Cultural;43;1974,00;122128,00;2840,00;;;89391013,02 €;2078860,77 €
+2017;UR;10;Latina;104;Aluche;G;Ocio y Hostelería;34;1972,00;6454,00;190,00;;;5002503,07 €;147132,44 €
+2017;UR;10;Latina;104;Aluche;I;Industrial;117;1972,00;37178,00;318,00;;;22021992,14 €;188222,16 €
+2017;UR;10;Latina;104;Aluche;K;Deportivo;33;1977,00;45871,00;1390,00;;;24584958,69 €;744998,75 €
+2017;UR;10;Latina;104;Aluche;M;Suelos sin edificar, obras de urbanización y jardinería;60;;;;147914,00;2465,00;19169642,98 €;319494,05 €
+2017;UR;10;Latina;104;Aluche;O;Oficinas;153;1972,00;21284,00;139,00;;;16070596,00 €;105036,58 €
+2017;UR;10;Latina;104;Aluche;P;Edificio Singular;3;1975,00;8135,00;2712,00;;;8074435,35 €;2691478,45 €
+2017;UR;10;Latina;104;Aluche;R;Religioso;14;1975,00;6268,00;448,00;;;5245573,34 €;374683,81 €
+2017;UR;10;Latina;104;Aluche;V;Residencial;29999;1970,00;2524886,00;84,00;;;2222639362,70 €;74090,45 €
+2017;UR;10;Latina;104;Aluche;Y;Sanidad y Beneficencia;59;1972,00;321452,00;5448,00;;;200307024,02 €;3395034,31 €
+2017;UR;10;Latina;105;Campamento;A;Almacén-Estacionamiento;1820;1991,00;63133,00;35,00;;;21233580,58 €;11666,80 €
+2017;UR;10;Latina;105;Campamento;C;Comercial;492;1971,00;34489,00;70,00;;;27442680,10 €;55777,81 €
+2017;UR;10;Latina;105;Campamento;E;Cultural;8;1973,00;15525,00;1941,00;;;10377230,91 €;1297153,86 €
+2017;UR;10;Latina;105;Campamento;G;Ocio y Hostelería;12;1965,00;1342,00;112,00;;;816392,58 €;68032,72 €
+2017;UR;10;Latina;105;Campamento;I;Industrial;74;1969,00;10999,00;149,00;;;67038521,24 €;905925,96 €
+2017;UR;10;Latina;105;Campamento;K;Deportivo;2;1980,00;7595,00;3798,00;;;2207030,07 €;1103515,03 €
+2017;UR;10;Latina;105;Campamento;M;Suelos sin edificar, obras de urbanización y jardinería;68;;;;144140,00;2120,00;14648686,08 €;215421,85 €
+2017;UR;10;Latina;105;Campamento;O;Oficinas;43;1973,00;8474,00;197,00;;;7056032,13 €;164093,77 €
+2017;UR;10;Latina;105;Campamento;P;Edificio Singular;11;1946,00;114739,00;10431,00;;;171575174,83 €;15597743,17 €
+2017;UR;10;Latina;105;Campamento;R;Religioso;4;1974,00;222,00;56,00;;;160556,20 €;40139,05 €
+2017;UR;10;Latina;105;Campamento;V;Residencial;8451;1973,00;753332,00;89,00;;;637243783,02 €;75404,54 €
+2017;UR;10;Latina;105;Campamento;Y;Sanidad y Beneficencia;6;1982,00;5320,00;887,00;;;4100043,23 €;683340,54 €
+2017;UR;10;Latina;106;Cuatro Vientos;A;Almacén-Estacionamiento;2221;2007,00;54388,00;24,00;;;16879910,77 €;7600,14 €
+2017;UR;10;Latina;106;Cuatro Vientos;C;Comercial;36;2008,00;30465,00;846,00;;;15987124,56 €;444086,79 €
+2017;UR;10;Latina;106;Cuatro Vientos;E;Cultural;1;2008,00;18490,00;18490,00;;;15797250,51 €;15797250,51 €
+2017;UR;10;Latina;106;Cuatro Vientos;G;Ocio y Hostelería;2;980,00;32970,00;16485,00;;;15980134,64 €;7990067,32 €
+2017;UR;10;Latina;106;Cuatro Vientos;I;Industrial;22;1980,00;109994,00;5000,00;;;36329547,97 €;1651343,09 €
+2017;UR;10;Latina;106;Cuatro Vientos;K;Deportivo;2;1980,00;253477,00;126738,00;;;11970342,12 €;5985171,06 €
+2017;UR;10;Latina;106;Cuatro Vientos;M;Suelos sin edificar, obras de urbanización y jardinería;111;;;;655340,00;5904,00;56986593,80 €;513392,74 €
+2017;UR;10;Latina;106;Cuatro Vientos;O;Oficinas;421;2008,00;40363,00;96,00;;;48060509,98 €;114157,98 €
+2017;UR;10;Latina;106;Cuatro Vientos;P;Edificio Singular;2;1982,00;447650,00;223825,00;;;127907739,71 €;63953869,86 €
+2017;UR;10;Latina;106;Cuatro Vientos;V;Residencial;2321;2007,00;284941,00;123,00;;;260783627,41 €;112358,31 €
+2017;UR;10;Latina;106;Cuatro Vientos;Y;Sanidad y Beneficencia;4;2001,00;47842,00;11960,00;;;33528365,45 €;8382091,36 €
+2017;UR;10;Latina;107;Aguilas;A;Almacén-Estacionamiento;2914;1989,00;159252,00;55,00;;;46766399,93 €;16048,87 €
+2017;UR;10;Latina;107;Aguilas;C;Comercial;1174;1974,00;192553,00;164,00;;;134542241,97 €;114601,57 €
+2017;UR;10;Latina;107;Aguilas;E;Cultural;34;1974,00;91212,00;2683,00;;;54783348,11 €;1611274,94 €
+2017;UR;10;Latina;107;Aguilas;G;Ocio y Hostelería;18;1968,00;1190,00;66,00;;;930176,52 €;51676,47 €
+2017;UR;10;Latina;107;Aguilas;I;Industrial;54;1969,00;5991,00;111,00;;;2966237,57 €;54930,33 €
+2017;UR;10;Latina;107;Aguilas;K;Deportivo;20;1980,00;151561,00;7578,00;;;74847260,77 €;3742363,04 €
+2017;UR;10;Latina;107;Aguilas;M;Suelos sin edificar, obras de urbanización y jardinería;75;;;;1236869,00;16492,00;95870785,60 €;1278277,14 €
+2017;UR;10;Latina;107;Aguilas;O;Oficinas;79;1994,00;13484,00;171,00;;;11678106,34 €;147824,13 €
+2017;UR;10;Latina;107;Aguilas;P;Edificio Singular;4;1981,00;32068,00;8017,00;;;19791004,31 €;4947751,08 €
+2017;UR;10;Latina;107;Aguilas;R;Religioso;7;1989,00;11791,00;1684,00;;;9126412,64 €;1303773,23 €
+2017;UR;10;Latina;107;Aguilas;V;Residencial;23011;1973,00;1916365,00;83,00;;;1410044532,41 €;61276,98 €
+2017;UR;10;Latina;107;Aguilas;Y;Sanidad y Beneficencia;20;1979,00;35215,00;1761,00;;;30508963,07 €;1525448,15 €
+2017;UR;11;Carabanchel;111;Comillas;A;Almacén-Estacionamiento;1608;1987,00;128575,00;80,00;;;31311705,89 €;19472,45 €
+2017;UR;11;Carabanchel;111;Comillas;C;Comercial;923;1965,00;100600,00;109,00;;;85968185,70 €;93139,96 €
+2017;UR;11;Carabanchel;111;Comillas;E;Cultural;8;1951,00;15038,00;1880,00;;;7380707,37 €;922588,42 €
+2017;UR;11;Carabanchel;111;Comillas;G;Ocio y Hostelería;3;1974,00;19840,00;6613,00;;;19439779,49 €;6479926,50 €
+2017;UR;11;Carabanchel;111;Comillas;I;Industrial;111;1964,00;24346,00;219,00;;;11978173,33 €;107911,47 €
+2017;UR;11;Carabanchel;111;Comillas;K;Deportivo;5;1984,00;10367,00;2073,00;;;3816940,12 €;763388,02 €
+2017;UR;11;Carabanchel;111;Comillas;M;Suelos sin edificar, obras de urbanización y jardinería;26;;;;8831,00;340,00;5058627,20 €;194562,58 €
+2017;UR;11;Carabanchel;111;Comillas;O;Oficinas;185;1969,00;15861,00;86,00;;;13371325,09 €;72277,43 €
+2017;UR;11;Carabanchel;111;Comillas;R;Religioso;4;1969,00;5938,00;1484,00;;;3176461,04 €;794115,26 €
+2017;UR;11;Carabanchel;111;Comillas;V;Residencial;10915;1966,00;905219,00;83,00;;;704353567,70 €;64530,79 €
+2017;UR;11;Carabanchel;112;Opañel;A;Almacén-Estacionamiento;4817;1991,00;234844,00;49,00;;;63670837,73 €;13217,94 €
+2017;UR;11;Carabanchel;112;Opañel;C;Comercial;1098;1968,00;129197,00;118,00;;;100363990,70 €;91406,18 €
+2017;UR;11;Carabanchel;112;Opañel;E;Cultural;20;1973,00;44593,00;2230,00;;;27658305,65 €;1382915,28 €
+2017;UR;11;Carabanchel;112;Opañel;G;Ocio y Hostelería;1;1970,00;220,00;220,00;;;174771,52 €;174771,52 €
+2017;UR;11;Carabanchel;112;Opañel;I;Industrial;212;1969,00;57944,00;273,00;;;30302790,73 €;142937,69 €
+2017;UR;11;Carabanchel;112;Opañel;K;Deportivo;4;1998,00;19686,00;4922,00;;;11712303,40 €;2928075,85 €
+2017;UR;11;Carabanchel;112;Opañel;M;Suelos sin edificar, obras de urbanización y jardinería;62;;;;67719,00;1092,00;15827886,40 €;255288,49 €
+2017;UR;11;Carabanchel;112;Opañel;O;Oficinas;178;1978,00;39981,00;225,00;;;31397990,07 €;176393,20 €
+2017;UR;11;Carabanchel;112;Opañel;P;Edificio Singular;1;1973,00;412,00;412,00;;;258702,32 €;258702,32 €
+2017;UR;11;Carabanchel;112;Opañel;R;Religioso;6;1980,00;44800,00;7467,00;;;8295662,55 €;1382610,42 €
+2017;UR;11;Carabanchel;112;Opañel;T;Espectáculos;1;1965,00;2425,00;2425,00;;;2019808,69 €;2019808,69 €
+2017;UR;11;Carabanchel;112;Opañel;V;Residencial;15001;1972,00;1282809,00;86,00;;;973348072,52 €;64885,55 €
+2017;UR;11;Carabanchel;112;Opañel;Y;Sanidad y Beneficencia;3;1999,00;9568,00;3189,00;;;7766344,22 €;2588781,41 €
+2017;UR;11;Carabanchel;113;San Isidro;A;Almacén-Estacionamiento;6024;1994,00;260573,00;43,00;;;57066243,90 €;9473,15 €
+2017;UR;11;Carabanchel;113;San Isidro;C;Comercial;1019;1969,00;113641,00;112,00;;;87413584,20 €;85783,69 €
+2017;UR;11;Carabanchel;113;San Isidro;E;Cultural;24;1969,00;37862,00;1578,00;;;23882804,70 €;995116,86 €
+2017;UR;11;Carabanchel;113;San Isidro;G;Ocio y Hostelería;2;1999,00;486,00;243,00;;;383684,80 €;191842,40 €
+2017;UR;11;Carabanchel;113;San Isidro;I;Industrial;350;1972,00;130331,00;372,00;;;60161437,28 €;171889,82 €
+2017;UR;11;Carabanchel;113;San Isidro;K;Deportivo;9;1981,00;16373,00;1819,00;;;7521635,39 €;835737,27 €
+2017;UR;11;Carabanchel;113;San Isidro;M;Suelos sin edificar, obras de urbanización y jardinería;70;;;;322094,00;4601,00;16950984,08 €;242156,92 €
+2017;UR;11;Carabanchel;113;San Isidro;O;Oficinas;131;1986,00;37093,00;283,00;;;26317431,71 €;200896,43 €
+2017;UR;11;Carabanchel;113;San Isidro;P;Edificio Singular;2;2008,00;16344,00;8172,00;;;10267287,16 €;5133643,58 €
+2017;UR;11;Carabanchel;113;San Isidro;R;Religioso;9;1962,00;252901,00;28100,00;;;18962002,86 €;2106889,21 €
+2017;UR;11;Carabanchel;113;San Isidro;T;Espectáculos;1;1960,00;2375,00;2375,00;;;1835400,00 €;1835400,00 €
+2017;UR;11;Carabanchel;113;San Isidro;V;Residencial;17123;1975,00;1434770,00;84,00;;;1069960914,86 €;62486,77 €
+2017;UR;11;Carabanchel;113;San Isidro;Y;Sanidad y Beneficencia;20;1978,00;20464,00;1023,00;;;14191999,87 €;709599,99 €
+2017;UR;11;Carabanchel;114;Vista Alegre;A;Almacén-Estacionamiento;3943;1984,00;240903,00;61,00;;;49172019,32 €;12470,71 €
+2017;UR;11;Carabanchel;114;Vista Alegre;C;Comercial;2031;1968,00;299836,00;148,00;;;218834683,04 €;107747,26 €
+2017;UR;11;Carabanchel;114;Vista Alegre;E;Cultural;33;1963,00;74768,00;2266,00;;;42655129,86 €;1292579,69 €
+2017;UR;11;Carabanchel;114;Vista Alegre;G;Ocio y Hostelería;8;1964,00;4138,00;517,00;;;2954042,61 €;369255,33 €
+2017;UR;11;Carabanchel;114;Vista Alegre;I;Industrial;225;1966,00;43486,00;193,00;;;23053959,40 €;102462,04 €
+2017;UR;11;Carabanchel;114;Vista Alegre;K;Deportivo;8;1982,00;32486,00;4061,00;;;16925843,31 €;2115730,41 €
+2017;UR;11;Carabanchel;114;Vista Alegre;M;Suelos sin edificar, obras de urbanización y jardinería;55;;;;210086,00;3820,00;40379013,62 €;734163,88 €
+2017;UR;11;Carabanchel;114;Vista Alegre;O;Oficinas;145;1970,00;47739,00;329,00;;;40145639,32 €;276866,48 €
+2017;UR;11;Carabanchel;114;Vista Alegre;P;Edificio Singular;1;2005,00;12590,00;12590,00;;;10570639,50 €;10570639,50 €
+2017;UR;11;Carabanchel;114;Vista Alegre;R;Religioso;19;1963,00;35800,00;1884,00;;;6640453,03 €;349497,53 €
+2017;UR;11;Carabanchel;114;Vista Alegre;V;Residencial;19300;1970,00;1625730,00;84,00;;;1178174306,65 €;61045,30 €
+2017;UR;11;Carabanchel;114;Vista Alegre;Y;Sanidad y Beneficencia;19;1976,00;17832,00;939,00;;;12174959,77 €;640787,36 €
+2017;UR;11;Carabanchel;115;Puerta Bonita;A;Almacén-Estacionamiento;3925;1993,00;168348,00;43,00;;;41556949,67 €;10587,76 €
+2017;UR;11;Carabanchel;115;Puerta Bonita;C;Comercial;819;1970,00;82460,00;101,00;;;63957607,12 €;78092,32 €
+2017;UR;11;Carabanchel;115;Puerta Bonita;E;Cultural;21;1951,00;149173,00;7103,00;;;78717503,06 €;3748452,53 €
+2017;UR;11;Carabanchel;115;Puerta Bonita;G;Ocio y Hostelería;3;1978,00;2548,00;849,00;;;3127751,89 €;1042583,96 €
+2017;UR;11;Carabanchel;115;Puerta Bonita;I;Industrial;165;1969,00;34857,00;211,00;;;16866731,79 €;102222,62 €
+2017;UR;11;Carabanchel;115;Puerta Bonita;K;Deportivo;10;1983,00;24649,00;2465,00;;;12959145,85 €;1295914,58 €
+2017;UR;11;Carabanchel;115;Puerta Bonita;M;Suelos sin edificar, obras de urbanización y jardinería;73;;;;148636,00;2036,00;12360966,76 €;169328,31 €
+2017;UR;11;Carabanchel;115;Puerta Bonita;O;Oficinas;72;1973,00;8159,00;113,00;;;6381988,70 €;88638,73 €
+2017;UR;11;Carabanchel;115;Puerta Bonita;P;Edificio Singular;3;1960,00;6936,00;2312,00;;;3994999,72 €;1331666,57 €
+2017;UR;11;Carabanchel;115;Puerta Bonita;R;Religioso;8;1954,00;7721,00;965,00;;;3763049,38 €;470381,17 €
+2017;UR;11;Carabanchel;115;Puerta Bonita;V;Residencial;14085;1974,00;1145247,00;81,00;;;836130774,92 €;59363,21 €
+2017;UR;11;Carabanchel;115;Puerta Bonita;Y;Sanidad y Beneficencia;5;1977,00;68407,00;13681,00;;;49116441,66 €;9823288,33 €
+2017;UR;11;Carabanchel;116;Buenavista;A;Almacén-Estacionamiento;10528;2001,00;318839,00;30,00;;;78789929,31 €;7483,85 €
+2017;UR;11;Carabanchel;116;Buenavista;C;Comercial;930;1983,00;401916,00;432,00;;;305979554,78 €;329010,27 €
+2017;UR;11;Carabanchel;116;Buenavista;E;Cultural;14;1983,00;83967,00;5998,00;;;57723873,75 €;4123133,84 €
+2017;UR;11;Carabanchel;116;Buenavista;G;Ocio y Hostelería;11;1970,00;6443,00;586,00;;;5376535,23 €;488775,93 €
+2017;UR;11;Carabanchel;116;Buenavista;I;Industrial;480;1992,00;356310,00;742,00;;;156177814,61 €;325370,45 €
+2017;UR;11;Carabanchel;116;Buenavista;K;Deportivo;9;1996,00;84045,00;9338,00;;;44889681,00 €;4987742,33 €
+2017;UR;11;Carabanchel;116;Buenavista;M;Suelos sin edificar, obras de urbanización y jardinería;333;;;;1526816,00;4585,00;174421887,33 €;523789,45 €
+2017;UR;11;Carabanchel;116;Buenavista;O;Oficinas;293;1998,00;88038,00;300,00;;;66908913,32 €;228358,07 €
+2017;UR;11;Carabanchel;116;Buenavista;P;Edificio Singular;5;1959,00;137586,00;27517,00;;;72929985,20 €;14585997,04 €
+2017;UR;11;Carabanchel;116;Buenavista;R;Religioso;7;1990,00;918202,00;131172,00;;;73315740,88 €;10473677,27 €
+2017;UR;11;Carabanchel;116;Buenavista;V;Residencial;19596;1990,00;2014675,00;103,00;;;1466491740,19 €;74836,28 €
+2017;UR;11;Carabanchel;116;Buenavista;Y;Sanidad y Beneficencia;9;1984,00;71014,00;7890,00;;;54396250,86 €;6044027,87 €
+2017;UR;11;Carabanchel;117;Abrantes;A;Almacén-Estacionamiento;2778;1996,00;147184,00;53,00;;;34082272,95 €;12268,64 €
+2017;UR;11;Carabanchel;117;Abrantes;C;Comercial;742;1967,00;68650,00;93,00;;;50800710,27 €;68464,57 €
+2017;UR;11;Carabanchel;117;Abrantes;E;Cultural;18;1971,00;31586,00;1755,00;;;19777229,03 €;1098734,95 €
+2017;UR;11;Carabanchel;117;Abrantes;G;Ocio y Hostelería;2;1992,00;316,00;158,00;;;282905,56 €;141452,78 €
+2017;UR;11;Carabanchel;117;Abrantes;I;Industrial;85;1966,00;41285,00;486,00;;;36922617,70 €;434383,74 €
+2017;UR;11;Carabanchel;117;Abrantes;K;Deportivo;8;1986,00;58220,00;7278,00;;;23523640,43 €;2940455,05 €
+2017;UR;11;Carabanchel;117;Abrantes;M;Suelos sin edificar, obras de urbanización y jardinería;9;;;;577519,00;64169,00;3458574,00 €;384286,00 €
+2017;UR;11;Carabanchel;117;Abrantes;O;Oficinas;51;1968,00;23113,00;453,00;;;14627520,54 €;286814,13 €
+2017;UR;11;Carabanchel;117;Abrantes;R;Religioso;4;1979,00;4932,00;1233,00;;;2962071,27 €;740517,82 €
+2017;UR;11;Carabanchel;117;Abrantes;V;Residencial;12390;1974,00;1042771,00;84,00;;;745935717,24 €;60204,66 €
+2017;UR;11;Carabanchel;117;Abrantes;Y;Sanidad y Beneficencia;1;1984,00;635,00;635,00;;;403326,28 €;403326,28 €
+2017;UR;12;Usera;121;Orcasitas;A;Almacén-Estacionamiento;668;2004,00;19268,00;29,00;;;4175604,03 €;6250,90 €
+2017;UR;12;Usera;121;Orcasitas;C;Comercial;296;1985,00;32195,00;109,00;;;15869318,54 €;53612,56 €
+2017;UR;12;Usera;121;Orcasitas;E;Cultural;14;1985,00;65333,00;4667,00;;;27253927,83 €;1946709,13 €
+2017;UR;12;Usera;121;Orcasitas;I;Industrial;16;1981,00;25710,00;1607,00;;;7178616,44 €;448663,53 €
+2017;UR;12;Usera;121;Orcasitas;K;Deportivo;5;1987,00;23726,00;4745,00;;;4507722,39 €;901544,48 €
+2017;UR;12;Usera;121;Orcasitas;M;Suelos sin edificar, obras de urbanización y jardinería;25;;;;185976,00;7439,00;4454522,50 €;178180,90 €
+2017;UR;12;Usera;121;Orcasitas;O;Oficinas;12;1980,00;1670,00;139,00;;;769490,40 €;64124,20 €
+2017;UR;12;Usera;121;Orcasitas;P;Edificio Singular;2;1980,00;5510,00;2755,00;;;2479289,24 €;1239644,62 €
+2017;UR;12;Usera;121;Orcasitas;R;Religioso;4;1983,00;1809,00;452,00;;;928386,29 €;232096,57 €
+2017;UR;12;Usera;121;Orcasitas;V;Residencial;9164;1987,00;1038511,00;113,00;;;517432571,02 €;56463,62 €
+2017;UR;12;Usera;121;Orcasitas;Y;Sanidad y Beneficencia;2;1984,00;7432,00;3716,00;;;3768806,69 €;1884403,34 €
+2017;UR;12;Usera;122;Orcasur;A;Almacén-Estacionamiento;1843;2001,00;59941,00;33,00;;;12372830,62 €;6713,42 €
+2017;UR;12;Usera;122;Orcasur;C;Comercial;192;1986,00;32926,00;171,00;;;19733220,23 €;102777,19 €
+2017;UR;12;Usera;122;Orcasur;E;Cultural;13;1983,00;71800,00;5523,00;;;32940001,12 €;2533846,24 €
+2017;UR;12;Usera;122;Orcasur;G;Ocio y Hostelería;2;1979,00;200,00;100,00;;;144055,80 €;72027,90 €
+2017;UR;12;Usera;122;Orcasur;I;Industrial;32;1973,00;62341,00;1948,00;;;23126624,28 €;722707,01 €
+2017;UR;12;Usera;122;Orcasur;K;Deportivo;3;1990,00;16102,00;5367,00;;;5531530,19 €;1843843,40 €
+2017;UR;12;Usera;122;Orcasur;M;Suelos sin edificar, obras de urbanización y jardinería;39;;;;99302,00;2546,00;15162038,40 €;388770,22 €
+2017;UR;12;Usera;122;Orcasur;O;Oficinas;70;1991,00;17008,00;243,00;;;11683658,78 €;166909,41 €
+2017;UR;12;Usera;122;Orcasur;R;Religioso;3;1989,00;758,00;253,00;;;558547,65 €;186182,55 €
+2017;UR;12;Usera;122;Orcasur;V;Residencial;5193;1990,00;568105,00;109,00;;;350183967,55 €;67433,85 €
+2017;UR;12;Usera;122;Orcasur;Y;Sanidad y Beneficencia;9;1988,00;390754,00;43417,00;;;206502240,80 €;22944693,42 €
+2017;UR;12;Usera;123;San Fermín;A;Almacén-Estacionamiento;2962;1999,00;94502,00;32,00;;;20245834,54 €;6835,19 €
+2017;UR;12;Usera;123;San Fermín;C;Comercial;411;1977,00;68525,00;167,00;;;37961897,21 €;92364,71 €
+2017;UR;12;Usera;123;San Fermín;E;Cultural;6;1968,00;11108,00;1851,00;;;5475200,51 €;912533,42 €
+2017;UR;12;Usera;123;San Fermín;G;Ocio y Hostelería;3;1984,00;4574,00;1525,00;;;2367643,21 €;789214,40 €
+2017;UR;12;Usera;123;San Fermín;I;Industrial;25;1977,00;44825,00;1793,00;;;16494427,27 €;659777,09 €
+2017;UR;12;Usera;123;San Fermín;K;Deportivo;5;1994,00;150390,00;30078,00;;;193702298,67 €;38740459,73 €
+2017;UR;12;Usera;123;San Fermín;M;Suelos sin edificar, obras de urbanización y jardinería;33;;;;279739,00;8477,00;16103685,52 €;487990,47 €
+2017;UR;12;Usera;123;San Fermín;O;Oficinas;90;1986,00;43756,00;486,00;;;26384261,09 €;293158,46 €
+2017;UR;12;Usera;123;San Fermín;P;Edificio Singular;1;2009,00;13770,00;13770,00;;;9229690,80 €;9229690,80 €
+2017;UR;12;Usera;123;San Fermín;R;Religioso;1;2009,00;1663,00;1663,00;;;1766464,00 €;1766464,00 €
+2017;UR;12;Usera;123;San Fermín;V;Residencial;9186;1986,00;876077,00;95,00;;;581609073,55 €;63314,73 €
+2017;UR;12;Usera;123;San Fermín;Y;Sanidad y Beneficencia;5;1994,00;21083,00;4217,00;;;17474759,68 €;3494951,94 €
+2017;UR;12;Usera;124;Almendrales;A;Almacén-Estacionamiento;2383;1992,00;108232,00;45,00;;;23402131,81 €;9820,45 €
+2017;UR;12;Usera;124;Almendrales;C;Comercial;700;1966,00;85095,00;122,00;;;65595531,22 €;93707,90 €
+2017;UR;12;Usera;124;Almendrales;E;Cultural;13;1967,00;25883,00;1991,00;;;16342623,86 €;1257124,91 €
+2017;UR;12;Usera;124;Almendrales;G;Ocio y Hostelería;7;1953,00;1338,00;191,00;;;1126035,88 €;160862,27 €
+2017;UR;12;Usera;124;Almendrales;I;Industrial;115;1979,00;67484,00;587,00;;;34413046,53 €;299243,88 €
+2017;UR;12;Usera;124;Almendrales;K;Deportivo;3;1979,00;1918,00;639,00;;;951675,89 €;317225,30 €
+2017;UR;12;Usera;124;Almendrales;M;Suelos sin edificar, obras de urbanización y jardinería;30;;;;54369,00;1812,00;6701681,78 €;223389,39 €
+2017;UR;12;Usera;124;Almendrales;O;Oficinas;56;1975,00;23047,00;412,00;;;16029917,06 €;286248,52 €
+2017;UR;12;Usera;124;Almendrales;R;Religioso;4;1962,00;4165,00;1041,00;;;1779820,42 €;444955,10 €
+2017;UR;12;Usera;124;Almendrales;T;Espectáculos;1;1961,00;1306,00;1306,00;;;1025693,76 €;1025693,76 €
+2017;UR;12;Usera;124;Almendrales;V;Residencial;8494;1973,00;759082,00;89,00;;;542197002,47 €;63832,94 €
+2017;UR;12;Usera;124;Almendrales;Y;Sanidad y Beneficencia;3;1966,00;3720,00;1240,00;;;2584262,63 €;861420,88 €
+2017;UR;12;Usera;125;Moscardó;A;Almacén-Estacionamiento;1487;1985,00;98394,00;66,00;;;20187221,19 €;13575,80 €
+2017;UR;12;Usera;125;Moscardó;C;Comercial;944;1962,00;109466,00;116,00;;;82002665,36 €;86867,23 €
+2017;UR;12;Usera;125;Moscardó;E;Cultural;12;1964,00;30768,00;2564,00;;;17393924,37 €;1449493,70 €
+2017;UR;12;Usera;125;Moscardó;G;Ocio y Hostelería;4;1988,00;3006,00;752,00;;;2281071,65 €;570267,91 €
+2017;UR;12;Usera;125;Moscardó;I;Industrial;47;1960,00;11661,00;248,00;;;6238717,79 €;132738,68 €
+2017;UR;12;Usera;125;Moscardó;K;Deportivo;20;1967,00;28879,00;1444,00;;;13522030,94 €;676101,55 €
+2017;UR;12;Usera;125;Moscardó;M;Suelos sin edificar, obras de urbanización y jardinería;12;;;;38302,00;3192,00;14938988,00 €;1244915,67 €
+2017;UR;12;Usera;125;Moscardó;O;Oficinas;66;1965,00;34792,00;527,00;;;22246136,63 €;337062,68 €
+2017;UR;12;Usera;125;Moscardó;P;Edificio Singular;1;1995,00;3927,00;3927,00;;;3311141,68 €;3311141,68 €
+2017;UR;12;Usera;125;Moscardó;R;Religioso;3;1981,00;4900,00;1633,00;;;2932236,81 €;977412,27 €
+2017;UR;12;Usera;125;Moscardó;V;Residencial;11098;1962,00;889631,00;80,00;;;622400290,64 €;56082,20 €
+2017;UR;12;Usera;125;Moscardó;Y;Sanidad y Beneficencia;5;1965,00;4130,00;826,00;;;2955856,78 €;591171,36 €
+2017;UR;12;Usera;126;Zofío;A;Almacén-Estacionamiento;817;1988,00;38505,00;47,00;;;5594876,59 €;6848,07 €
+2017;UR;12;Usera;126;Zofío;C;Comercial;422;1970,00;35341,00;84,00;;;20744078,50 €;49156,58 €
+2017;UR;12;Usera;126;Zofío;E;Cultural;8;1970,00;36726,00;4591,00;;;15607884,24 €;1950985,53 €
+2017;UR;12;Usera;126;Zofío;G;Ocio y Hostelería;2;1968,00;192,00;96,00;;;111638,90 €;55819,45 €
+2017;UR;12;Usera;126;Zofío;I;Industrial;43;1970,00;10221,00;238,00;;;3275536,66 €;76175,27 €
+2017;UR;12;Usera;126;Zofío;K;Deportivo;5;1991,00;66578,00;13316,00;;;12296872,47 €;2459374,49 €
+2017;UR;12;Usera;126;Zofío;M;Suelos sin edificar, obras de urbanización y jardinería;15;;;;60877,00;4058,00;2074305,80 €;138287,05 €
+2017;UR;12;Usera;126;Zofío;O;Oficinas;22;1970,00;3860,00;175,00;;;1674243,03 €;76101,96 €
+2017;UR;12;Usera;126;Zofío;R;Religioso;2;1955,00;1161,00;580,00;;;500258,51 €;250129,26 €
+2017;UR;12;Usera;126;Zofío;V;Residencial;5484;1973,00;450720,00;82,00;;;255643156,46 €;46616,18 €
+2017;UR;12;Usera;126;Zofío;Y;Sanidad y Beneficencia;5;1984,00;4201,00;840,00;;;1756927,97 €;351385,59 €
+2017;UR;12;Usera;127;Pradolongo;A;Almacén-Estacionamiento;1241;1990,00;67964,00;55,00;;;12841747,66 €;10347,90 €
+2017;UR;12;Usera;127;Pradolongo;C;Comercial;811;1967,00;81346,00;100,00;;;53631933,76 €;66130,62 €
+2017;UR;12;Usera;127;Pradolongo;E;Cultural;17;1967,00;18273,00;1075,00;;;10383418,19 €;610789,31 €
+2017;UR;12;Usera;127;Pradolongo;G;Ocio y Hostelería;1;2005,00;301,00;301,00;;;179129,24 €;179129,24 €
+2017;UR;12;Usera;127;Pradolongo;I;Industrial;57;1978,00;14827,00;260,00;;;4055370,97 €;71146,86 €
+2017;UR;12;Usera;127;Pradolongo;K;Deportivo;5;1992,00;65612,00;13122,00;;;16502400,91 €;3300480,18 €
+2017;UR;12;Usera;127;Pradolongo;M;Suelos sin edificar, obras de urbanización y jardinería;20;;;;18190,00;910,00;2036984,36 €;101849,22 €
+2017;UR;12;Usera;127;Pradolongo;O;Oficinas;79;1974,00;11172,00;141,00;;;6955458,21 €;88043,77 €
+2017;UR;12;Usera;127;Pradolongo;P;Edificio Singular;3;2003,00;11810,00;3937,00;;;7063463,26 €;2354487,75 €
+2017;UR;12;Usera;127;Pradolongo;R;Religioso;7;1960,00;2912,00;416,00;;;1371916,51 €;195988,07 €
+2017;UR;12;Usera;127;Pradolongo;T;Espectáculos;1;1995,00;241,00;241,00;;;200989,18 €;200989,18 €
+2017;UR;12;Usera;127;Pradolongo;V;Residencial;6560;1971,00;540897,00;82,00;;;317704654,19 €;48430,59 €
+2017;UR;12;Usera;127;Pradolongo;Y;Sanidad y Beneficencia;6;1986,00;16960,00;2827,00;;;12611513,99 €;2101919,00 €
+2017;UR;13;Puente de Vallecas;131;Entrevías;A;Almacén-Estacionamiento;715;1988,00;51966,00;73,00;;;9775073,45 €;13671,43 €
+2017;UR;13;Puente de Vallecas;131;Entrevías;C;Comercial;1070;1976,00;90001,00;84,00;;;45832900,38 €;42834,49 €
+2017;UR;13;Puente de Vallecas;131;Entrevías;E;Cultural;19;1976,00;71007,00;3737,00;;;34859863,95 €;1834729,68 €
+2017;UR;13;Puente de Vallecas;131;Entrevías;G;Ocio y Hostelería;10;1983,00;6084,00;608,00;;;3285064,49 €;328506,45 €
+2017;UR;13;Puente de Vallecas;131;Entrevías;I;Industrial;44;1976,00;352469,00;8011,00;;;97193680,41 €;2208947,28 €
+2017;UR;13;Puente de Vallecas;131;Entrevías;K;Deportivo;12;1988,00;158565,00;13214,00;;;24564329,93 €;2047027,49 €
+2017;UR;13;Puente de Vallecas;131;Entrevías;M;Suelos sin edificar, obras de urbanización y jardinería;96;;;;1667692,00;17372,00;29419352,68 €;306451,59 €
+2017;UR;13;Puente de Vallecas;131;Entrevías;O;Oficinas;4;1977,00;3122,00;780,00;;;1712900,95 €;428225,24 €
+2017;UR;13;Puente de Vallecas;131;Entrevías;P;Edificio Singular;1;1978,00;4880,00;4880,00;;;2625713,28 €;2625713,28 €
+2017;UR;13;Puente de Vallecas;131;Entrevías;R;Religioso;4;1985,00;5396,00;1349,00;;;3389622,57 €;847405,64 €
+2017;UR;13;Puente de Vallecas;131;Entrevías;T;Espectáculos;1;1983,00;1835,00;1835,00;;;654199,52 €;654199,52 €
+2017;UR;13;Puente de Vallecas;131;Entrevías;V;Residencial;13645;1975,00;1150973,00;84,00;;;616698611,15 €;45195,94 €
+2017;UR;13;Puente de Vallecas;131;Entrevías;Y;Sanidad y Beneficencia;8;1973,00;9868,00;1234,00;;;6021618,51 €;752702,31 €
+2017;UR;13;Puente de Vallecas;132;San Diego;A;Almacén-Estacionamiento;2421;1993,00;136597,00;56,00;;;27521527,29 €;11367,83 €
+2017;UR;13;Puente de Vallecas;132;San Diego;C;Comercial;1985;1962,00;219484,00;111,00;;;157879640,01 €;79536,34 €
+2017;UR;13;Puente de Vallecas;132;San Diego;E;Cultural;22;1964,00;33192,00;1509,00;;;18136494,31 €;824386,10 €
+2017;UR;13;Puente de Vallecas;132;San Diego;G;Ocio y Hostelería;10;1954,00;8181,00;818,00;;;5594104,60 €;559410,46 €
+2017;UR;13;Puente de Vallecas;132;San Diego;I;Industrial;40;1961,00;7202,00;180,00;;;3829646,10 €;95741,15 €
+2017;UR;13;Puente de Vallecas;132;San Diego;K;Deportivo;4;1989,00;6931,00;1733,00;;;3036028,98 €;759007,24 €
+2017;UR;13;Puente de Vallecas;132;San Diego;M;Suelos sin edificar, obras de urbanización y jardinería;248;;;;87088,00;351,00;32657824,92 €;131684,78 €
+2017;UR;13;Puente de Vallecas;132;San Diego;O;Oficinas;41;1964,00;13031,00;318,00;;;9455666,94 €;230626,02 €
+2017;UR;13;Puente de Vallecas;132;San Diego;P;Edificio Singular;2;1940,00;4007,00;2004,00;;;2176502,38 €;1088251,19 €
+2017;UR;13;Puente de Vallecas;132;San Diego;R;Religioso;11;1966,00;10458,00;951,00;;;5876583,17 €;534234,83 €
+2017;UR;13;Puente de Vallecas;132;San Diego;T;Espectáculos;2;1960,00;2646,00;1323,00;;;1590648,78 €;795324,39 €
+2017;UR;13;Puente de Vallecas;132;San Diego;V;Residencial;17605;1964,00;1224419,00;70,00;;;855732126,09 €;48607,33 €
+2017;UR;13;Puente de Vallecas;132;San Diego;Y;Sanidad y Beneficencia;12;1968,00;23970,00;1998,00;;;16036907,52 €;1336408,96 €
+2017;UR;13;Puente de Vallecas;133;Palomeras Bajas;A;Almacén-Estacionamiento;4821;1993,00;215129,00;45,00;;;40077979,10 €;8313,21 €
+2017;UR;13;Puente de Vallecas;133;Palomeras Bajas;C;Comercial;972;1977,00;123231,00;127,00;;;68501078,89 €;70474,36 €
+2017;UR;13;Puente de Vallecas;133;Palomeras Bajas;E;Cultural;28;1980,00;93438,00;3337,00;;;46836952,43 €;1672748,30 €
+2017;UR;13;Puente de Vallecas;133;Palomeras Bajas;G;Ocio y Hostelería;3;1975,00;501,00;167,00;;;303545,81 €;101181,94 €
+2017;UR;13;Puente de Vallecas;133;Palomeras Bajas;I;Industrial;46;1982,00;6975,00;152,00;;;3068902,55 €;66715,27 €
+2017;UR;13;Puente de Vallecas;133;Palomeras Bajas;K;Deportivo;15;1994,00;73790,00;4919,00;;;33162739,91 €;2210849,33 €
+2017;UR;13;Puente de Vallecas;133;Palomeras Bajas;M;Suelos sin edificar, obras de urbanización y jardinería;125;;;;125018,00;1000,00;9668930,25 €;77351,44 €
+2017;UR;13;Puente de Vallecas;133;Palomeras Bajas;O;Oficinas;10;1968,00;794,00;79,00;;;457430,80 €;45743,08 €
+2017;UR;13;Puente de Vallecas;133;Palomeras Bajas;P;Edificio Singular;6;1984,00;26860,00;4477,00;;;15986222,93 €;2664370,49 €
+2017;UR;13;Puente de Vallecas;133;Palomeras Bajas;R;Religioso;8;1975,00;8739,00;1092,00;;;4761686,51 €;595210,81 €
+2017;UR;13;Puente de Vallecas;133;Palomeras Bajas;T;Espectáculos;3;1992,00;646,00;215,00;;;395930,87 €;131976,96 €
+2017;UR;13;Puente de Vallecas;133;Palomeras Bajas;V;Residencial;16642;1981,00;1581335,00;95,00;;;907459419,30 €;54528,27 €
+2017;UR;13;Puente de Vallecas;133;Palomeras Bajas;Y;Sanidad y Beneficencia;14;1986,00;18716,00;1337,00;;;11964568,97 €;854612,07 €
+2017;UR;13;Puente de Vallecas;134;Palomeras Sureste;A;Almacén-Estacionamiento;7221;1994,00;268769,00;37,00;;;55195988,14 €;7643,82 €
+2017;UR;13;Puente de Vallecas;134;Palomeras Sureste;C;Comercial;1164;1979,00;94822,00;81,00;;;51307678,98 €;44078,76 €
+2017;UR;13;Puente de Vallecas;134;Palomeras Sureste;E;Cultural;32;1984,00;149473,00;4671,00;;;71685091,86 €;2240159,12 €
+2017;UR;13;Puente de Vallecas;134;Palomeras Sureste;G;Ocio y Hostelería;1;2014,00;1558,00;1558,00;;;670033,08 €;670033,08 €
+2017;UR;13;Puente de Vallecas;134;Palomeras Sureste;I;Industrial;269;1991,00;175647,00;653,00;;;57727172,63 €;214599,15 €
+2017;UR;13;Puente de Vallecas;134;Palomeras Sureste;K;Deportivo;10;1985,00;57445,00;5744,00;;;20174440,09 €;2017444,01 €
+2017;UR;13;Puente de Vallecas;134;Palomeras Sureste;M;Suelos sin edificar, obras de urbanización y jardinería;53;;;;170732,00;3221,00;31877693,60 €;601465,92 €
+2017;UR;13;Puente de Vallecas;134;Palomeras Sureste;O;Oficinas;163;2003,00;45203,00;277,00;;;29531397,22 €;181174,22 €
+2017;UR;13;Puente de Vallecas;134;Palomeras Sureste;P;Edificio Singular;3;1996,00;9143,00;3048,00;;;5785130,92 €;1928376,97 €
+2017;UR;13;Puente de Vallecas;134;Palomeras Sureste;R;Religioso;7;1983,00;3573,00;510,00;;;2404626,75 €;343518,11 €
+2017;UR;13;Puente de Vallecas;134;Palomeras Sureste;V;Residencial;17723;1982,00;1608634,00;91,00;;;993078928,78 €;56033,34 €
+2017;UR;13;Puente de Vallecas;134;Palomeras Sureste;Y;Sanidad y Beneficencia;14;1985,00;19399,00;1386,00;;;14002827,87 €;1000201,99 €
+2017;UR;13;Puente de Vallecas;135;Portazgo;A;Almacén-Estacionamiento;2995;1991,00;116455,00;39,00;;;20333655,25 €;6789,20 €
+2017;UR;13;Puente de Vallecas;135;Portazgo;C;Comercial;1148;1976,00;84118,00;73,00;;;44515962,12 €;38776,97 €
+2017;UR;13;Puente de Vallecas;135;Portazgo;E;Cultural;33;1976,00;38005,00;1152,00;;;18149596,21 €;549987,76 €
+2017;UR;13;Puente de Vallecas;135;Portazgo;G;Ocio y Hostelería;6;1984,00;1799,00;300,00;;;1057250,83 €;176208,47 €
+2017;UR;13;Puente de Vallecas;135;Portazgo;I;Industrial;100;1979,00;168496,00;1685,00;;;21489132,68 €;214891,33 €
+2017;UR;13;Puente de Vallecas;135;Portazgo;K;Deportivo;16;1970,00;7020,00;439,00;;;2047343,94 €;127959,00 €
+2017;UR;13;Puente de Vallecas;135;Portazgo;M;Suelos sin edificar, obras de urbanización y jardinería;28;;;;47541,00;1698,00;7490358,05 €;267512,79 €
+2017;UR;13;Puente de Vallecas;135;Portazgo;O;Oficinas;36;1976,00;2471,00;69,00;;;1401618,86 €;38933,86 €
+2017;UR;13;Puente de Vallecas;135;Portazgo;R;Religioso;3;1987,00;5370,00;1790,00;;;3651229,03 €;1217076,34 €
+2017;UR;13;Puente de Vallecas;135;Portazgo;T;Espectáculos;2;1979,00;535,00;268,00;;;356890,77 €;178445,38 €
+2017;UR;13;Puente de Vallecas;135;Portazgo;V;Residencial;11832;1977,00;986760,00;83,00;;;579359704,87 €;48965,49 €
+2017;UR;13;Puente de Vallecas;135;Portazgo;Y;Sanidad y Beneficencia;3;1990,00;13882,00;4627,00;;;9562164,41 €;3187388,14 €
+2017;UR;13;Puente de Vallecas;136;Numancia;A;Almacén-Estacionamiento;3729;1991,00;216485,00;58,00;;;45530447,77 €;12209,83 €
+2017;UR;13;Puente de Vallecas;136;Numancia;C;Comercial;1162;1967,00;182892,00;157,00;;;134062197,98 €;115371,94 €
+2017;UR;13;Puente de Vallecas;136;Numancia;E;Cultural;23;1975,00;48404,00;2105,00;;;25809237,33 €;1122140,75 €
+2017;UR;13;Puente de Vallecas;136;Numancia;G;Ocio y Hostelería;9;1981,00;3181,00;353,00;;;3986881,56 €;442986,84 €
+2017;UR;13;Puente de Vallecas;136;Numancia;I;Industrial;219;1973,00;36071,00;165,00;;;15216888,68 €;69483,51 €
+2017;UR;13;Puente de Vallecas;136;Numancia;K;Deportivo;8;1983,00;63163,00;7895,00;;;30603361,68 €;3825420,21 €
+2017;UR;13;Puente de Vallecas;136;Numancia;M;Suelos sin edificar, obras de urbanización y jardinería;224;;;;326676,00;1458,00;26095219,19 €;116496,51 €
+2017;UR;13;Puente de Vallecas;136;Numancia;O;Oficinas;118;1972,00;18315,00;155,00;;;11634724,27 €;98599,36 €
+2017;UR;13;Puente de Vallecas;136;Numancia;P;Edificio Singular;6;1973,00;10803,00;1800,00;;;5972421,63 €;995403,60 €
+2017;UR;13;Puente de Vallecas;136;Numancia;R;Religioso;11;1975,00;3270,00;297,00;;;2189507,54 €;199046,14 €
+2017;UR;13;Puente de Vallecas;136;Numancia;T;Espectáculos;1;1955,00;1938,00;1938,00;;;939640,38 €;939640,38 €
+2017;UR;13;Puente de Vallecas;136;Numancia;V;Residencial;20127;1971,00;1703906,00;85,00;;;1067271008,50 €;53026,83 €
+2017;UR;13;Puente de Vallecas;136;Numancia;Y;Sanidad y Beneficencia;21;1984,00;48556,00;2312,00;;;34129787,99 €;1625228,00 €
+2017;UR;14;Moratalaz;141;Pavones;A;Almacén-Estacionamiento;209;1995,00;6533,00;31,00;;;2244542,24 €;10739,44 €
+2017;UR;14;Moratalaz;141;Pavones;C;Comercial;200;1977,00;16294,00;81,00;;;16073115,59 €;80365,58 €
+2017;UR;14;Moratalaz;141;Pavones;E;Cultural;10;1990,00;66955,00;6696,00;;;65929332,55 €;6592933,26 €
+2017;UR;14;Moratalaz;141;Pavones;G;Ocio y Hostelería;4;1975,00;635,00;159,00;;;653059,40 €;163264,85 €
+2017;UR;14;Moratalaz;141;Pavones;I;Industrial;4;1983,00;4541,00;1135,00;;;2959633,81 €;739908,45 €
+2017;UR;14;Moratalaz;141;Pavones;K;Deportivo;4;1987,00;44937,00;11234,00;;;26728176,44 €;6682044,11 €
+2017;UR;14;Moratalaz;141;Pavones;M;Suelos sin edificar, obras de urbanización y jardinería;10;;;;201469,00;20147,00;7153612,00 €;715361,20 €
+2017;UR;14;Moratalaz;141;Pavones;O;Oficinas;37;1980,00;2870,00;78,00;;;3001674,16 €;81126,33 €
+2017;UR;14;Moratalaz;141;Pavones;P;Edificio Singular;1;1998,00;6142,00;6142,00;;;7392005,29 €;7392005,29 €
+2017;UR;14;Moratalaz;141;Pavones;R;Religioso;1;1972,00;1041,00;1041,00;;;740161,02 €;740161,02 €
+2017;UR;14;Moratalaz;141;Pavones;V;Residencial;3558;1979,00;375954,00;106,00;;;363881686,32 €;102271,41 €
+2017;UR;14;Moratalaz;141;Pavones;Y;Sanidad y Beneficencia;8;1995,00;56070,00;7009,00;;;59008601,63 €;7376075,20 €
+2017;UR;14;Moratalaz;142;Horcajo;A;Almacén-Estacionamiento;1328;2001,00;36823,00;28,00;;;12587298,15 €;9478,39 €
+2017;UR;14;Moratalaz;142;Horcajo;C;Comercial;107;2000,00;10614,00;99,00;;;13233975,27 €;123682,01 €
+2017;UR;14;Moratalaz;142;Horcajo;K;Deportivo;2;2011,00;6948,00;3474,00;;;2153945,00 €;1076972,50 €
+2017;UR;14;Moratalaz;142;Horcajo;M;Suelos sin edificar, obras de urbanización y jardinería;6;;;;278617,00;46436,00;10274120,00 €;1712353,33 €
+2017;UR;14;Moratalaz;142;Horcajo;O;Oficinas;3;2002,00;285,00;95,00;;;326125,60 €;108708,53 €
+2017;UR;14;Moratalaz;142;Horcajo;V;Residencial;2410;1999,00;338325,00;140,00;;;338820633,92 €;140589,47 €
+2017;UR;14;Moratalaz;143;Marroquina;A;Almacén-Estacionamiento;2866;1988,00;168085,00;59,00;;;42585680,66 €;14858,93 €
+2017;UR;14;Moratalaz;143;Marroquina;C;Comercial;795;1975,00;65862,00;83,00;;;66614549,62 €;83791,89 €
+2017;UR;14;Moratalaz;143;Marroquina;E;Cultural;16;1983,00;83114,00;5195,00;;;79799841,35 €;4987490,08 €
+2017;UR;14;Moratalaz;143;Marroquina;G;Ocio y Hostelería;1;1998,00;50,00;50,00;;;54670,00 €;54670,00 €
+2017;UR;14;Moratalaz;143;Marroquina;I;Industrial;24;1982,00;8985,00;374,00;;;3242194,84 €;135091,45 €
+2017;UR;14;Moratalaz;143;Marroquina;K;Deportivo;14;1983,00;26618,00;1901,00;;;18936117,92 €;1352579,85 €
+2017;UR;14;Moratalaz;143;Marroquina;M;Suelos sin edificar, obras de urbanización y jardinería;10;;;;661634,00;66163,00;7460199,00 €;746019,90 €
+2017;UR;14;Moratalaz;143;Marroquina;O;Oficinas;84;1973,00;11737,00;140,00;;;10246396,66 €;121980,91 €
+2017;UR;14;Moratalaz;143;Marroquina;R;Religioso;3;1974,00;2794,00;931,00;;;2421459,67 €;807153,22 €
+2017;UR;14;Moratalaz;143;Marroquina;V;Residencial;11860;1976,00;1168182,00;98,00;;;1192423623,69 €;100541,62 €
+2017;UR;14;Moratalaz;143;Marroquina;Y;Sanidad y Beneficencia;7;1980,00;10230,00;1461,00;;;11314677,67 €;1616382,52 €
+2017;UR;14;Moratalaz;144;Media Legua;A;Almacén-Estacionamiento;1594;1985,00;173498,00;109,00;;;46081175,26 €;28909,14 €
+2017;UR;14;Moratalaz;144;Media Legua;C;Comercial;399;1976,00;68443,00;172,00;;;86774372,56 €;217479,63 €
+2017;UR;14;Moratalaz;144;Media Legua;E;Cultural;7;1982,00;26756,00;3822,00;;;22776460,62 €;3253780,09 €
+2017;UR;14;Moratalaz;144;Media Legua;G;Ocio y Hostelería;1;1994,00;1418,00;1418,00;;;1576291,78 €;1576291,78 €
+2017;UR;14;Moratalaz;144;Media Legua;I;Industrial;14;1972,00;2973,00;212,00;;;1931575,60 €;137969,69 €
+2017;UR;14;Moratalaz;144;Media Legua;K;Deportivo;5;1981,00;53724,00;10745,00;;;33739002,46 €;6747800,49 €
+2017;UR;14;Moratalaz;144;Media Legua;M;Suelos sin edificar, obras de urbanización y jardinería;9;;;;30139,00;3349,00;13791616,00 €;1532401,78 €
+2017;UR;14;Moratalaz;144;Media Legua;O;Oficinas;77;1977,00;8548,00;111,00;;;10127241,96 €;131522,62 €
+2017;UR;14;Moratalaz;144;Media Legua;R;Religioso;3;1973,00;4111,00;1370,00;;;3773422,23 €;1257807,41 €
+2017;UR;14;Moratalaz;144;Media Legua;V;Residencial;8018;1975,00;789573,00;98,00;;;827419970,95 €;103195,31 €
+2017;UR;14;Moratalaz;144;Media Legua;Y;Sanidad y Beneficencia;6;1980,00;17888,00;2981,00;;;17146737,54 €;2857789,59 €
+2017;UR;14;Moratalaz;145;Fontarrón;A;Almacén-Estacionamiento;109;1973,00;77565,00;712,00;;;19693080,49 €;180670,46 €
+2017;UR;14;Moratalaz;145;Fontarrón;C;Comercial;261;1966,00;24293,00;93,00;;;22408318,86 €;85855,63 €
+2017;UR;14;Moratalaz;145;Fontarrón;E;Cultural;9;1966,00;27140,00;3016,00;;;19764896,87 €;2196099,65 €
+2017;UR;14;Moratalaz;145;Fontarrón;G;Ocio y Hostelería;1;1991,00;50,00;50,00;;;60725,00 €;60725,00 €
+2017;UR;14;Moratalaz;145;Fontarrón;I;Industrial;15;1968,00;3830,00;255,00;;;2558540,16 €;170569,34 €
+2017;UR;14;Moratalaz;145;Fontarrón;K;Deportivo;12;1970,00;7981,00;665,00;;;4773247,01 €;397770,58 €
+2017;UR;14;Moratalaz;145;Fontarrón;M;Suelos sin edificar, obras de urbanización y jardinería;7;;;;77983,00;11140,00;574172,00 €;82024,57 €
+2017;UR;14;Moratalaz;145;Fontarrón;O;Oficinas;36;1967,00;4312,00;120,00;;;3562880,10 €;98968,89 €
+2017;UR;14;Moratalaz;145;Fontarrón;P;Edificio Singular;1;1960,00;22666,00;22666,00;;;15077457,29 €;15077457,29 €
+2017;UR;14;Moratalaz;145;Fontarrón;R;Religioso;1;1975,00;677,00;677,00;;;571353,44 €;571353,44 €
+2017;UR;14;Moratalaz;145;Fontarrón;V;Residencial;7819;1967,00;645444,00;83,00;;;567988614,43 €;72642,10 €
+2017;UR;14;Moratalaz;145;Fontarrón;Y;Sanidad y Beneficencia;2;1972,00;1827,00;914,00;;;1507529,52 €;753764,76 €
+2017;UR;14;Moratalaz;146;Vinateros;A;Almacén-Estacionamiento;97;1982,00;38172,00;394,00;;;9061184,20 €;93414,27 €
+2017;UR;14;Moratalaz;146;Vinateros;C;Comercial;256;1968,00;22437,00;88,00;;;22042748,32 €;86104,49 €
+2017;UR;14;Moratalaz;146;Vinateros;E;Cultural;4;1976,00;16751,00;4188,00;;;13327281,59 €;3331820,40 €
+2017;UR;14;Moratalaz;146;Vinateros;G;Ocio y Hostelería;1;1974,00;48,00;48,00;;;54552,96 €;54552,96 €
+2017;UR;14;Moratalaz;146;Vinateros;I;Industrial;3;1961,00;139,00;46,00;;;73496,43 €;24498,81 €
+2017;UR;14;Moratalaz;146;Vinateros;K;Deportivo;2;1990,00;4659,00;2330,00;;;2854828,80 €;1427414,40 €
+2017;UR;14;Moratalaz;146;Vinateros;M;Suelos sin edificar, obras de urbanización y jardinería;4;;;;6907,00;1727,00;2158320,00 €;539580,00 €
+2017;UR;14;Moratalaz;146;Vinateros;O;Oficinas;16;1964,00;2826,00;177,00;;;2139663,02 €;133728,94 €
+2017;UR;14;Moratalaz;146;Vinateros;R;Religioso;3;1989,00;2766,00;922,00;;;2404696,81 €;801565,60 €
+2017;UR;14;Moratalaz;146;Vinateros;V;Residencial;8194;1966,00;638148,00;78,00;;;623614743,42 €;76106,27 €
+2017;UR;14;Moratalaz;146;Vinateros;Y;Sanidad y Beneficencia;2;1998,00;5518,00;2759,00;;;5774131,51 €;2887065,76 €
+2017;UR;15;Ciudad Lineal;151;Ventas;A;Almacén-Estacionamiento;4755;1981,00;277668,00;58,00;;;100242819,99 €;21081,56 €
+2017;UR;15;Ciudad Lineal;151;Ventas;C;Comercial;1485;1965,00;136319,00;92,00;;;159165765,12 €;107182,33 €
+2017;UR;15;Ciudad Lineal;151;Ventas;E;Cultural;12;1966,00;55712,00;4643,00;;;44388131,39 €;3699010,95 €
+2017;UR;15;Ciudad Lineal;151;Ventas;G;Ocio y Hostelería;3;1962,00;1384,00;461,00;;;1088527,73 €;362842,58 €
+2017;UR;15;Ciudad Lineal;151;Ventas;I;Industrial;218;1967,00;75908,00;348,00;;;85027122,07 €;390032,67 €
+2017;UR;15;Ciudad Lineal;151;Ventas;K;Deportivo;9;1991,00;28054,00;3117,00;;;17704932,78 €;1967214,75 €
+2017;UR;15;Ciudad Lineal;151;Ventas;M;Suelos sin edificar, obras de urbanización y jardinería;71;;;;351311,00;4948,00;14832800,00 €;208912,68 €
+2017;UR;15;Ciudad Lineal;151;Ventas;O;Oficinas;219;1971,00;29957,00;137,00;;;31024531,63 €;141664,53 €
+2017;UR;15;Ciudad Lineal;151;Ventas;P;Edificio Singular;2;1995,00;182,00;91,00;;;180990,46 €;90495,23 €
+2017;UR;15;Ciudad Lineal;151;Ventas;R;Religioso;16;1962,00;1198069,00;74879,00;;;229655508,38 €;14353469,27 €
+2017;UR;15;Ciudad Lineal;151;Ventas;V;Residencial;23161;1967,00;1788187,00;77,00;;;1818169914,22 €;78501,36 €
+2017;UR;15;Ciudad Lineal;151;Ventas;Y;Sanidad y Beneficencia;6;1992,00;8883,00;1480,00;;;9650997,57 €;1608499,60 €
+2017;UR;15;Ciudad Lineal;152;Pueblo Nuevo;A;Almacén-Estacionamiento;8054;1992,00;421194,00;52,00;;;141542265,19 €;17574,16 €
+2017;UR;15;Ciudad Lineal;152;Pueblo Nuevo;C;Comercial;2247;1974,00;260852,00;116,00;;;333817566,75 €;148561,44 €
+2017;UR;15;Ciudad Lineal;152;Pueblo Nuevo;E;Cultural;14;1971,00;54702,00;3907,00;;;43579157,05 €;3112796,93 €
+2017;UR;15;Ciudad Lineal;152;Pueblo Nuevo;G;Ocio y Hostelería;3;1972,00;11435,00;3812,00;;;11840074,17 €;3946691,39 €
+2017;UR;15;Ciudad Lineal;152;Pueblo Nuevo;I;Industrial;206;1970,00;51831,00;252,00;;;34742696,19 €;168653,86 €
+2017;UR;15;Ciudad Lineal;152;Pueblo Nuevo;K;Deportivo;12;1980,00;43488,00;3624,00;;;33482659,80 €;2790221,65 €
+2017;UR;15;Ciudad Lineal;152;Pueblo Nuevo;M;Suelos sin edificar, obras de urbanización y jardinería;112;;;;290776,00;2596,00;40225934,75 €;359160,13 €
+2017;UR;15;Ciudad Lineal;152;Pueblo Nuevo;O;Oficinas;265;1973,00;30521,00;115,00;;;31218261,22 €;117804,76 €
+2017;UR;15;Ciudad Lineal;152;Pueblo Nuevo;P;Edificio Singular;2;1996,00;10926,00;5463,00;;;12102759,34 €;6051379,67 €
+2017;UR;15;Ciudad Lineal;152;Pueblo Nuevo;R;Religioso;17;1976,00;37851,00;2227,00;;;15669944,49 €;921761,44 €
+2017;UR;15;Ciudad Lineal;152;Pueblo Nuevo;V;Residencial;27252;1973,00;2260686,00;83,00;;;2284765646,46 €;83838,46 €
+2017;UR;15;Ciudad Lineal;152;Pueblo Nuevo;Y;Sanidad y Beneficencia;8;1994,00;30643,00;3830,00;;;30867159,91 €;3858394,99 €
+2017;UR;15;Ciudad Lineal;153;Quintana;A;Almacén-Estacionamiento;2999;1986,00;145193,00;48,00;;;65318945,64 €;21780,24 €
+2017;UR;15;Ciudad Lineal;153;Quintana;C;Comercial;1391;1965,00;152431,00;110,00;;;209966552,75 €;150946,48 €
+2017;UR;15;Ciudad Lineal;153;Quintana;E;Cultural;30;1963,00;47508,00;1584,00;;;45026706,25 €;1500890,21 €
+2017;UR;15;Ciudad Lineal;153;Quintana;G;Ocio y Hostelería;2;1980,00;3679,00;1840,00;;;4830491,67 €;2415245,84 €
+2017;UR;15;Ciudad Lineal;153;Quintana;I;Industrial;100;1963,00;16549,00;165,00;;;14354378,41 €;143543,78 €
+2017;UR;15;Ciudad Lineal;153;Quintana;K;Deportivo;49;1968,00;2422,00;49,00;;;2421365,59 €;49415,62 €
+2017;UR;15;Ciudad Lineal;153;Quintana;M;Suelos sin edificar, obras de urbanización y jardinería;10;;;;4394,00;439,00;2135273,45 €;213527,35 €
+2017;UR;15;Ciudad Lineal;153;Quintana;O;Oficinas;129;1969,00;19856,00;154,00;;;22526075,65 €;174620,74 €
+2017;UR;15;Ciudad Lineal;153;Quintana;P;Edificio Singular;1;1943,00;645,00;645,00;;;611759,94 €;611759,94 €
+2017;UR;15;Ciudad Lineal;153;Quintana;R;Religioso;4;1945,00;2698,00;674,00;;;2092976,01 €;523244,00 €
+2017;UR;15;Ciudad Lineal;153;Quintana;T;Espectáculos;2;1970,00;218,00;109,00;;;256487,05 €;128243,52 €
+2017;UR;15;Ciudad Lineal;153;Quintana;V;Residencial;12094;1965,00;977644,00;81,00;;;1088182165,43 €;89977,03 €
+2017;UR;15;Ciudad Lineal;153;Quintana;Y;Sanidad y Beneficencia;11;1963,00;8844,00;804,00;;;10429798,88 €;948163,53 €
+2017;UR;15;Ciudad Lineal;154;Concepción;A;Almacén-Estacionamiento;2628;1990,00;158857,00;60,00;;;67051929,51 €;25514,43 €
+2017;UR;15;Ciudad Lineal;154;Concepción;C;Comercial;1030;1963,00;147181,00;143,00;;;152418225,79 €;147978,86 €
+2017;UR;15;Ciudad Lineal;154;Concepción;E;Cultural;6;1976,00;12246,00;2041,00;;;10792060,82 €;1798676,80 €
+2017;UR;15;Ciudad Lineal;154;Concepción;G;Ocio y Hostelería;87;1999,00;15316,00;176,00;;;22494575,00 €;258558,33 €
+2017;UR;15;Ciudad Lineal;154;Concepción;I;Industrial;23;1966,00;7146,00;311,00;;;6479532,61 €;281718,81 €
+2017;UR;15;Ciudad Lineal;154;Concepción;K;Deportivo;8;1970,00;33668,00;4208,00;;;14945840,90 €;1868230,11 €
+2017;UR;15;Ciudad Lineal;154;Concepción;M;Suelos sin edificar, obras de urbanización y jardinería;18;;;;23488,00;1305,00;8247529,70 €;458196,09 €
+2017;UR;15;Ciudad Lineal;154;Concepción;O;Oficinas;175;1973,00;40739,00;233,00;;;55148865,58 €;315136,37 €
+2017;UR;15;Ciudad Lineal;154;Concepción;R;Religioso;3;1970,00;5899,00;1966,00;;;5398976,23 €;1799658,74 €
+2017;UR;15;Ciudad Lineal;154;Concepción;T;Espectáculos;2;1976,00;4471,00;2236,00;;;3805135,84 €;1902567,92 €
+2017;UR;15;Ciudad Lineal;154;Concepción;V;Residencial;10809;1964,00;978713,00;91,00;;;1073017318,01 €;99270,73 €
+2017;UR;15;Ciudad Lineal;154;Concepción;Y;Sanidad y Beneficencia;14;1980,00;6452,00;461,00;;;14356190,06 €;1025442,15 €
+2017;UR;15;Ciudad Lineal;155;San Pascual;A;Almacén-Estacionamiento;2591;1930,00;139757,00;54,00;;;55866427,84 €;21561,72 €
+2017;UR;15;Ciudad Lineal;155;San Pascual;C;Comercial;538;1974,00;57899,00;108,00;;;68186416,05 €;126740,55 €
+2017;UR;15;Ciudad Lineal;155;San Pascual;E;Cultural;14;1970,00;63262,00;4519,00;;;56510164,89 €;4036440,35 €
+2017;UR;15;Ciudad Lineal;155;San Pascual;G;Ocio y Hostelería;2;1995,00;31238,00;15619,00;;;39403722,19 €;19701861,10 €
+2017;UR;15;Ciudad Lineal;155;San Pascual;I;Industrial;44;1972,00;10050,00;228,00;;;6377423,43 €;144941,44 €
+2017;UR;15;Ciudad Lineal;155;San Pascual;K;Deportivo;5;1995,00;10588,00;2118,00;;;8851549,47 €;1770309,89 €
+2017;UR;15;Ciudad Lineal;155;San Pascual;M;Suelos sin edificar, obras de urbanización y jardinería;105;;;;858089,00;8172,00;2350201,40 €;22382,87 €
+2017;UR;15;Ciudad Lineal;155;San Pascual;O;Oficinas;122;1981,00;306286,00;2511,00;;;416607613,21 €;3414816,50 €
+2017;UR;15;Ciudad Lineal;155;San Pascual;P;Edificio Singular;4;1971,00;103749,00;25937,00;;;103772399,99 €;25943100,00 €
+2017;UR;15;Ciudad Lineal;155;San Pascual;R;Religioso;3;1983,00;19613,00;6538,00;;;19963211,21 €;6654403,74 €
+2017;UR;15;Ciudad Lineal;155;San Pascual;V;Residencial;8984;1976,00;883983,00;98,00;;;1068403674,79 €;118922,94 €
+2017;UR;15;Ciudad Lineal;155;San Pascual;Y;Sanidad y Beneficencia;9;1983,00;17989,00;1999,00;;;21589723,86 €;2398858,21 €
+2017;UR;15;Ciudad Lineal;156;San Juan Bautista;A;Almacén-Estacionamiento;4790;1990,00;219817,00;46,00;;;110056269,41 €;22976,26 €
+2017;UR;15;Ciudad Lineal;156;San Juan Bautista;C;Comercial;360;1982,00;40064,00;111,00;;;79103983,35 €;219733,29 €
+2017;UR;15;Ciudad Lineal;156;San Juan Bautista;E;Cultural;9;1983,00;40321,00;4480,00;;;40867576,92 €;4540841,88 €
+2017;UR;15;Ciudad Lineal;156;San Juan Bautista;G;Ocio y Hostelería;8;1991,00;25985,00;3248,00;;;40927219,74 €;5115902,47 €
+2017;UR;15;Ciudad Lineal;156;San Juan Bautista;I;Industrial;15;1983,00;1135,00;76,00;;;982493,91 €;65499,59 €
+2017;UR;15;Ciudad Lineal;156;San Juan Bautista;K;Deportivo;12;1980,00;16985,00;1415,00;;;12726675,87 €;1060556,32 €
+2017;UR;15;Ciudad Lineal;156;San Juan Bautista;M;Suelos sin edificar, obras de urbanización y jardinería;11;;;;21312,00;1937,00;8580136,00 €;780012,36 €
+2017;UR;15;Ciudad Lineal;156;San Juan Bautista;O;Oficinas;265;1987,00;271310,00;1024,00;;;433346147,64 €;1635268,48 €
+2017;UR;15;Ciudad Lineal;156;San Juan Bautista;P;Edificio Singular;2;1982,00;4326,00;2163,00;;;5473101,90 €;2736550,95 €
+2017;UR;15;Ciudad Lineal;156;San Juan Bautista;R;Religioso;5;1977,00;11112,00;2222,00;;;10712674,70 €;2142534,94 €
+2017;UR;15;Ciudad Lineal;156;San Juan Bautista;V;Residencial;5850;1982,00;743655,00;127,00;;;997359378,93 €;170488,78 €
+2017;UR;15;Ciudad Lineal;156;San Juan Bautista;Y;Sanidad y Beneficencia;11;1977,00;37998,00;3454,00;;;49153230,42 €;4468475,49 €
+2017;UR;15;Ciudad Lineal;157;Colina;A;Almacén-Estacionamiento;1821;1987,00;79332,00;44,00;;;40770382,99 €;22389,01 €
+2017;UR;15;Ciudad Lineal;157;Colina;C;Comercial;211;1975,00;27272,00;129,00;;;42664241,50 €;202200,20 €
+2017;UR;15;Ciudad Lineal;157;Colina;E;Cultural;10;1970,00;46955,00;4696,00;;;55892866,30 €;5589286,63 €
+2017;UR;15;Ciudad Lineal;157;Colina;G;Ocio y Hostelería;7;1950,00;5609,00;801,00;;;8471101,31 €;1210157,33 €
+2017;UR;15;Ciudad Lineal;157;Colina;I;Industrial;11;1970,00;4144,00;377,00;;;3238306,68 €;294391,52 €
+2017;UR;15;Ciudad Lineal;157;Colina;K;Deportivo;3;1971,00;871,00;290,00;;;164232,60 €;54744,20 €
+2017;UR;15;Ciudad Lineal;157;Colina;M;Suelos sin edificar, obras de urbanización y jardinería;20;;;;9397,00;470,00;4913949,50 €;245697,48 €
+2017;UR;15;Ciudad Lineal;157;Colina;O;Oficinas;118;1976,00;25110,00;213,00;;;34657879,68 €;293710,84 €
+2017;UR;15;Ciudad Lineal;157;Colina;R;Religioso;2;1967,00;4585,00;2292,00;;;4680029,20 €;2340014,60 €
+2017;UR;15;Ciudad Lineal;157;Colina;V;Residencial;3066;1978,00;364272,00;119,00;;;492733429,91 €;160708,88 €
+2017;UR;15;Ciudad Lineal;157;Colina;Y;Sanidad y Beneficencia;9;1953,00;29515,00;3279,00;;;34114016,19 €;3790446,24 €
+2017;UR;15;Ciudad Lineal;158;Atalaya;A;Almacén-Estacionamiento;315;1991,00;17863,00;57,00;;;7017969,00 €;22279,27 €
+2017;UR;15;Ciudad Lineal;158;Atalaya;C;Comercial;23;1974,00;1733,00;75,00;;;2649513,52 €;115196,24 €
+2017;UR;15;Ciudad Lineal;158;Atalaya;E;Cultural;2;1966,00;3089,00;1544,00;;;3614539,81 €;1807269,90 €
+2017;UR;15;Ciudad Lineal;158;Atalaya;G;Ocio y Hostelería;2;1949,00;4266,00;2133,00;;;2572338,62 €;1286169,31 €
+2017;UR;15;Ciudad Lineal;158;Atalaya;I;Industrial;2;1968,00;58,00;29,00;;;34778,97 €;17389,48 €
+2017;UR;15;Ciudad Lineal;158;Atalaya;K;Deportivo;1;1993,00;670,00;670,00;;;64839,25 €;64839,25 €
+2017;UR;15;Ciudad Lineal;158;Atalaya;M;Suelos sin edificar, obras de urbanización y jardinería;2;;;;6240,00;3120,00;376920,00 €;188460,00 €
+2017;UR;15;Ciudad Lineal;158;Atalaya;O;Oficinas;49;1991,00;14208,00;290,00;;;23995151,30 €;489696,97 €
+2017;UR;15;Ciudad Lineal;158;Atalaya;P;Edificio Singular;1;1996,00;2507,00;2507,00;;;3714460,52 €;3714460,52 €
+2017;UR;15;Ciudad Lineal;158;Atalaya;R;Religioso;4;1976,00;8562,00;2140,00;;;8391065,15 €;2097766,29 €
+2017;UR;15;Ciudad Lineal;158;Atalaya;V;Residencial;715;1978,00;122327,00;171,00;;;165726027,91 €;231784,65 €
+2017;UR;15;Ciudad Lineal;158;Atalaya;Y;Sanidad y Beneficencia;1;1959,00;3899,00;3899,00;;;4257708,00 €;4257708,00 €
+2017;UR;15;Ciudad Lineal;159;Costillares;A;Almacén-Estacionamiento;8836;1986,00;301170,00;34,00;;;122545899,49 €;13868,93 €
+2017;UR;15;Ciudad Lineal;159;Costillares;C;Comercial;346;1983,00;41949,00;121,00;;;61442393,44 €;177579,17 €
+2017;UR;15;Ciudad Lineal;159;Costillares;E;Cultural;19;1978,00;51741,00;2723,00;;;49562378,43 €;2608546,23 €
+2017;UR;15;Ciudad Lineal;159;Costillares;G;Ocio y Hostelería;77;2003,00;30421,00;395,00;;;54074690,88 €;702268,71 €
+2017;UR;15;Ciudad Lineal;159;Costillares;I;Industrial;9;1987,00;329,00;37,00;;;293008,02 €;32556,45 €
+2017;UR;15;Ciudad Lineal;159;Costillares;K;Deportivo;58;1986,00;43597,00;752,00;;;37947203,81 €;654262,13 €
+2017;UR;15;Ciudad Lineal;159;Costillares;M;Suelos sin edificar, obras de urbanización y jardinería;23;;;;70474,00;3064,00;18706766,50 €;813337,67 €
+2017;UR;15;Ciudad Lineal;159;Costillares;O;Oficinas;238;1987,00;245900,00;1033,00;;;354620915,31 €;1490003,85 €
+2017;UR;15;Ciudad Lineal;159;Costillares;P;Edificio Singular;3;1966,00;52564,00;17521,00;;;51359096,42 €;17119698,81 €
+2017;UR;15;Ciudad Lineal;159;Costillares;R;Religioso;4;1983,00;13137,00;3284,00;;;14388423,53 €;3597105,88 €
+2017;UR;15;Ciudad Lineal;159;Costillares;V;Residencial;9307;1985,00;1300361,00;140,00;;;1846651292,35 €;198415,31 €
+2017;UR;15;Ciudad Lineal;159;Costillares;Y;Sanidad y Beneficencia;5;1990,00;31849,00;6370,00;;;45555195,08 €;9111039,02 €
+2017;UR;16;Hortaleza;161;Palomas;A;Almacén-Estacionamiento;2583;2001,00;95385,00;37,00;;;40851726,03 €;15815,61 €
+2017;UR;16;Hortaleza;161;Palomas;C;Comercial;64;1995,00;118611,00;1853,00;;;105839291,10 €;1653738,92 €
+2017;UR;16;Hortaleza;161;Palomas;E;Cultural;8;1984,00;27691,00;3461,00;;;30267179,75 €;3783397,47 €
+2017;UR;16;Hortaleza;161;Palomas;G;Ocio y Hostelería;6;1976,00;14701,00;2450,00;;;20907421,42 €;3484570,24 €
+2017;UR;16;Hortaleza;161;Palomas;I;Industrial;5;1975,00;5939,00;1188,00;;;4406542,69 €;881308,54 €
+2017;UR;16;Hortaleza;161;Palomas;K;Deportivo;25;1981,00;18722,00;749,00;;;16818502,67 €;672740,11 €
+2017;UR;16;Hortaleza;161;Palomas;M;Suelos sin edificar, obras de urbanización y jardinería;73;;;;256552,00;3514,00;35360328,30 €;484388,06 €
+2017;UR;16;Hortaleza;161;Palomas;O;Oficinas;6;2004,00;98937,00;16490,00;;;112237123,66 €;18706187,28 €
+2017;UR;16;Hortaleza;161;Palomas;R;Religioso;1;1998,00;2641,00;2641,00;;;2440589,48 €;2440589,48 €
+2017;UR;16;Hortaleza;161;Palomas;V;Residencial;2626;1992,00;529752,00;202,00;;;683198727,93 €;260167,07 €
+2017;UR;16;Hortaleza;161;Palomas;Y;Sanidad y Beneficencia;1;2000,00;871,00;871,00;;;1202678,40 €;1202678,40 €
+2017;UR;16;Hortaleza;162;Piovera;A;Almacén-Estacionamiento;4156;1998,00;137369,00;33,00;;;70296021,00 €;16914,35 €
+2017;UR;16;Hortaleza;162;Piovera;C;Comercial;217;1995,00;27291,00;126,00;;;46264979,59 €;213202,67 €
+2017;UR;16;Hortaleza;162;Piovera;E;Cultural;15;1988,00;142248,00;9483,00;;;79253103,70 €;5283540,25 €
+2017;UR;16;Hortaleza;162;Piovera;G;Ocio y Hostelería;3;1996,00;7017,00;2339,00;;;10378612,16 €;3459537,39 €
+2017;UR;16;Hortaleza;162;Piovera;I;Industrial;10;1994,00;8437,00;844,00;;;9287223,53 €;928722,35 €
+2017;UR;16;Hortaleza;162;Piovera;K;Deportivo;18;1993,00;59273,00;3293,00;;;48842422,90 €;2713467,94 €
+2017;UR;16;Hortaleza;162;Piovera;M;Suelos sin edificar, obras de urbanización y jardinería;102;;;;534326,00;5238,00;62128254,80 €;609100,54 €
+2017;UR;16;Hortaleza;162;Piovera;O;Oficinas;29;1992,00;77788,00;2682,00;;;110999644,41 €;3827573,95 €
+2017;UR;16;Hortaleza;162;Piovera;R;Religioso;2;2000,00;2912,00;1456,00;;;3476390,20 €;1738195,10 €
+2017;UR;16;Hortaleza;162;Piovera;V;Residencial;5298;1993,00;1373041,00;259,00;;;2060679542,33 €;388954,24 €
+2017;UR;16;Hortaleza;162;Piovera;Y;Sanidad y Beneficencia;16;2003,00;15558,00;972,00;;;20807145,86 €;1300446,62 €
+2017;UR;16;Hortaleza;163;Canillas;A;Almacén-Estacionamiento;6884;1991,00;256973,00;37,00;;;99641216,32 €;14474,32 €
+2017;UR;16;Hortaleza;163;Canillas;C;Comercial;1093;1976,00;218529,00;200,00;;;243310066,59 €;222607,56 €
+2017;UR;16;Hortaleza;163;Canillas;E;Cultural;30;1979,00;70505,00;2350,00;;;63635023,08 €;2121167,44 €
+2017;UR;16;Hortaleza;163;Canillas;G;Ocio y Hostelería;10;1560,00;3795,00;380,00;;;4401607,61 €;440160,76 €
+2017;UR;16;Hortaleza;163;Canillas;I;Industrial;102;1973,00;67989,00;667,00;;;50585667,53 €;495937,92 €
+2017;UR;16;Hortaleza;163;Canillas;K;Deportivo;17;1985,00;40182,00;2364,00;;;32532763,24 €;1913691,96 €
+2017;UR;16;Hortaleza;163;Canillas;M;Suelos sin edificar, obras de urbanización y jardinería;173;;;;230631,00;1333,00;59485569,77 €;343847,22 €
+2017;UR;16;Hortaleza;163;Canillas;O;Oficinas;236;1983,00;189221,00;802,00;;;190334897,78 €;806503,80 €
+2017;UR;16;Hortaleza;163;Canillas;P;Edificio Singular;3;1997,00;13456,00;4485,00;;;13881191,58 €;4627063,86 €
+2017;UR;16;Hortaleza;163;Canillas;R;Religioso;15;1979,00;33136,00;2209,00;;;25378271,06 €;1691884,74 €
+2017;UR;16;Hortaleza;163;Canillas;T;Espectáculos;1;2002,00;1974,00;1974,00;;;2133280,10 €;2133280,10 €
+2017;UR;16;Hortaleza;163;Canillas;V;Residencial;18055;1978,00;1888556,00;105,00;;;2225030063,21 €;123236,23 €
+2017;UR;16;Hortaleza;163;Canillas;Y;Sanidad y Beneficencia;23;1995,00;36278,00;1577,00;;;42425263,71 €;1844576,68 €
+2017;UR;16;Hortaleza;164;Pinar del Rey;A;Almacén-Estacionamiento;7205;1991,00;322546,00;45,00;;;115248919,50 €;15995,69 €
+2017;UR;16;Hortaleza;164;Pinar del Rey;C;Comercial;1482;1974,00;233324,00;157,00;;;255672512,66 €;172518,56 €
+2017;UR;16;Hortaleza;164;Pinar del Rey;E;Cultural;27;1972,00;70326,00;2605,00;;;60337675,44 €;2234728,72 €
+2017;UR;16;Hortaleza;164;Pinar del Rey;G;Ocio y Hostelería;6;1646,00;11424,00;1904,00;;;12594353,86 €;2099058,98 €
+2017;UR;16;Hortaleza;164;Pinar del Rey;I;Industrial;79;1971,00;19144,00;242,00;;;9260530,09 €;117221,90 €
+2017;UR;16;Hortaleza;164;Pinar del Rey;K;Deportivo;19;1990,00;42848,00;2255,00;;;27545684,00 €;1449772,84 €
+2017;UR;16;Hortaleza;164;Pinar del Rey;M;Suelos sin edificar, obras de urbanización y jardinería;100;;;;200343,00;2003,00;23087402,97 €;230874,03 €
+2017;UR;16;Hortaleza;164;Pinar del Rey;O;Oficinas;140;1972,00;142527,00;1018,00;;;197185387,01 €;1408467,05 €
+2017;UR;16;Hortaleza;164;Pinar del Rey;P;Edificio Singular;1;2006,00;4971,00;4971,00;;;5278658,18 €;5278658,18 €
+2017;UR;16;Hortaleza;164;Pinar del Rey;R;Religioso;13;1973,00;5652,00;435,00;;;5055065,10 €;388851,16 €
+2017;UR;16;Hortaleza;164;Pinar del Rey;V;Residencial;23976;1974,00;2147791,00;90,00;;;2400642602,54 €;100126,90 €
+2017;UR;16;Hortaleza;164;Pinar del Rey;Y;Sanidad y Beneficencia;19;1988,00;81783,00;4304,00;;;87358105,80 €;4597795,04 €
+2017;UR;16;Hortaleza;165;Apostol Santiago;A;Almacén-Estacionamiento;995;1987,00;52359,00;53,00;;;19604223,81 €;19702,74 €
+2017;UR;16;Hortaleza;165;Apostol Santiago;C;Comercial;181;1979,00;25568,00;141,00;;;27056357,24 €;149482,64 €
+2017;UR;16;Hortaleza;165;Apostol Santiago;E;Cultural;6;1970,00;19978,00;3330,00;;;18339973,63 €;3056662,27 €
+2017;UR;16;Hortaleza;165;Apostol Santiago;G;Ocio y Hostelería;2;1992,00;15391,00;7696,00;;;19962703,18 €;9981351,59 €
+2017;UR;16;Hortaleza;165;Apostol Santiago;I;Industrial;15;1977,00;49666,00;3311,00;;;19279821,27 €;1285321,42 €
+2017;UR;16;Hortaleza;165;Apostol Santiago;K;Deportivo;10;1994,00;41733,00;4173,00;;;25470005,90 €;2547000,59 €
+2017;UR;16;Hortaleza;165;Apostol Santiago;M;Suelos sin edificar, obras de urbanización y jardinería;17;;;;72158,00;4245,00;9963948,00 €;586114,59 €
+2017;UR;16;Hortaleza;165;Apostol Santiago;O;Oficinas;20;1978,00;64925,00;3246,00;;;73373970,63 €;3668698,53 €
+2017;UR;16;Hortaleza;165;Apostol Santiago;P;Edificio Singular;2;1995,00;8742,00;4371,00;;;8332561,44 €;4166280,72 €
+2017;UR;16;Hortaleza;165;Apostol Santiago;R;Religioso;1;1975,00;1488,00;1488,00;;;1524902,40 €;1524902,40 €
+2017;UR;16;Hortaleza;165;Apostol Santiago;V;Residencial;6470;1976,00;703857,00;109,00;;;766446059,36 €;118461,52 €
+2017;UR;16;Hortaleza;165;Apostol Santiago;Y;Sanidad y Beneficencia;5;1984,00;7270,00;1454,00;;;6437788,49 €;1287557,70 €
+2017;UR;16;Hortaleza;166;Valdefuentes;A;Almacén-Estacionamiento;19608;2005,00;592426,00;30,00;;;251923702,67 €;12848,01 €
+2017;UR;16;Hortaleza;166;Valdefuentes;C;Comercial;421;1993,00;330426,00;785,00;;;378113801,18 €;898132,54 €
+2017;UR;16;Hortaleza;166;Valdefuentes;E;Cultural;23;1904,00;172917,00;7518,00;;;182080550,45 €;7916545,67 €
+2017;UR;16;Hortaleza;166;Valdefuentes;G;Ocio y Hostelería;10;1988,00;30430,00;3043,00;;;44432339,93 €;4443233,99 €
+2017;UR;16;Hortaleza;166;Valdefuentes;I;Industrial;354;1984,00;415836,00;1175,00;;;282172714,67 €;797098,06 €
+2017;UR;16;Hortaleza;166;Valdefuentes;K;Deportivo;10;2003,00;668291,00;66829,00;;;46036777,14 €;4603677,71 €
+2017;UR;16;Hortaleza;166;Valdefuentes;M;Suelos sin edificar, obras de urbanización y jardinería;611;;;;6797741,00;11126,00;1416808898,90 €;2318836,17 €
+2017;UR;16;Hortaleza;166;Valdefuentes;O;Oficinas;1241;2007,00;872949,00;703,00;;;1074464146,29 €;865805,11 €
+2017;UR;16;Hortaleza;166;Valdefuentes;R;Religioso;5;1988,00;8059,00;1612,00;;;8075303,94 €;1615060,79 €
+2017;UR;16;Hortaleza;166;Valdefuentes;T;Espectáculos;1;2006,00;41474,00;41474,00;;;27699608,30 €;27699608,30 €
+2017;UR;16;Hortaleza;166;Valdefuentes;V;Residencial;22874;2004,00;3465546,00;152,00;;;4099466295,23 €;179219,48 €
+2017;UR;16;Hortaleza;166;Valdefuentes;Y;Sanidad y Beneficencia;8;1998,00;108469,00;13559,00;;;125787884,71 €;15723485,59 €
+2017;UR;17;Villaverde;171;San Andrés;A;Almacén-Estacionamiento;7147;1991,00;263421,00;37,00;;;74482727,71 €;10421,54 €
+2017;UR;17;Villaverde;171;San Andrés;C;Comercial;1236;1970,00;152933,00;124,00;;;116520579,46 €;94272,31 €
+2017;UR;17;Villaverde;171;San Andrés;E;Cultural;55;1976,00;77823,00;1415,00;;;55085484,95 €;1001554,27 €
+2017;UR;17;Villaverde;171;San Andrés;G;Ocio y Hostelería;9;1974,00;19530,00;2170,00;;;13238983,38 €;1470998,15 €
+2017;UR;17;Villaverde;171;San Andrés;I;Industrial;1504;1994,00;1673981,00;1113,00;;;487903321,57 €;324403,80 €
+2017;UR;17;Villaverde;171;San Andrés;K;Deportivo;10;1974,00;63076,00;6308,00;;;24232657,30 €;2423265,73 €
+2017;UR;17;Villaverde;171;San Andrés;M;Suelos sin edificar, obras de urbanización y jardinería;469;;;;2356510,00;5025,00;213351611,80 €;454907,49 €
+2017;UR;17;Villaverde;171;San Andrés;O;Oficinas;1236;2001,00;383766,00;310,00;;;186581818,97 €;150956,16 €
+2017;UR;17;Villaverde;171;San Andrés;P;Edificio Singular;6;1971,00;11802,00;1967,00;;;7665120,62 €;1277520,10 €
+2017;UR;17;Villaverde;171;San Andrés;R;Religioso;7;1959,00;18021,00;2574,00;;;2295618,24 €;327945,46 €
+2017;UR;17;Villaverde;171;San Andrés;T;Espectáculos;1;1988,00;3204,00;3204,00;;;2589414,96 €;2589414,96 €
+2017;UR;17;Villaverde;171;San Andrés;V;Residencial;18043;1976,00;1562330,00;87,00;;;1074743080,04 €;59565,65 €
+2017;UR;17;Villaverde;171;San Andrés;Y;Sanidad y Beneficencia;34;1978,00;35406,00;1041,00;;;24578771,11 €;722905,03 €
+2017;UR;17;Villaverde;172;San Cristobal;A;Almacén-Estacionamiento;4;1984,00;205,00;51,00;;;65870,35 €;16467,59 €
+2017;UR;17;Villaverde;172;San Cristobal;C;Comercial;308;1964,00;14516,00;47,00;;;6106069,16 €;19824,90 €
+2017;UR;17;Villaverde;172;San Cristobal;E;Cultural;8;1970,00;31520,00;3940,00;;;10681613,85 €;1335201,73 €
+2017;UR;17;Villaverde;172;San Cristobal;G;Ocio y Hostelería;16;1965,00;1074,00;67,00;;;435258,40 €;27203,65 €
+2017;UR;17;Villaverde;172;San Cristobal;I;Industrial;16;1961,00;1551,00;97,00;;;373900,13 €;23368,76 €
+2017;UR;17;Villaverde;172;San Cristobal;K;Deportivo;3;1982,00;10442,00;3481,00;;;2490149,92 €;830049,97 €
+2017;UR;17;Villaverde;172;San Cristobal;M;Suelos sin edificar, obras de urbanización y jardinería;236;;;;203139,00;861,00;3461535,44 €;14667,52 €
+2017;UR;17;Villaverde;172;San Cristobal;O;Oficinas;23;1967,00;7832,00;341,00;;;4053595,79 €;176243,30 €
+2017;UR;17;Villaverde;172;San Cristobal;P;Edificio Singular;1;1957,00;131640,00;131640,00;;;51661067,49 €;51661067,49 €
+2017;UR;17;Villaverde;172;San Cristobal;R;Religioso;4;1966,00;3390,00;848,00;;;1228498,75 €;307124,69 €
+2017;UR;17;Villaverde;172;San Cristobal;V;Residencial;5647;1965,00;387993,00;69,00;;;158414230,89 €;28052,81 €
+2017;UR;17;Villaverde;172;San Cristobal;Y;Sanidad y Beneficencia;4;1964,00;1354,00;338,00;;;474650,60 €;118662,65 €
+2017;UR;17;Villaverde;173;Butarque;A;Almacén-Estacionamiento;2255;2004,00;97660,00;43,00;;;29243946,49 €;12968,49 €
+2017;UR;17;Villaverde;173;Butarque;C;Comercial;232;1992,00;36275,00;156,00;;;24931044,33 €;107461,40 €
+2017;UR;17;Villaverde;173;Butarque;E;Cultural;8;1983,00;31252,00;3906,00;;;18791316,83 €;2348914,60 €
+2017;UR;17;Villaverde;173;Butarque;I;Industrial;45;1980,00;340551,00;7568,00;;;87999246,30 €;1955538,81 €
+2017;UR;17;Villaverde;173;Butarque;K;Deportivo;5;1992,00;10949,00;2190,00;;;2896724,82 €;579344,96 €
+2017;UR;17;Villaverde;173;Butarque;M;Suelos sin edificar, obras de urbanización y jardinería;127;;;;931424,00;7334,00;65811258,50 €;518198,89 €
+2017;UR;17;Villaverde;173;Butarque;O;Oficinas;19;1998,00;31542,00;1660,00;;;23428079,78 €;1233056,83 €
+2017;UR;17;Villaverde;173;Butarque;V;Residencial;7542;1996,00;801366,00;106,00;;;563267639,20 €;74684,12 €
+2017;UR;17;Villaverde;173;Butarque;Y;Sanidad y Beneficencia;5;1984,00;12731,00;2546,00;;;11523494,48 €;2304698,90 €
+2017;UR;17;Villaverde;174;Los Rosales;A;Almacén-Estacionamiento;4776;1993,00;210322,00;44,00;;;59326540,21 €;12421,80 €
+2017;UR;17;Villaverde;174;Los Rosales;C;Comercial;935;1977,00;134870,00;144,00;;;121714613,34 €;130176,06 €
+2017;UR;17;Villaverde;174;Los Rosales;E;Cultural;35;1974,00;55956,00;1599,00;;;38105744,92 €;1088735,57 €
+2017;UR;17;Villaverde;174;Los Rosales;G;Ocio y Hostelería;1;1992,00;122,00;122,00;;;108594,95 €;108594,95 €
+2017;UR;17;Villaverde;174;Los Rosales;I;Industrial;72;1977,00;97367,00;1352,00;;;21161758,68 €;293913,32 €
+2017;UR;17;Villaverde;174;Los Rosales;K;Deportivo;10;1985,00;28751,00;2875,00;;;15325353,00 €;1532535,30 €
+2017;UR;17;Villaverde;174;Los Rosales;M;Suelos sin edificar, obras de urbanización y jardinería;60;;;;193533,00;3226,00;6379331,30 €;106322,19 €
+2017;UR;17;Villaverde;174;Los Rosales;O;Oficinas;104;1984,00;32500,00;312,00;;;26120953,28 €;251163,01 €
+2017;UR;17;Villaverde;174;Los Rosales;R;Religioso;5;1976,00;5668,00;1134,00;;;4126338,59 €;825267,72 €
+2017;UR;17;Villaverde;174;Los Rosales;V;Residencial;14409;1980,00;1299919,00;90,00;;;927342926,74 €;64358,59 €
+2017;UR;17;Villaverde;174;Los Rosales;Y;Sanidad y Beneficencia;18;1989,00;18194,00;1011,00;;;15955103,23 €;886394,62 €
+2017;UR;17;Villaverde;175;Los Angeles;A;Almacén-Estacionamiento;2074;1978,00;85475,00;41,00;;;22238410,73 €;10722,47 €
+2017;UR;17;Villaverde;175;Los Angeles;C;Comercial;715;1969,00;54413,00;76,00;;;40153942,23 €;56159,36 €
+2017;UR;17;Villaverde;175;Los Angeles;E;Cultural;25;1970,00;45016,00;1801,00;;;25134525,84 €;1005381,03 €
+2017;UR;17;Villaverde;175;Los Angeles;I;Industrial;38;1969,00;111305,00;2929,00;;;37793294,04 €;994560,37 €
+2017;UR;17;Villaverde;175;Los Angeles;K;Deportivo;6;1974,00;12345,00;2058,00;;;4317649,63 €;719608,27 €
+2017;UR;17;Villaverde;175;Los Angeles;M;Suelos sin edificar, obras de urbanización y jardinería;81;;;;498196,00;6151,00;145204787,50 €;1792651,70 €
+2017;UR;17;Villaverde;175;Los Angeles;O;Oficinas;46;1970,00;19383,00;421,00;;;6882791,22 €;149625,90 €
+2017;UR;17;Villaverde;175;Los Angeles;P;Edificio Singular;7;1965,00;4251,00;607,00;;;2488879,88 €;355554,27 €
+2017;UR;17;Villaverde;175;Los Angeles;R;Religioso;2;1964,00;2980,00;1490,00;;;1591778,36 €;795889,18 €
+2017;UR;17;Villaverde;175;Los Angeles;V;Residencial;13012;1970,00;1144819,00;88,00;;;866259565,27 €;66573,90 €
+2017;UR;17;Villaverde;175;Los Angeles;Y;Sanidad y Beneficencia;18;1976,00;16037,00;891,00;;;13267321,22 €;737073,40 €
+2017;UR;18;Villa de Vallecas;181;Casco Histórico de Vallecas;A;Almacén-Estacionamiento;6869;1993,00;294034,00;43,00;;;75682404,10 €;11017,97 €
+2017;UR;18;Villa de Vallecas;181;Casco Histórico de Vallecas;C;Comercial;1148;1978,00;133519,00;116,00;;;113637099,63 €;98987,02 €
+2017;UR;18;Villa de Vallecas;181;Casco Histórico de Vallecas;E;Cultural;28;1976,00;51901,00;1854,00;;;31746016,48 €;1133786,30 €
+2017;UR;18;Villa de Vallecas;181;Casco Histórico de Vallecas;G;Ocio y Hostelería;379;2001,00;79695,00;210,00;;;64915414,53 €;171280,78 €
+2017;UR;18;Villa de Vallecas;181;Casco Histórico de Vallecas;I;Industrial;1131;1994,00;1284294,00;1136,00;;;506282834,17 €;447641,76 €
+2017;UR;18;Villa de Vallecas;181;Casco Histórico de Vallecas;K;Deportivo;5;1992,00;32606,00;6521,00;;;21652606,04 €;4330521,21 €
+2017;UR;18;Villa de Vallecas;181;Casco Histórico de Vallecas;M;Suelos sin edificar, obras de urbanización y jardinería;1290;;;;20305630,00;15741,00;543405998,22 €;421244,96 €
+2017;UR;18;Villa de Vallecas;181;Casco Histórico de Vallecas;O;Oficinas;484;1993,00;369510,00;763,00;;;171200826,71 €;353720,72 €
+2017;UR;18;Villa de Vallecas;181;Casco Histórico de Vallecas;P;Edificio Singular;4;1988,00;8483,00;2121,00;;;5393022,95 €;1348255,74 €
+2017;UR;18;Villa de Vallecas;181;Casco Histórico de Vallecas;R;Religioso;10;1970,00;29057,00;2906,00;;;3972542,13 €;397254,21 €
+2017;UR;18;Villa de Vallecas;181;Casco Histórico de Vallecas;V;Residencial;14906;1980,00;1195338,00;80,00;;;908230614,59 €;60930,54 €
+2017;UR;18;Villa de Vallecas;181;Casco Histórico de Vallecas;Y;Sanidad y Beneficencia;22;1981,00;28443,00;1293,00;;;17740903,69 €;806404,71 €
+2017;UR;18;Villa de Vallecas;182;Santa Eugenia;A;Almacén-Estacionamiento;1771;1990,00;150387,00;85,00;;;32306603,36 €;18242,01 €
+2017;UR;18;Villa de Vallecas;182;Santa Eugenia;C;Comercial;394;1983,00;60451,00;153,00;;;37786975,00 €;95906,03 €
+2017;UR;18;Villa de Vallecas;182;Santa Eugenia;E;Cultural;14;1989,00;24770,00;1769,00;;;16958328,76 €;1211309,20 €
+2017;UR;18;Villa de Vallecas;182;Santa Eugenia;I;Industrial;20;1984,00;28491,00;1425,00;;;9343875,83 €;467193,79 €
+2017;UR;18;Villa de Vallecas;182;Santa Eugenia;K;Deportivo;8;1995,00;14658,00;1832,00;;;7520272,65 €;940034,08 €
+2017;UR;18;Villa de Vallecas;182;Santa Eugenia;M;Suelos sin edificar, obras de urbanización y jardinería;46;;;;207208,00;4505,00;26945436,40 €;585770,36 €
+2017;UR;18;Villa de Vallecas;182;Santa Eugenia;O;Oficinas;33;1984,00;15007,00;455,00;;;8392011,78 €;254303,39 €
+2017;UR;18;Villa de Vallecas;182;Santa Eugenia;R;Religioso;2;1970,00;2071,00;1036,00;;;1279915,24 €;639957,62 €
+2017;UR;18;Villa de Vallecas;182;Santa Eugenia;T;Espectáculos;1;1984,00;2815,00;2815,00;;;1303105,73 €;1303105,73 €
+2017;UR;18;Villa de Vallecas;182;Santa Eugenia;V;Residencial;9574;1980,00;964919,00;101,00;;;631269234,86 €;65935,79 €
+2017;UR;18;Villa de Vallecas;182;Santa Eugenia;Y;Sanidad y Beneficencia;17;1993,00;119935,00;7055,00;;;79125817,36 €;4654459,84 €
+2017;UR;18;Villa de Vallecas;183;Ensanche de Vallecas;A;Almacén-Estacionamiento;12139;2008,00;325705,00;27,00;;;108560767,51 €;8943,14 €
+2017;UR;18;Villa de Vallecas;183;Ensanche de Vallecas;C;Comercial;489;2009,00;381220,00;780,00;;;345154167,71 €;705836,74 €
+2017;UR;18;Villa de Vallecas;183;Ensanche de Vallecas;E;Cultural;7;2009,00;70408,00;10058,00;;;58039762,66 €;8291394,67 €
+2017;UR;18;Villa de Vallecas;183;Ensanche de Vallecas;I;Industrial;254;2008,00;111998,00;441,00;;;30918088,98 €;121724,76 €
+2017;UR;18;Villa de Vallecas;183;Ensanche de Vallecas;K;Deportivo;4;2007,00;56127,00;14032,00;;;33051318,25 €;8262829,56 €
+2017;UR;18;Villa de Vallecas;183;Ensanche de Vallecas;M;Suelos sin edificar, obras de urbanización y jardinería;565;;;;3178789,00;5626,00;352537503,63 €;623960,18 €
+2017;UR;18;Villa de Vallecas;183;Ensanche de Vallecas;O;Oficinas;42;2008,00;66294,00;1578,00;;;66852605,75 €;1591728,71 €
+2017;UR;18;Villa de Vallecas;183;Ensanche de Vallecas;R;Religioso;2;2012,00;503,00;252,00;;;1899357,09 €;949678,54 €
+2017;UR;18;Villa de Vallecas;183;Ensanche de Vallecas;V;Residencial;22733;2009,00;2674664,00;118,00;;;2268326589,07 €;99781,23 €
+2017;UR;18;Villa de Vallecas;183;Ensanche de Vallecas;Y;Sanidad y Beneficencia;5;2009,00;38146,00;7629,00;;;47788786,20 €;9557757,24 €
+2017;UR;19;Vicálvaro;191;Casco Histórico de Vicálvaro;A;Almacén-Estacionamiento;8678;1998,00;296981,00;34,00;;;76758326,98 €;8845,16 €
+2017;UR;19;Vicálvaro;191;Casco Histórico de Vicálvaro;C;Comercial;936;1984,00;123793,00;132,00;;;116431473,37 €;124392,60 €
+2017;UR;19;Vicálvaro;191;Casco Histórico de Vicálvaro;E;Cultural;24;1995,00;105773,00;4407,00;;;81257093,08 €;3385712,21 €
+2017;UR;19;Vicálvaro;191;Casco Histórico de Vicálvaro;G;Ocio y Hostelería;4;1946,00;14755,00;3689,00;;;12324320,07 €;3081080,02 €
+2017;UR;19;Vicálvaro;191;Casco Histórico de Vicálvaro;I;Industrial;178;1979,00;544802,00;3061,00;;;193566371,86 €;1087451,53 €
+2017;UR;19;Vicálvaro;191;Casco Histórico de Vicálvaro;K;Deportivo;10;1985,00;61219,00;6122,00;;;34711071,67 €;3471107,17 €
+2017;UR;19;Vicálvaro;191;Casco Histórico de Vicálvaro;M;Suelos sin edificar, obras de urbanización y jardinería;1664;;;;20452256,00;12291,00;1122010845,06 €;674285,36 €
+2017;UR;19;Vicálvaro;191;Casco Histórico de Vicálvaro;O;Oficinas;228;1999,00;82441,00;362,00;;;51224314,82 €;224668,05 €
+2017;UR;19;Vicálvaro;191;Casco Histórico de Vicálvaro;P;Edificio Singular;2;1974,00;1909,00;954,00;;;1904529,73 €;952264,86 €
+2017;UR;19;Vicálvaro;191;Casco Histórico de Vicálvaro;R;Religioso;5;1958,00;14442,00;2888,00;;;5694895,56 €;1138979,11 €
+2017;UR;19;Vicálvaro;191;Casco Histórico de Vicálvaro;T;Espectáculos;1;2001,00;90514,00;90514,00;;;27741775,94 €;27741775,94 €
+2017;UR;19;Vicálvaro;191;Casco Histórico de Vicálvaro;V;Residencial;19897;1993,00;2263085,00;114,00;;;1743565877,61 €;87629,59 €
+2017;UR;19;Vicálvaro;191;Casco Histórico de Vicálvaro;Y;Sanidad y Beneficencia;11;1988,00;52939,00;4813,00;;;47843221,72 €;4349383,79 €
+2017;UR;19;Vicálvaro;192;Ambroz;A;Almacén-Estacionamiento;1073;1993,00;40144,00;37,00;;;9371837,35 €;8734,24 €
+2017;UR;19;Vicálvaro;192;Ambroz;C;Comercial;485;1971,00;53204,00;110,00;;;35559100,32 €;73317,73 €
+2017;UR;19;Vicálvaro;192;Ambroz;E;Cultural;22;1979,00;127045,00;5775,00;;;91298580,76 €;4149935,49 €
+2017;UR;19;Vicálvaro;192;Ambroz;I;Industrial;25;1974,00;12368,00;495,00;;;6137724,19 €;245508,97 €
+2017;UR;19;Vicálvaro;192;Ambroz;K;Deportivo;3;1991,00;27080,00;9027,00;;;10250994,04 €;3416998,01 €
+2017;UR;19;Vicálvaro;192;Ambroz;M;Suelos sin edificar, obras de urbanización y jardinería;44;;;;719193,00;16345,00;22966949,70 €;521976,13 €
+2017;UR;19;Vicálvaro;192;Ambroz;O;Oficinas;14;1971,00;5207,00;372,00;;;4208546,62 €;300610,47 €
+2017;UR;19;Vicálvaro;192;Ambroz;P;Edificio Singular;1;2008,00;1871,00;1871,00;;;1025641,50 €;1025641,50 €
+2017;UR;19;Vicálvaro;192;Ambroz;R;Religioso;4;1980,00;1421,00;355,00;;;990048,56 €;247512,14 €
+2017;UR;19;Vicálvaro;192;Ambroz;T;Espectáculos;1;2000,00;23024,00;23024,00;;;3299891,44 €;3299891,44 €
+2017;UR;19;Vicálvaro;192;Ambroz;V;Residencial;8266;1970,00;607958,00;74,00;;;446409650,61 €;54005,52 €
+2017;UR;19;Vicálvaro;192;Ambroz;Y;Sanidad y Beneficencia;2;1984,00;2392,00;1196,00;;;1883681,81 €;941840,90 €
+2017;UR;20;San Blas;201;Simancas;A;Almacén-Estacionamiento;8618;2002,00;373233,00;43,00;;;114681815,28 €;13307,24 €
+2017;UR;20;San Blas;201;Simancas;C;Comercial;705;1971,00;143096,00;203,00;;;135548419,73 €;192267,26 €
+2017;UR;20;San Blas;201;Simancas;E;Cultural;16;1967,00;33312,00;2082,00;;;21804151,06 €;1362759,44 €
+2017;UR;20;San Blas;201;Simancas;G;Ocio y Hostelería;88;1976,00;70485,00;801,00;;;85160697,35 €;967735,20 €
+2017;UR;20;San Blas;201;Simancas;I;Industrial;831;1980,00;810755,00;976,00;;;554904097,79 €;667754,63 €
+2017;UR;20;San Blas;201;Simancas;K;Deportivo;3;2006,00;3018,00;1006,00;;;2886397,50 €;962132,50 €
+2017;UR;20;San Blas;201;Simancas;M;Suelos sin edificar, obras de urbanización y jardinería;133;;;;252950,00;1902,00;124625904,04 €;937036,87 €
+2017;UR;20;San Blas;201;Simancas;O;Oficinas;2061;2001,00;1085489,00;527,00;;;1257121393,14 €;609957,01 €
+2017;UR;20;San Blas;201;Simancas;P;Edificio Singular;4;1994,00;124974,00;31244,00;;;109952967,16 €;27488241,79 €
+2017;UR;20;San Blas;201;Simancas;R;Religioso;3;1988,00;4714,00;1571,00;;;3570994,26 €;1190331,42 €
+2017;UR;20;San Blas;201;Simancas;V;Residencial;12373;1975,00;1028722,00;83,00;;;972222520,66 €;78576,14 €
+2017;UR;20;San Blas;201;Simancas;Y;Sanidad y Beneficencia;10;1969,00;14523,00;1452,00;;;12610201,45 €;1261020,14 €
+2017;UR;20;San Blas;202;Hellín;A;Almacén-Estacionamiento;1;1970,00;291,00;291,00;;;40267,13 €;40267,13 €
+2017;UR;20;San Blas;202;Hellín;C;Comercial;81;1975,00;8757,00;108,00;;;7626885,12 €;94159,08 €
+2017;UR;20;San Blas;202;Hellín;E;Cultural;4;1976,00;23689,00;5922,00;;;15119566,22 €;3779891,56 €
+2017;UR;20;San Blas;202;Hellín;G;Ocio y Hostelería;8;1982,00;821,00;103,00;;;663252,41 €;82906,55 €
+2017;UR;20;San Blas;202;Hellín;I;Industrial;7;1967,00;1766,00;252,00;;;348259,58 €;49751,37 €
+2017;UR;20;San Blas;202;Hellín;K;Deportivo;1;1970,00;15630,00;15630,00;;;7735201,66 €;7735201,66 €
+2017;UR;20;San Blas;202;Hellín;M;Suelos sin edificar, obras de urbanización y jardinería;1;;;;118169,00;118169,00;634465,50 €;634465,50 €
+2017;UR;20;San Blas;202;Hellín;O;Oficinas;2;1987,00;198,00;99,00;;;169849,10 €;84924,55 €
+2017;UR;20;San Blas;202;Hellín;R;Religioso;1;1980,00;1158,00;1158,00;;;906657,30 €;906657,30 €
+2017;UR;20;San Blas;202;Hellín;T;Espectáculos;1;2007,00;1773,00;1773,00;;;1057350,72 €;1057350,72 €
+2017;UR;20;San Blas;202;Hellín;V;Residencial;4116;1970,00;339260,00;82,00;;;256466657,74 €;62309,68 €
+2017;UR;20;San Blas;202;Hellín;Y;Sanidad y Beneficencia;2;1986,00;161,00;80,00;;;144473,96 €;72236,98 €
+2017;UR;20;San Blas;203;Amposta;A;Almacén-Estacionamiento;84;1979,00;3819,00;45,00;;;858498,00 €;10220,21 €
+2017;UR;20;San Blas;203;Amposta;C;Comercial;457;1963,00;24199,00;53,00;;;22734521,48 €;49747,31 €
+2017;UR;20;San Blas;203;Amposta;E;Cultural;1;2002,00;1607,00;1607,00;;;1482950,98 €;1482950,98 €
+2017;UR;20;San Blas;203;Amposta;G;Ocio y Hostelería;1;1960,00;26,00;26,00;;;16058,25 €;16058,25 €
+2017;UR;20;San Blas;203;Amposta;I;Industrial;66;1969,00;6855,00;104,00;;;3577562,89 €;54205,50 €
+2017;UR;20;San Blas;203;Amposta;O;Oficinas;13;1964,00;3632,00;279,00;;;2810848,59 €;216219,12 €
+2017;UR;20;San Blas;203;Amposta;P;Edificio Singular;2;1982,00;4217,00;2108,00;;;2893329,00 €;1446664,50 €
+2017;UR;20;San Blas;203;Amposta;R;Religioso;2;1968,00;2861,00;1430,00;;;1917024,30 €;958512,15 €
+2017;UR;20;San Blas;203;Amposta;V;Residencial;3796;1964,00;248456,00;65,00;;;180152316,82 €;47458,46 €
+2017;UR;20;San Blas;203;Amposta;Y;Sanidad y Beneficencia;5;1980,00;14264,00;2853,00;;;10677151,41 €;2135430,28 €
+2017;UR;20;San Blas;204;Arcos;A;Almacén-Estacionamiento;811;1999,00;96259,00;119,00;;;30212698,69 €;37253,64 €
+2017;UR;20;San Blas;204;Arcos;C;Comercial;367;1986,00;64977,00;177,00;;;73895016,80 €;201348,82 €
+2017;UR;20;San Blas;204;Arcos;E;Cultural;17;1976,00;130212,00;7660,00;;;85567089,81 €;5033358,22 €
+2017;UR;20;San Blas;204;Arcos;G;Ocio y Hostelería;4;1970,00;1731,00;433,00;;;1244078,46 €;311019,62 €
+2017;UR;20;San Blas;204;Arcos;I;Industrial;40;1992,00;16603,00;415,00;;;9464154,39 €;236603,86 €
+2017;UR;20;San Blas;204;Arcos;K;Deportivo;2;2011,00;14833,00;7416,00;;;4622004,90 €;2311002,45 €
+2017;UR;20;San Blas;204;Arcos;M;Suelos sin edificar, obras de urbanización y jardinería;27;;;;127401,00;4719,00;19377848,00 €;717698,07 €
+2017;UR;20;San Blas;204;Arcos;O;Oficinas;4;1963,00;9431,00;2358,00;;;6605931,05 €;1651482,76 €
+2017;UR;20;San Blas;204;Arcos;R;Religioso;2;1980,00;3612,00;1806,00;;;2151814,89 €;1075907,44 €
+2017;UR;20;San Blas;204;Arcos;V;Residencial;9857;1976,00;924984,00;94,00;;;762073635,47 €;77312,94 €
+2017;UR;20;San Blas;204;Arcos;Y;Sanidad y Beneficencia;9;1977,00;29757,00;3306,00;;;33939360,35 €;3771040,04 €
+2017;UR;20;San Blas;205;Rosas;A;Almacén-Estacionamiento;6338;1997,00;216658,00;34,00;;;63610774,09 €;10036,41 €
+2017;UR;20;San Blas;205;Rosas;C;Comercial;724;1992,00;102957,00;142,00;;;102350946,45 €;141368,71 €
+2017;UR;20;San Blas;205;Rosas;E;Cultural;24;1982,00;63519,00;2647,00;;;56256242,34 €;2344010,10 €
+2017;UR;20;San Blas;205;Rosas;G;Ocio y Hostelería;1;1978,00;105,00;105,00;;;97446,04 €;97446,04 €
+2017;UR;20;San Blas;205;Rosas;I;Industrial;32;1993,00;6516,00;204,00;;;6460414,17 €;201887,94 €
+2017;UR;20;San Blas;205;Rosas;K;Deportivo;7;1998,00;106768,00;15253,00;;;62572761,26 €;8938965,89 €
+2017;UR;20;San Blas;205;Rosas;M;Suelos sin edificar, obras de urbanización y jardinería;98;;;;1616243,00;16492,00;129548309,38 €;1321921,52 €
+2017;UR;20;San Blas;205;Rosas;O;Oficinas;24;1988,00;2329,00;97,00;;;2517891,44 €;104912,14 €
+2017;UR;20;San Blas;205;Rosas;P;Edificio Singular;2;2006,00;6649,00;3324,00;;;7164456,43 €;3582228,22 €
+2017;UR;20;San Blas;205;Rosas;R;Religioso;4;2003,00;10553,00;2638,00;;;7813363,31 €;1953340,83 €
+2017;UR;20;San Blas;205;Rosas;T;Espectáculos;1;1979,00;139,00;139,00;;;150682,95 €;150682,95 €
+2017;UR;20;San Blas;205;Rosas;V;Residencial;12005;1993,00;1475002,00;123,00;;;1413509352,39 €;117743,39 €
+2017;UR;20;San Blas;205;Rosas;Y;Sanidad y Beneficencia;6;1999,00;24119,00;4020,00;;;24800449,19 €;4133408,20 €
+2017;UR;20;San Blas;206;Rejas;A;Almacén-Estacionamiento;8340;2005,00;256555,00;31,00;;;68767393,22 €;8245,49 €
+2017;UR;20;San Blas;206;Rejas;C;Comercial;130;1982,00;298177,00;2294,00;;;233091951,16 €;1793015,01 €
+2017;UR;20;San Blas;206;Rejas;E;Cultural;2;1984,00;5969,00;2984,00;;;4782585,61 €;2391292,81 €
+2017;UR;20;San Blas;206;Rejas;G;Ocio y Hostelería;2214;2007,00;394315,00;178,00;;;485213261,75 €;219156,85 €
+2017;UR;20;San Blas;206;Rejas;I;Industrial;288;1987,00;771867,00;2680,00;;;302700378,66 €;1051042,98 €
+2017;UR;20;San Blas;206;Rejas;K;Deportivo;10;2003,00;15999,00;1600,00;;;10265132,27 €;1026513,23 €
+2017;UR;20;San Blas;206;Rejas;M;Suelos sin edificar, obras de urbanización y jardinería;657;;;;2380370,00;3623,00;398247186,99 €;606160,10 €
+2017;UR;20;San Blas;206;Rejas;O;Oficinas;371;2003,00;377262,00;1017,00;;;281778334,00 €;759510,33 €
+2017;UR;20;San Blas;206;Rejas;R;Religioso;4;1992,00;6266,00;1566,00;;;3682342,05 €;920585,51 €
+2017;UR;20;San Blas;206;Rejas;V;Residencial;6727;1991,00;749306,00;111,00;;;685263499,39 €;101867,62 €
+2017;UR;20;San Blas;206;Rejas;Y;Sanidad y Beneficencia;5;1990,00;7773,00;1555,00;;;7579463,92 €;1515892,78 €
+2017;UR;20;San Blas;207;Canillejas;A;Almacén-Estacionamiento;2668;1987,00;140631,00;53,00;;;33131996,00 €;12418,29 €
+2017;UR;20;San Blas;207;Canillejas;C;Comercial;1147;1973,00;93166,00;81,00;;;76608222,30 €;66790,08 €
+2017;UR;20;San Blas;207;Canillejas;E;Cultural;19;1971,00;45486,00;2394,00;;;35772205,37 €;1882747,65 €
+2017;UR;20;San Blas;207;Canillejas;G;Ocio y Hostelería;7;1981,00;16839,00;2406,00;;;16291292,71 €;2327327,53 €
+2017;UR;20;San Blas;207;Canillejas;I;Industrial;63;1967,00;128189,00;2035,00;;;72307961,37 €;1147745,42 €
+2017;UR;20;San Blas;207;Canillejas;K;Deportivo;14;1839,00;16303,00;1164,00;;;5955101,41 €;425364,39 €
+2017;UR;20;San Blas;207;Canillejas;M;Suelos sin edificar, obras de urbanización y jardinería;85;;;;113209,00;1332,00;23173248,01 €;272626,45 €
+2017;UR;20;San Blas;207;Canillejas;O;Oficinas;51;1968,00;7848,00;154,00;;;5439527,27 €;106657,40 €
+2017;UR;20;San Blas;207;Canillejas;P;Edificio Singular;1;1980,00;2439,00;2439,00;;;2085580,00 €;2085580,00 €
+2017;UR;20;San Blas;207;Canillejas;R;Religioso;13;1973,00;8983,00;691,00;;;4846157,87 €;372781,37 €
+2017;UR;20;San Blas;207;Canillejas;T;Espectáculos;2;1970,00;707,00;354,00;;;695114,35 €;347557,18 €
+2017;UR;20;San Blas;207;Canillejas;V;Residencial;12274;1974,00;1140691,00;93,00;;;920832293,64 €;75023,00 €
+2017;UR;20;San Blas;207;Canillejas;Y;Sanidad y Beneficencia;15;1981,00;16025,00;1068,00;;;14783873,86 €;985591,59 €
+2017;UR;20;San Blas;208;Salvador;A;Almacén-Estacionamiento;1428;1992,00;107981,00;76,00;;;32895622,95 €;23036,15 €
+2017;UR;20;San Blas;208;Salvador;C;Comercial;204;1977,00;33721,00;165,00;;;35643414,68 €;174722,62 €
+2017;UR;20;San Blas;208;Salvador;E;Cultural;5;1985,00;58066,00;11613,00;;;46505817,69 €;9301163,54 €
+2017;UR;20;San Blas;208;Salvador;G;Ocio y Hostelería;17;1992,00;36085,00;2123,00;;;54761364,08 €;3221256,71 €
+2017;UR;20;San Blas;208;Salvador;I;Industrial;19;1971,00;8457,00;445,00;;;4646520,63 €;244553,72 €
+2017;UR;20;San Blas;208;Salvador;K;Deportivo;12;1992,00;20084,00;1674,00;;;12019595,13 €;1001632,93 €
+2017;UR;20;San Blas;208;Salvador;M;Suelos sin edificar, obras de urbanización y jardinería;63;;;;257550,00;4088,00;100261720,00 €;1591455,87 €
+2017;UR;20;San Blas;208;Salvador;O;Oficinas;106;1986,00;340767,00;3215,00;;;353770985,00 €;3337462,12 €
+2017;UR;20;San Blas;208;Salvador;P;Edificio Singular;2;1972,00;21705,00;10852,00;;;21074708,01 €;10537354,01 €
+2017;UR;20;San Blas;208;Salvador;R;Religioso;3;1952,00;6669,00;2223,00;;;4526298,08 €;1508766,03 €
+2017;UR;20;San Blas;208;Salvador;V;Residencial;4874;1982,00;850953,00;175,00;;;731028548,26 €;149985,34 €
+2017;UR;20;San Blas;208;Salvador;Y;Sanidad y Beneficencia;1;1960,00;5875,00;5875,00;;;3984045,64 €;3984045,64 €
+2017;UR;21;Barajas;211;Alameda de Osuna;A;Almacén-Estacionamiento;4836;1989,00;139332,00;29,00;;;43372966,71 €;8968,77 €
+2017;UR;21;Barajas;211;Alameda de Osuna;C;Comercial;300;1978,00;23618,00;79,00;;;27353786,62 €;91179,29 €
+2017;UR;21;Barajas;211;Alameda de Osuna;E;Cultural;9;1965,00;84527,00;9392,00;;;82103205,99 €;9122578,44 €
+2017;UR;21;Barajas;211;Alameda de Osuna;G;Ocio y Hostelería;277;1980,00;55367,00;200,00;;;45453709,92 €;164092,82 €
+2017;UR;21;Barajas;211;Alameda de Osuna;I;Industrial;19;1978,00;1013,00;53,00;;;912588,45 €;48030,97 €
+2017;UR;21;Barajas;211;Alameda de Osuna;K;Deportivo;24;1985,00;70968,00;2957,00;;;45051098,50 €;1877129,10 €
+2017;UR;21;Barajas;211;Alameda de Osuna;M;Suelos sin edificar, obras de urbanización y jardinería;167;;;;1236354,00;7403,00;61595045,62 €;368832,61 €
+2017;UR;21;Barajas;211;Alameda de Osuna;O;Oficinas;72;1988,00;162738,00;2260,00;;;190669492,04 €;2648187,39 €
+2017;UR;21;Barajas;211;Alameda de Osuna;P;Edificio Singular;3;1945,00;9399,00;3133,00;;;4480168,01 €;1493389,34 €
+2017;UR;21;Barajas;211;Alameda de Osuna;R;Religioso;7;1970,00;3368,00;481,00;;;3280897,68 €;468699,67 €
+2017;UR;21;Barajas;211;Alameda de Osuna;V;Residencial;8014;1981,00;994435,00;124,00;;;1108299077,86 €;138295,37 €
+2017;UR;21;Barajas;211;Alameda de Osuna;Y;Sanidad y Beneficencia;12;1986,00;12701,00;1058,00;;;14978185,33 €;1248182,11 €
+2017;UR;21;Barajas;212;Aeropuerto;A;Almacén-Estacionamiento;210;2003,00;19475,00;93,00;;;4965332,43 €;23644,44 €
+2017;UR;21;Barajas;212;Aeropuerto;C;Comercial;36;1969,00;16089,00;447,00;;;13174588,27 €;365960,79 €
+2017;UR;21;Barajas;212;Aeropuerto;G;Ocio y Hostelería;6;1988,00;31761,00;5294,00;;;36926939,08 €;6154489,85 €
+2017;UR;21;Barajas;212;Aeropuerto;I;Industrial;61;1982,00;353227,00;5791,00;;;191784801,60 €;3144013,14 €
+2017;UR;21;Barajas;212;Aeropuerto;K;Deportivo;2;1950,00;3015,00;1508,00;;;329215,50 €;164607,75 €
+2017;UR;21;Barajas;212;Aeropuerto;M;Suelos sin edificar, obras de urbanización y jardinería;32;;;;228215,00;7132,00;8793568,48 €;274799,02 €
+2017;UR;21;Barajas;212;Aeropuerto;O;Oficinas;92;1998,00;157725,00;1714,00;;;163357234,80 €;1775622,12 €
+2017;UR;21;Barajas;212;Aeropuerto;P;Edificio Singular;1;1970,00;2305,00;2305,00;;;1914316,60 €;1914316,60 €
+2017;UR;21;Barajas;212;Aeropuerto;R;Religioso;1;1995,00;5675,00;5675,00;;;784510,44 €;784510,44 €
+2017;UR;21;Barajas;212;Aeropuerto;V;Residencial;579;1962,00;35924,00;62,00;;;30458835,07 €;52605,93 €
+2017;UR;21;Barajas;212;Aeropuerto;Y;Sanidad y Beneficencia;4;1978,00;5650,00;1412,00;;;3859078,16 €;964769,54 €
+2017;UR;21;Barajas;213;Casco Histórico de Barajas;A;Almacén-Estacionamiento;1453;1985,00;71618,00;49,00;;;18360731,15 €;12636,43 €
+2017;UR;21;Barajas;213;Casco Histórico de Barajas;C;Comercial;350;1978,00;30920,00;88,00;;;51317362,71 €;146621,04 €
+2017;UR;21;Barajas;213;Casco Histórico de Barajas;E;Cultural;8;1980,00;2791,00;349,00;;;3175967,84 €;396995,98 €
+2017;UR;21;Barajas;213;Casco Histórico de Barajas;G;Ocio y Hostelería;24;1988,00;37419,00;1559,00;;;43219670,35 €;1800819,60 €
+2017;UR;21;Barajas;213;Casco Histórico de Barajas;I;Industrial;19;1957,00;2441,00;128,00;;;1988830,45 €;104675,29 €
+2017;UR;21;Barajas;213;Casco Histórico de Barajas;K;Deportivo;1;2000,00;1317,00;1317,00;;;265831,30 €;265831,30 €
+2017;UR;21;Barajas;213;Casco Histórico de Barajas;M;Suelos sin edificar, obras de urbanización y jardinería;107;;;;102604,00;959,00;27555535,45 €;257528,37 €
+2017;UR;21;Barajas;213;Casco Histórico de Barajas;O;Oficinas;23;1985,00;2759,00;120,00;;;3140640,59 €;136549,59 €
+2017;UR;21;Barajas;213;Casco Histórico de Barajas;P;Edificio Singular;2;1997,00;4854,00;2427,00;;;5695321,55 €;2847660,78 €
+2017;UR;21;Barajas;213;Casco Histórico de Barajas;R;Religioso;3;1930,00;3458,00;1153,00;;;1125351,48 €;375117,16 €
+2017;UR;21;Barajas;213;Casco Histórico de Barajas;T;Espectáculos;1;1982,00;116,00;116,00;;;135013,20 €;135013,20 €
+2017;UR;21;Barajas;213;Casco Histórico de Barajas;V;Residencial;3672;1981,00;383811,00;105,00;;;412786636,07 €;112414,66 €
+2017;UR;21;Barajas;213;Casco Histórico de Barajas;Y;Sanidad y Beneficencia;2;2008,00;1702,00;851,00;;;1357212,33 €;678606,16 €
+2017;UR;21;Barajas;214;Timón;A;Almacén-Estacionamiento;2418;2003,00;82963,00;34,00;;;26032982,15 €;10766,33 €
+2017;UR;21;Barajas;214;Timón;C;Comercial;214;1994,00;33183,00;155,00;;;36606233,14 €;171057,16 €
+2017;UR;21;Barajas;214;Timón;E;Cultural;6;1976,00;28797,00;4800,00;;;25090997,82 €;4181832,97 €
+2017;UR;21;Barajas;214;Timón;G;Ocio y Hostelería;7;1691,00;29960,00;4280,00;;;37381358,28 €;5340194,04 €
+2017;UR;21;Barajas;214;Timón;I;Industrial;39;1990,00;12088,00;310,00;;;5081455,90 €;130293,74 €
+2017;UR;21;Barajas;214;Timón;K;Deportivo;6;1999,00;248588,00;41431,00;;;227980054,75 €;37996675,79 €
+2017;UR;21;Barajas;214;Timón;M;Suelos sin edificar, obras de urbanización y jardinería;280;;;;2146313,00;7665,00;694544378,30 €;2480515,64 €
+2017;UR;21;Barajas;214;Timón;O;Oficinas;46;2000,00;20644,00;449,00;;;22501474,17 €;489162,48 €
+2017;UR;21;Barajas;214;Timón;R;Religioso;1;2002,00;1745,00;1745,00;;;1763182,12 €;1763182,12 €
+2017;UR;21;Barajas;214;Timón;V;Residencial;5214;1996,00;674388,00;129,00;;;646359673,32 €;123966,18 €
+2017;UR;21;Barajas;214;Timón;Y;Sanidad y Beneficencia;5;1998,00;4177,00;835,00;;;3558984,12 €;711796,82 €
+2017;UR;21;Barajas;215;Corralejos;A;Almacén-Estacionamiento;2549;2002,00;90309,00;35,00;;;27170934,68 €;10659,45 €
+2017;UR;21;Barajas;215;Corralejos;C;Comercial;46;2000,00;20600,00;448,00;;;19190581,81 €;417186,56 €
+2017;UR;21;Barajas;215;Corralejos;E;Cultural;2;2010,00;18912,00;9456,00;;;17952152,96 €;8976076,48 €
+2017;UR;21;Barajas;215;Corralejos;G;Ocio y Hostelería;10;1981,00;695752,00;69575,00;;;566753926,16 €;56675392,62 €
+2017;UR;21;Barajas;215;Corralejos;I;Industrial;15;1986,00;30229,00;2015,00;;;24996849,61 €;1666456,64 €
+2017;UR;21;Barajas;215;Corralejos;K;Deportivo;3;2006,00;667067,00;222356,00;;;22592181,11 €;7530727,04 €
+2017;UR;21;Barajas;215;Corralejos;M;Suelos sin edificar, obras de urbanización y jardinería;70;;;;1776175,00;25374,00;49627275,08 €;708961,07 €
+2017;UR;21;Barajas;215;Corralejos;O;Oficinas;171;1994,00;542631,00;3173,00;;;682986610,13 €;3994073,74 €
+2017;UR;21;Barajas;215;Corralejos;R;Religioso;2;2006,00;3934,00;1967,00;;;3298634,89 €;1649317,44 €
+2017;UR;21;Barajas;215;Corralejos;T;Espectáculos;1;1995,00;14720,00;14720,00;;;16396755,20 €;16396755,20 €
+2017;UR;21;Barajas;215;Corralejos;V;Residencial;3019;1999,00;458391,00;152,00;;;547746951,68 €;181433,24 €
+2017;UR;21;Barajas;215;Corralejos;Y;Sanidad y Beneficencia;3;2009,00;15177,00;5059,00;;;20072646,44 €;6690882,15 €
