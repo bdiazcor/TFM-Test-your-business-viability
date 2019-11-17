@@ -1,0 +1,38 @@
+Funciones:
+* cl.new_col: function that generates 'conc' variable = concat('rotulo','desc_vial_acceso') to identify unique locals
+* cl.estado: I generate a new variable 'desc_sit_loc_modif' to unify all 'Baja*' and 'LOCAL SIN ACTIVIDAD' status with 'Cerrado' status.
+* cl.na: I fill NaN with module **cl.na** according to Epigrafes nomenclature
+- If 'rotulo' == 'SIN ACTIVIDAD' 
+    df_final['id_seccion'].fillna('Z',inplace=True)
+    df_final['desc_seccion'].fillna('SIN ACTIVIDAD',inplace=True)
+    df_final['id_division'].fillna(0,inplace=True)
+    df_final['desc_division'].fillna('SIN ACTIVIDAD',inplace=True)
+    df_final['id_epigrafe'].fillna(0,inplace=True)
+    df_final['desc_epigrafe'].fillna('LOCAL SIN ACTIVIDAD',inplace=True)
+- If 'nombre_agrupacion' isnull():
+    df_final['nombre_agrupacion'].fillna('SIN AGRUPACION',inplace=True)
+    df_final['desc_tipo_agrup'].fillna('SIN AGRUPACION',inplace=True)
+    df_final['id_tipo_agrup'].fillna(-1,inplace=True)
+    df_final['id_agrupacion'].fillna(-1,inplace=True)
+    df_final['coordenada_x_agrupacion'].fillna(0,inplace=True)
+    df_final['coordenada_y_agrup'].fillna(0,inplace=True)
+- Calls function cl.id_sit to fill in the variable 'id_situacion_local' that is null in the Activities file 
+* cl.col_rest:drop most of the columns of DataFrame from 2015 to 2018 and just keep columns_of_interest=['id_local','conc','desc_sit_loc_modif'] to merge with 2019 DataFrame in the final table.
+* cl.reset: drop duplicates and reset index before final merge
+* cl.sit_year: 
+# Genero columnas con los abiertos y cerrados en cada año:   
+# abiertos cada año (ej: abiertos no existentes el año anterior)   
+# cerrados cada año (ej 2019: cerrados y uso vivienda no cerrados/uso vivienda en años anteriores)
+*cl.target: function to calculate the target variable based on the time it has been opened (n years), starting the analysis since year m: 'cerrado_yy' == 1 & 'abierto_(yy-n)' == 1
+Generates new variable: 'target  
+*cl.target2: function to calculate the target variable: locals closed the lat n years, stating the analysis in year m. This is the one that I will use finally since the other one does not provide enough dependent variable values
+Generates new variable: 'target
+*cl.norm_act: Function to standardize the activity. Those activities with less than median(#locals/activity)==act in Madrid, are assigned the desc_act_norm == 'OTRAS ACTIVIDADES'. 
+Generates new variable:'des_act_norm'
+*cl.norm_id_act: Function to standardize the activity. Those activities with less than median(#locals/activity)==act in Madrid, are assigned the id_act_norm == 999999.
+Generates new variable:'id_act_norm'
+*cl.act_filter_id_norm: function to calculate 'id_act_norm' > (m == % # id_act_norm target/locales) and the # of total locals with this 'id_act_norm' > n
+*cl.act_filter_desc_norm: function to calculate 'desc_act_norm' > (m == % # desc_act_norm target/locales) and the # of total locals with this 'desc_act_norm' > n
+* cl.new_col2: function that generates an intermediate status to unify the locals with the same id_local and more than one activity, in a single epigrafe (the first found)
+* points_in_radius: function than calculates the number of locals of the same activity within a given radius
+* dist_type: function to 

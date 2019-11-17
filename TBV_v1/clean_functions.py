@@ -5,23 +5,6 @@ import os
 import sys
 from geopy.distance import geodesic
 
-#función que compara dos dataframes y devuelve dos arrays de los id_local que aparecen en un dataframe y no en el otro y viceversa
-def missing_id(df1,df2):
-    arr1 = []
-    arr2 = []
-    missing_id_df1 = []
-    missing_id_df2 = []
-    
-    df1.drop_duplicates()
-    df2.drop_duplicates()
-    
-    arr1 = df1.id_local_norm.unique()
-    arr2 = df2.id_local_norm.unique()
-    missing_id_df1 = [x for x in arr1 if x not in arr2]
-    missing_id_df2 = [x for x in arr2 if x not in arr1]
-    
-    return(missing_id_df1,missing_id_df2)
-
 # funcion que incluye el id_situacion en dataframes (era un campo vacío en fichero de epigrafes) 
 def id_sit(df):
     df.loc[df['desc_situacion_local'] == 'Abierto','id_situacion_local'] = int(1)
@@ -56,13 +39,10 @@ def estado(column1, column2):
     
     return res
 
-#función que genera dos nuevas columnas de trabajo: 'conc': concatena rótulo con dirección e 'id_local_norm' para poder
-#normalizar ids sin modificar la columna original
+#función que genera una nueva columnas de trabajo: 'conc': concatena rótulo con dirección e 'id_local_norm' para poder
 def new_col(df):
     df['conc'] = df.rotulo.str.strip() + "-" + df.desc_vial_acceso.str.strip() + "-" + df.num_acceso.astype(str) 
-#    df['id_local_norm'] = df['id_local']
     return df
-
 
 #funcion para tratar NAs del fichero último año
 def na(df): 
@@ -107,21 +87,7 @@ def reset(df):
     df.reset_index(drop=True,inplace=True)
     return df
 
-# funcion que requiere mucho rendimiento. Compara una a una las diferencias entre los id_locales de dataframes y las
-# unifica
-def unif_id(df1,df2):
-    n = 0
-    for i in df2.conc.values:
-        if i in df1.conc.values:
-            df1.loc[df1.conc == i,'id_local_norm'] = max(df1.loc[df1.conc== i,'id_local'].values)
-            df2.loc[df2.conc == i,'id_local_norm'] = df1.loc[df1.conc == i,'id_local_norm']
-    n += 1
-    print(i,n)
-    return(df1,df2)
-
-#función que calcula la columna target como los locales cerrado en función de los locales abiertos n años antes, empezando con los locales abiertos desde year_i (desde 2016 hasta 2018)
-
-# n = número de años target para cierre ej: n= 1, abierto un año y cerrado el siguiente
+#function to calculate the target variable based on the time a local has been opened (n years), starting the analysis since year m (2016-2018): 'cerrado_yy' == 1 & 'abierto_(yy-n)' == 1  -> target == 1
 def target(df,n,year_i):
     
     df_ = df.copy()
@@ -174,8 +140,7 @@ def target(df,n,year_i):
     return df_
 
 
-# función que genera una columna target en función de los cerrados en los últimos n años
-
+# function to calculate the target variable: locals closed the lat n years, stating the analysis in year m
 def target2(df_,n):
     if n == 1:
         df_['target'] = np.where(df_.cerrado_19 == 1, 1,0)
@@ -289,7 +254,53 @@ def act_filter_desc(df,n,m):
     df_f = df_[(df_.act_count > n) & (df_.perc > m) ]
     return df_f
 
-# Incluyo una columna con la descripción de la actividad única para un id_local (sin tiene varias). Me quedo con la primera
+# function to calculate 'id_act_norm' > (m == % # id_act_norm target/locales) and the # of total locals with this 'id_act_norm' > n
+
+def act_filter_id_norm(df,n,m):
+    df__ = df.copy()
+    df_zero = df__[((df__.desc_sit_loc_modif_19 != 'Cerrado') | (df__.desc_sit_loc_modif_19 != 'Uso vivienda')) & 
+                  (df__.target == 0)]
+    df_ones = df__[df__.target == 1]
+    tablon = [df_zero,df_ones]
+    df_ = pd.concat(tablon)
+    act_count = df_['id_act_norm'].value_counts()
+    ones = df_ones['id_act_norm'].value_counts()
+    df_ = pd.concat([act_count, ones], axis=1,sort = False)
+    df_ = df_.rename(columns = {'id_act_norm':'ones'})
+    names = df_.columns.tolist()
+    names[0] = 'act_count'
+    df_.columns = names
+    df_.ones.fillna(0, inplace=True)
+    df_['perc'] = df_.apply(lambda x: x['ones']/x['act_count'],axis=1)
+    df_.sort_values(by='perc', ascending=False,inplace=True)
+    df_f = df_[(df_.act_count > n) & (df_.perc > m) ]
+    return df_f.index.values.astype(int)
+
+# function to calculate 'desc_act_norm' > (m == % # desc_act_norm target/locales) and the # of total locals with this 'desc_act_norm' > n
+
+def act_filter_desc_norm(df,n,m):
+    df__ = df.copy()
+    df_zero = df__[((df__.desc_sit_loc_modif_19 != 'Cerrado') | (df__.desc_sit_loc_modif_19 != 'Uso vivienda')) & 
+                  (df__.target == 0)]
+    df_ones = df__[df__.target == 1]
+    tablon = [df_zero,df_ones]
+    df_ = pd.concat(tablon)
+    act_count = df_['desc_act_norm'].value_counts()
+    ones = df_ones['desc_act_norm'].value_counts()
+    df_ = pd.concat([act_count, ones], axis=1,sort = False)
+    df_ = df_.rename(columns = {'desc_act_norm':'ones'})
+    names = df_.columns.tolist()
+    names[0] = 'act_count'
+    df_.columns = names
+    df_.ones.fillna(0, inplace=True)
+    df_['perc'] = df_.apply(lambda x: x['ones']/x['act_count'],axis=1)
+    df_.sort_values(by='perc', ascending=False,inplace=True)
+    df_f = df_[(df_.act_count > n) & (df_.perc > m) ]
+    return df_f
+
+
+
+# Function that generates an intermediate status to unify the locals with the same id_local and more than one activity, in a # # single epigrafe (the first found)
 def new_col2(df):
     act = []
     for i in range(len(df)):
@@ -313,3 +324,16 @@ def num_loc_dist(df,dist):
         num_loc_d.append(len(list(filter(lambda num: num < dist,distance)))-1)
         
     return num_loc_d
+
+# Function to standardize the activity. Those activities with less than median(#locals/activity)==act in Madrid, are assigned the desc_act_norm == 'OTRAS ACTIVIDADES'.
+def norm_act(df,act):
+    if df in act:
+        return 'OTRAS ACTIVIDADES'            
+    else:
+        return df
+# Function to standardize the activity. Those activities with less than median(#locals/activity)==act in Madrid, are assigned the id_act_norm == 999999.
+def norm_id_act(df_act,df_id,act):
+    if df_act in act:
+        return int(999999)            
+    else:
+        return df_id

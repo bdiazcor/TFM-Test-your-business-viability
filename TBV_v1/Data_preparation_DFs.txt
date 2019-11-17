@@ -1,0 +1,17 @@
+Intermediate dataframes:
+*epi19 to 16 ->  (load info)
+*df1 -> (load 'Data/censopob/censo_Madrid_distrito.xlsx':population info)
+*df2 -> (load Data/PF/PF_diaria_norm.xlsx: one week floating traffic)
+*epi19 to 16 cl -> (first cleaning: new colums 'conc', 'desc_sit_loc_modif')
+*epi19 to 16 cl_d ->  (second cleaning)
+*local19 ->  (join all years) - estado en otros años diferentes para un mismo id+rotulo+dir
+*local19_f -> :drop desc_epigrafe == SIN ACTIVIDAD
+*df_no_act: locales con desc_epigrafe == SIN ACTIVIDAD pero geoposicionados
+*local19_ft -> 716: add target variable, drop 'desc_epigrafe' == PTEC01 and 'id_epigrafe'.astype(int)
+*locals -> filters de id_epigrafe with higher target/total rate
+*locals_v1 - v7 -> intermediate status to add new variables and drop duplicates after transformations
+*locals_v8 -> final dataframe to modeling (Data/censolocales/locals.csv), merges population information (df1, df2)
+
+
+
+

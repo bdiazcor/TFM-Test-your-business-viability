@@ -1,0 +1,73 @@
+Functions:
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import os
+import sys
+import importlib
+import clean_functions as cl
+import geopy
+import utm
+%pylab inline
+pd.set_option('display.max_column',None)
+
+New variables:
+Intermedias:
+* 'conc'
+* 'desc_sit_loc_modif_19'
+* 'desc_sit_loc_modif_18'
+* 'desc_sit_loc_modif_17'
+* 'desc_sit_loc_modif_16', 
+* 'desc_sit_loc_modif_15', 
+* 'cerrado_19',
+* 'abierto_19', 
+* 'cerrado_18', 
+* 'abierto_18', 
+* 'cerrado_17', 
+* 'abierto_17',
+* 'cerrado_16',
+* 'abierto_16'
+* 'desc_act_norm': desc_epigrafe + 'OTRAS ACTIVIDADES' for activities below median(#locals/activity) == 82
+* 'id_act_norm': id_epigrafe + 999999 for activities below median(#locals/activity) == 82
+* 'num_act': number of diferent activities licenced for a single local
+* 'coord_x_f'. Intermediate variable: to change 'coordenada_x_local' format to float
+* 'coord_y_f'. Intermediate variable: to change 'coordenada_y_local' format to float
+* 'coord_x_af'. Intermediate variable: to change 'coordenada_x_agrupacion' format to float
+* 'coord_y_af'. Intermediate variable: to change 'coordenada_y_agrup' format to float
+* 'coord_x_final': unifies single and groups UTM coord_y
+* 'coord_y_final': unifies single and groups UTM coord_y
+* 'lat': latitude
+* 'lon': longitude
+* 'total_local_act': total_locals_under study
+* 'total_locales': total_locals_without filter to study
+* 'total_ab_dist_17_19': locals opened since 2017
+* 'part_ab_dist_17_19': locals of the activity of the study opened since 2017
+* 'point_in_radius': number of locals of the same activity in a radius < 500 m
+
+Population info/district:
+* 'Población'
+* 'Hombre'
+* 'Mujeres'
+* 'Densidad (Habitantes / Ha.)'
+* 'Edad promedio'
+* 'Total Hogares'
+* 'Españoles'
+* 'Extranjeros', 'Mixtos'
+* 'España fuera barrio dia laboral': Spaniards from out of distrinct floating traffic from Monday to Friday (xx units)
+* 'Extranjero fuera barrio dia laboral': Foreigners floating traffic from Monday to Friday (xx units)
+* 'Total fuera barrio dia laboral': Total out of district floating traffic from Monday to Friday(xx units) 
+* 'España fuera barrio fin semana': Spaniards from out of distrinct floating traffic from Saturday to Sunday (xx units)
+* 'Extranjero fuera barrio fin semana': Foreigners floating traffic from Saturday to Sunday (xx units)
+* 'Total fuera barrio fin semana': Total out of district floating traffic from Saturday to Sunday(xx units) 
+* 'Total barrio dia laboral': Residents floating traffic from Monday to Friday (xx units)
+* 'Total barrio fin semana': Residents floating traffic from Saturday to Sunday (xx units)
+* 'Total trabajo dia laboral': workers (no residents) floating traffic from Monday to Friday (xx units)
+* 'Total trabajo fin semana': workers (no residents) floating traffic from Saturday to Sunday (xx units)
+* 'total_TF_week': Calculated. total residents and out of the district floating traffic in a week
+* 'ratio_t_total': Calculated. Workers/total traffic ratio in a week
+* 'ratio_fb_total' (ratio out of district/week): Calculated. Out of district/total traffic ration in a week
+* 'tatio_b_total' (ration district/week): Calculated. Residents/total traffic ration in a week 
+* dist_type: if ratio out of district/week > percentile 75 -> commercial, 
+elif ratio district/week > percentile 75 -> residential
+else mixed
