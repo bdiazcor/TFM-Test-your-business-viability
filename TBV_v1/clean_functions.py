@@ -83,9 +83,10 @@ def col_rest(df):
 
 # ordeno por id_local y reseteo el indice
 def reset(df):
-    df.sort_values(['id_local'],inplace=True)
-    df.reset_index(drop=True,inplace=True)
-    return df
+    df_ = df.copy()
+    df_.sort_values(['id_local'],inplace=True)
+    df_.reset_index(drop=True,inplace=True)
+    return df_
 
 #function to calculate the target variable based on the time a local has been opened (n years), starting the analysis since year m (2016-2018): 'cerrado_yy' == 1 & 'abierto_(yy-n)' == 1  -> target == 1
 def target(df,n,year_i):
@@ -337,3 +338,74 @@ def norm_id_act(df_act,df_id,act):
         return int(999999)            
     else:
         return df_id
+    
+# script to calculate main KPIs open in last 3 years vs 
+def kpis_total(df):
+    
+    index_total = df.index.values
+    
+    df.loc[index_total,'ab_17_19'] = df.loc[index_total,'abierto_19'] + df.loc[index_total,'abierto_18'] + df.loc[index_total,'abierto_17']
+    
+    # Count: total act/district, total open/act/district, total act/neighbourhood, total open/act/neighbourhood
+    loc_dist_act = pd.DataFrame(df.groupby(['id_distrito_local','id_epigrafe']).count().id_local)
+    ab_dist_act_17_19 = pd.DataFrame(df[df['ab_17_19'] ==1].groupby(['id_distrito_local','id_epigrafe']).count().ab_17_19.astype(np.int64))
+    loc_act = pd.DataFrame(df.groupby(['id_epigrafe']).count().id_local)
+    ab_act_17_19 = pd.DataFrame(df[df['ab_17_19'] ==1].groupby(['id_epigrafe']).count().ab_17_19)
+    loc_dist = pd.DataFrame(df.groupby(['id_distrito_local']).count().id_local)
+    ab_dist_17_19 = pd.DataFrame(df[df['ab_17_19'] ==1].groupby(['id_distrito_local']).count().ab_17_19)
+    loc_na_dist = pd.DataFrame(df[df['id_epigrafe']== 0].groupby('id_distrito_local').count().desc_sit_loc_modif_19)
+    loc_barrio_act = pd.DataFrame(df.groupby(['id_barrio_local','id_epigrafe']).count().id_local)
+    ab_barrio_act_17_19 = pd.DataFrame(df[df['ab_17_19'] ==1].groupby(['id_barrio_local','id_epigrafe']).count().ab_17_19)
+    loc_barrio = pd.DataFrame(df.groupby(['id_barrio_local']).count().id_local)
+    ab_barrio_17_19 = pd.DataFrame(df[df['ab_17_19'] ==1].groupby(['id_barrio_local']).count().ab_17_19)
+    loc_na_barrio = pd.DataFrame(df[df['id_epigrafe']== 0].groupby('id_barrio_local').count().desc_sit_loc_modif_19)
+
+    kpis_ = pd.concat([loc_dist_act,ab_dist_act_17_19], axis =1, sort=False)
+    kpis_.reset_index(inplace=True)
+    kpis_ = kpis_.merge(loc_act, how='left',on='id_epigrafe')
+    kpis_ = kpis_.merge(ab_act_17_19, how='left',on='id_epigrafe')
+    kpis_ = kpis_.merge(loc_dist, how='left',on='id_distrito_local')
+    kpis_ = kpis_.merge(ab_dist_17_19, how='left',on='id_distrito_local')
+    kpis_ = kpis_.merge(loc_na_dist, how='left',on='id_distrito_local')
+    kpis_.rename(columns={'id_local_x':'loc_dist_act',
+                          'ab_17_19_x':'ab_dist_act_17_19',
+                          'id_local_y':'total_loc_act',
+                          'ab_17_19_y':'total_ab_act_17_19',
+                          'id_local': 'loc_dist',
+                          'ab_17_19':'ab_dist_17_19',
+                          'desc_sit_loc_modif_19':'loc_na_dist'
+                          },inplace=True)
+
+    # open vs total rate calculation per act/distric, district and activity
+    kpis_.loc[:,'ab_dist_act_17_19_rate'] = (kpis_.loc[:,'ab_dist_act_17_19']/kpis_.loc[:,'loc_dist_act'])*100
+    kpis_.loc[:,'total_ab_act_17_19_rate'] = (kpis_.loc[:,'total_ab_act_17_19']/kpis_.loc[:,'total_loc_act'])*100
+    kpis_.loc[:,'total_ab_dist_17_19_rate'] = (kpis_.loc[:,'ab_dist_17_19']/kpis_.loc[:,'loc_dist'])*100
+    kpis_.loc[:,'total_na_dist_rate'] = (kpis_.loc[:,'loc_na_dist']/kpis_.loc[:,'loc_dist'])*100
+
+    kpis_ = kpis_.fillna(0)
+
+    df_ = df.merge(kpis_,how='left',on=['id_distrito_local','id_epigrafe'])
+
+    # Now I calculate the same KPIs per neighbourghood
+    kpis__ = pd.concat([loc_barrio_act,ab_barrio_act_17_19], axis =1, sort=False)
+    kpis__.reset_index(inplace=True)
+    kpis__ = kpis__.merge(loc_barrio, how='left',on='id_barrio_local')
+    kpis__ = kpis__.merge(ab_barrio_17_19, how='left',on='id_barrio_local')
+    kpis__ = kpis__.merge(loc_na_barrio, how='left',on='id_barrio_local')
+
+    kpis__.rename(columns={'id_local_x':'loc_barrio_act',
+                           'ab_17_19_x':'ab_barrio_act_17_19',
+                           'id_local_y':'loc_barrio',
+                           'ab_17_19_y':'ab_barrio_17_19',
+                           'desc_sit_loc_modif_19':'loc_na_barrio'
+                          },inplace=True)
+
+    # open vs total rate calculation per act/neighbourghood and neighbourghood
+    kpis__.loc[:,'ab_barrio_act_17_19_rate'] = (kpis__.loc[:,'ab_barrio_act_17_19']/kpis__.loc[:,'loc_barrio_act'])*100
+    kpis__.loc[:,'total_ab_barr_17_19_rate'] = (kpis__.loc[:,'ab_barrio_17_19']/kpis__.loc[:,'loc_barrio'])*100
+    kpis__.loc[:,'total_na_barr_rate'] = (kpis__.loc[:,'loc_na_barrio']/kpis__.loc[:,'loc_barrio'])*100
+    kpis__ = kpis__.fillna(0)
+
+    df__ = df_.merge(kpis__,how='left',on=['id_barrio_local','id_epigrafe'])
+    
+    return df__
