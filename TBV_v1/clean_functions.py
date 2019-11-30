@@ -92,8 +92,7 @@ def reset(df):
 def target(df,n,year_i):
     
     df_ = df.copy()
-    print(n)
-    print(year_i)
+
     
     if n == 1: 
         if year_i == 2018:
@@ -213,7 +212,7 @@ def sit_year(df):
 
 # función que estima los id_epigrafes con un número de id_epigrafe > m y donde el % # id_epigrafe target/locales con este id es superior a n
 
-def act_filter_id(df,n,m):
+def act_filter_id(df, m, n=0):
     df__ = df.copy()
     df_zero = df__[((df__.desc_sit_loc_modif_19 != 'Cerrado') | (df__.desc_sit_loc_modif_19 != 'Uso vivienda')) & 
                   (df__.target == 0)]
@@ -235,7 +234,7 @@ def act_filter_id(df,n,m):
 
 # función que devuelve un df los desc_epigrafes con un número de id_epigrafe > m y donde el % # id_epigrafe target/locales con este id es superior a n
 
-def act_filter_desc(df,n,m):
+def act_filter_desc(df, m, n=0):
     df__ = df.copy()
     df_zero = df__[((df__.desc_sit_loc_modif_19 != 'Cerrado') | (df__.desc_sit_loc_modif_19 != 'Uso vivienda')) & 
                   (df__.target == 0)]
@@ -257,7 +256,7 @@ def act_filter_desc(df,n,m):
 
 # function to calculate 'id_act_norm' > (m == % # id_act_norm target/locales) and the # of total locals with this 'id_act_norm' > n
 
-def act_filter_id_norm(df,n,m):
+def act_filter_id_norm(df, m, n = 0):
     df__ = df.copy()
     df_zero = df__[((df__.desc_sit_loc_modif_19 != 'Cerrado') | (df__.desc_sit_loc_modif_19 != 'Uso vivienda')) & 
                   (df__.target == 0)]
@@ -279,7 +278,7 @@ def act_filter_id_norm(df,n,m):
 
 # function to calculate 'desc_act_norm' > (m == % # desc_act_norm target/locales) and the # of total locals with this 'desc_act_norm' > n
 
-def act_filter_desc_norm(df,n,m):
+def act_filter_desc_norm(df, m, n=0):
     df__ = df.copy()
     df_zero = df__[((df__.desc_sit_loc_modif_19 != 'Cerrado') | (df__.desc_sit_loc_modif_19 != 'Uso vivienda')) & 
                   (df__.target == 0)]
@@ -400,7 +399,7 @@ def kpis_total(df):
                            'desc_sit_loc_modif_19':'loc_na_barrio'
                           },inplace=True)
 
-    # open vs total rate calculation per act/neighbourghood and neighbourghood
+    # open vs total rate calculation per act/neighbourghood, total activities/neighbourghood and no activity/neighbourghood
     kpis__.loc[:,'ab_barrio_act_17_19_rate'] = (kpis__.loc[:,'ab_barrio_act_17_19']/kpis__.loc[:,'loc_barrio_act'])*100
     kpis__.loc[:,'total_ab_barr_17_19_rate'] = (kpis__.loc[:,'ab_barrio_17_19']/kpis__.loc[:,'loc_barrio'])*100
     kpis__.loc[:,'total_na_barr_rate'] = (kpis__.loc[:,'loc_na_barrio']/kpis__.loc[:,'loc_barrio'])*100
