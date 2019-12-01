@@ -11,7 +11,7 @@ get_ipython().run_line_magic('pylab', 'inline')
 pd.set_option('display.max_column',None)
 
 
-'''Function that returns confusin matriz and classification report
+'''Function that returns the confusion matrix and classification report
     Input
     ----------
     target : pd.Series with dependent or target data, where rows are observations
