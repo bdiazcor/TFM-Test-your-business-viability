@@ -1,0 +1,98 @@
+Variable,Type,Description
+id_local,int64,Description in: https://datos.madrid.es/FWProjects/egob/Catalogo/Economia/Ficheros/Estructura_DS_FicheroCLA.pdf
+id_distrito_local,int64,Description in: https://datos.madrid.es/FWProjects/egob/Catalogo/Economia/Ficheros/Estructura_DS_FicheroCLA.pdf
+desc_distrito_local,object,Description in: https://datos.madrid.es/FWProjects/egob/Catalogo/Economia/Ficheros/Estructura_DS_FicheroCLA.pdf
+id_barrio_local,int64,Description in: https://datos.madrid.es/FWProjects/egob/Catalogo/Economia/Ficheros/Estructura_DS_FicheroCLA.pdf
+desc_barrio_local,object,Description in: https://datos.madrid.es/FWProjects/egob/Catalogo/Economia/Ficheros/Estructura_DS_FicheroCLA.pdf
+desc_tipo_acceso_local,object,Description in: https://datos.madrid.es/FWProjects/egob/Catalogo/Economia/Ficheros/Estructura_DS_FicheroCLA.pdf
+id_situacion_local,float64,Description in: https://datos.madrid.es/FWProjects/egob/Catalogo/Economia/Ficheros/Estructura_DS_FicheroCLA.pdf
+desc_situacion_local,object,Description in: https://datos.madrid.es/FWProjects/egob/Catalogo/Economia/Ficheros/Estructura_DS_FicheroCLA.pdf
+clase_vial_acceso,object,Description in: https://datos.madrid.es/FWProjects/egob/Catalogo/Economia/Ficheros/Estructura_DS_FicheroCLA.pdf
+desc_vial_acceso,object,Description in: https://datos.madrid.es/FWProjects/egob/Catalogo/Economia/Ficheros/Estructura_DS_FicheroCLA.pdf
+nom_acceso,object,Description in: https://datos.madrid.es/FWProjects/egob/Catalogo/Economia/Ficheros/Estructura_DS_FicheroCLA.pdf
+num_acceso,int64,Description in: https://datos.madrid.es/FWProjects/egob/Catalogo/Economia/Ficheros/Estructura_DS_FicheroCLA.pdf
+cal_acceso,object,Description in: https://datos.madrid.es/FWProjects/egob/Catalogo/Economia/Ficheros/Estructura_DS_FicheroCLA.pdf
+id_agrupacion,float64,Description in: https://datos.madrid.es/FWProjects/egob/Catalogo/Economia/Ficheros/Estructura_DS_FicheroCLA.pdf
+nombre_agrupacion,object,Description in: https://datos.madrid.es/FWProjects/egob/Catalogo/Economia/Ficheros/Estructura_DS_FicheroCLA.pdf
+id_tipo_agrup,float64,Description in: https://datos.madrid.es/FWProjects/egob/Catalogo/Economia/Ficheros/Estructura_DS_FicheroCLA.pdf
+desc_tipo_agrup,object,Description in: https://datos.madrid.es/FWProjects/egob/Catalogo/Economia/Ficheros/Estructura_DS_FicheroCLA.pdf
+rotulo,object,Description in: https://datos.madrid.es/FWProjects/egob/Catalogo/Economia/Ficheros/Estructura_DS_FicheroCLA.pdf
+id_seccion,object,Description in: https://datos.madrid.es/FWProjects/egob/Catalogo/Economia/Ficheros/Estructura_DS_FicheroCLA.pdf
+desc_seccion,object,Description in: https://datos.madrid.es/FWProjects/egob/Catalogo/Economia/Ficheros/Estructura_DS_FicheroCLA.pdf
+id_division,int64,Description in: https://datos.madrid.es/FWProjects/egob/Catalogo/Economia/Ficheros/Estructura_DS_FicheroCLA.pdf
+desc_division,object,Description in: https://datos.madrid.es/FWProjects/egob/Catalogo/Economia/Ficheros/Estructura_DS_FicheroCLA.pdf
+id_epigrafe,int64,Description in: https://datos.madrid.es/FWProjects/egob/Catalogo/Economia/Ficheros/Estructura_DS_FicheroCLA.pdf
+desc_epigrafe,object,Description in: https://datos.madrid.es/FWProjects/egob/Catalogo/Economia/Ficheros/Estructura_DS_FicheroCLA.pdf
+conc,object,Support variable that identifies one stores clearly: concatenates  'rotulo'+'desc_vial_acceso'. 
+desc_sit_loc_modif_19,object,"Support variable with four categorical values: Cerrado, Abierto, Uso vivienda, En obras. Detail: Cerrado: desc_epigrafe ==  'LOCAL SIN ACTIVIDAD' & desc_situacion_local == 'Baja' | 'Baja PC Asociado | 'Baja reunificacion'| 'Cerrado'. Abierto: desc_situacion_local' == 'Abierto. Uso vivienda: desc_situacion_local == 'Abierto'. En obras: desc_situacion_local == 'En obras'. Year 2019"
+desc_sit_loc_modif_18,object,"Support variable with four categorical values: Cerrado, Abierto, Uso vivienda, En obras. Detail: Cerrado: desc_epigrafe ==  'LOCAL SIN ACTIVIDAD' & desc_situacion_local == 'Baja' | 'Baja PC Asociado | 'Baja reunificacion'| 'Cerrado'. Abierto: desc_situacion_local' == 'Abierto. Uso vivienda: desc_situacion_local == 'Abierto'. En obras: desc_situacion_local == 'En obras'. Year 2018"
+desc_sit_loc_modif_17,object,"Support variable with four categorical values: Cerrado, Abierto, Uso vivienda, En obras. Detail: Cerrado: desc_epigrafe ==  'LOCAL SIN ACTIVIDAD' & desc_situacion_local == 'Baja' | 'Baja PC Asociado | 'Baja reunificacion'| 'Cerrado'. Abierto: desc_situacion_local' == 'Abierto. Uso vivienda: desc_situacion_local == 'Abierto'. En obras: desc_situacion_local == 'En obras'. Year 2017"
+desc_sit_loc_modif_16,object,"Support variable with four categorical values: Cerrado, Abierto, Uso vivienda, En obras. Detail: Cerrado: desc_epigrafe ==  'LOCAL SIN ACTIVIDAD' & desc_situacion_local == 'Baja' | 'Baja PC Asociado | 'Baja reunificacion'| 'Cerrado'. Abierto: desc_situacion_local' == 'Abierto. Uso vivienda: desc_situacion_local == 'Abierto'. En obras: desc_situacion_local == 'En obras'. Year 2016"
+desc_sit_loc_modif_15,object,"Support variable with four categorical values: Cerrado, Abierto, Uso vivienda, En obras. Detail: Cerrado: desc_epigrafe ==  'LOCAL SIN ACTIVIDAD' & desc_situacion_local == 'Baja' | 'Baja PC Asociado | 'Baja reunificacion'| 'Cerrado'. Abierto: desc_situacion_local' == 'Abierto. Uso vivienda: desc_situacion_local == 'Abierto'. En obras: desc_situacion_local == 'En obras'. Year 2015"
+cerrado_19,int64,"1' if the local has closed in 2019 ('cerrado_19'). Detail: ['cerrado_19'] = np.where(cond1 & cond2, 1 ,0) ; cond1 = ((df_.desc_sit_loc_modif_19 == 'Cerrado') | (df_.desc_sit_loc_modif_19 == 'Uso vivienda'))     
+ cond2 = ((df_.desc_sit_loc_modif_18 != 'Cerrado') | df.desc_sit_loc_modif_18.isnull())"
+abierto_19,int64,"1' if the store opened in 2019. Detail: df_['abierto_19'] = np.where(cond3, 1 ,0); cond3 = ((df_.desc_sit_loc_modif_19.notnull()) & (df_.desc_sit_loc_modif_18.isnull()))  "
+cerrado_18,int64,"1' if the local has closed in 2018 ('cerrado_18'). Detail: ['cerrado_18'] = np.where(cond1 & cond2, 1 ,0) ; cond1 = ((df_.desc_sit_loc_modif_18 == 'Cerrado') | (df_.desc_sit_loc_modif_18 == 'Uso vivienda'))     
+ cond2 = ((df_.desc_sit_loc_modif_17 != 'Cerrado') | df.desc_sit_loc_modif_17.isnull())"
+abierto_18,int64,"1' if the store opened in 2018. Detail: df_['abierto_19'] = np.where(cond3, 1 ,0); cond3 = ((df_.desc_sit_loc_modif_18.notnull()) & (df_.desc_sit_loc_modif_17.isnull()))  "
+cerrado_17,int64,"1' if the local has closed in 2017 ('cerrado_17'). Detail: ['cerrado_17'] = np.where(cond1 & cond2, 1 ,0) ; cond1 = ((df_.desc_sit_loc_modif_17 == 'Cerrado') | (df_.desc_sit_loc_modif_17 == 'Uso vivienda'))     
+ cond2 = ((df_.desc_sit_loc_modif_16 != 'Cerrado') | df.desc_sit_loc_modif_16.isnull())"
+abierto_17,int64,"1' if the store opened in 2017. Detail: df_['abierto_17'] = np.where(cond3, 1 ,0); cond3 = ((df_.desc_sit_loc_modif_17.notnull()) & (df_.desc_sit_loc_modif_16.isnull()))  "
+cerrado_16,int64,"1' if the local has closed in 2016 ('cerrado_16'). Detail: ['cerrado_16'] = np.where(cond1 & cond2, 1 ,0) ; cond1 = ((df_.desc_sit_loc_modif_16 == 'Cerrado') | (df_.desc_sit_loc_modif_16 == 'Uso vivienda'))     
+ cond2 = ((df_.desc_sit_loc_modif_15 != 'Cerrado') | df.desc_sit_loc_modif_15.isnull())"
+abierto_16,int64,"1' if the store opened in 2016. Detail: df_['abierto_16'] = np.where(cond3, 1 ,0); cond3 = ((df_.desc_sit_loc_modif_16.notnull()) & (df_.desc_sit_loc_modif_15.isnull()))  "
+target,int64,"Dependent or target variable. It is '1' if the store has been closed in the last 3 years. Detail:  ['target'] = np.where(cond, 1,0);  cond = ((df_.cerrado_19 == 1) | (df_.cerrado_18 == 1) | (df_.cerrado_17 == 1))"
+desc_act_norm,object,Normalized type of activity: count of 'desc_epigrafe' (activity) < than percentile .75 are grouped in a common activity == 'OTRAS ACTIVIDADES'.
+id_act_norm,int64,Normalized id of activity: count of 'id_epigrafe' (activity) < than percentile .75 are grouped in a common id_act_norm == 999999
+ab_17_19,int64,"1' if the store opened between 2017 and 2019. Detail: ['ab_17_19'] = ['abierto_19'] + ['abierto_18'] + [,'abierto_17']"
+loc_dist_act,int64,"Number of stores of the same activity/district. Detail: pd.DataFrame(df.groupby(['id_distrito_local','id_epigrafe']).count().id_local)"
+ab_dist_act_17_19,float64,"Number of stores of the same activity and district opened between 2017 and 2019. Detail: pd.DataFrame(df[df['ab_17_19'] ==1].groupby(['id_distrito_local','id_epigrafe']).count().ab_17_19.astype(np.int64)) "
+total_loc_act,int64,Number total stores of the same activity. Detail: pd.DataFrame(df.groupby(['id_epigrafe']).count().id_local)
+total_ab_act_17_19,float64,Number of stores of the same activity opened between 2017 and 2019ab_act_17_19 = pd.DataFrame(df[df['ab_17_19'] ==1].groupby(['id_epigrafe']).count().ab_17_19
+loc_dist,int64,Total number of stores per district. Detail: pd.DataFrame(df.groupby(['id_distrito_local']).count().id_local)
+ab_dist_17_19,int64,Total stores opened per district between 2017-2019. Detail: pd.DataFrame(df[df['ab_17_19'] ==1].groupby(['id_distrito_local']).count().ab_17_19)
+loc_na_dist,int64,Total stores witout activity per district. Detail: pd.DataFrame(df[df['id_epigrafe']== 0].groupby('id_distrito_local').count().desc_sit_loc_modif_19)
+ab_dist_act_17_19_rate,float64,Rate of stores opened of the same activity and district between 2017 and 2019 vs total. Detail: (['ab_dist_act_17_19']/['loc_dist_act'])*100
+total_ab_act_17_19_rate,float64,Rate of stores opened of the same activity between 2017 and 2019 vs total. Detail: (['total_ab_act_17_19']/['total_loc_act'])*100
+total_ab_dist_17_19_rate,float64,Rate of stores opened in the same district between 2017 and 2019 vs total. Detail: (['ab_dist_17_19']/['loc_dist'])*100
+total_na_dist_rate,float64,Rate of stores without activity per district vs total. Detail: [(['loc_na_dist']/['loc_dist'])*100
+loc_barrio_act,int64,"Number of stores of the same activity/neighbourhood. Detail: pd.DataFrame(df.groupby(['id_barrio_local','id_epigrafe']).count().id_local)"
+ab_barrio_act_17_19,float64,"Number of stores of the same activity and neighboourhood opened between 2017 and 2019. Detail: ab_barrio_act_17_19 = pd.DataFrame(df[df['ab_17_19'] ==1].groupby(['id_barrio_local','id_epigrafe']).count().ab_17_19)"
+loc_barrio,int64,Total number of stores per neighbourhood. Detail: pd.DataFrame(df.groupby(['id_barrio_local']).count().id_local)
+ab_barrio_17_19,int64,Total stores opened per neighbourhood between 2017-2019.    Detail: pd.DataFrame(df[df['ab_17_19'] ==1].groupby(['id_barrio_local']).count().ab_17_19)
+loc_na_barrio,int64,Total stores witout activity per neighbourhood. Detail: pd.DataFrame(df[df['id_epigrafe']== 0].groupby('id_barrio_local').count().desc_sit_loc_modif_19)
+ab_barrio_act_17_19_rate,float64,Rate of stores opened of the same activity and neighbourhood between 2017 and 2019 vs total. Detail: (['ab_barrio_act_17_19']/['loc_barrio_act'])*100
+total_ab_barr_17_19_rate,float64,Rate of stores opened in the same neighbourhood between 2017 and 2019 vs total. Detail:  (['ab_barrio_17_19']/['loc_barrio'])*100
+total_na_barr_rate,float64,Rate of stores without activity per neighbourhood vs total. Detail: (['loc_na_barrio']/['loc_barrio'])*100
+num_act,int64,Number of diferent activities ('desc_epigrafe') licenced for a single local
+coord_x_final,float64,Unifies single stores and stores in collectives UTM coord_x
+coord_y_final,float64,Unifies single stores and stores in collectives UTM coord_y
+lat,float64,Latitude of the store
+lon,float64,Longitude of the store
+Población,int64,Population per district (units). End 2018 (Source: Madrid City Council)
+Hombre,int64,Men population per district (units). End 2018 (Source: Madrid City Council)
+Mujeres,int64,Women population per district (units). End 2018 (Source: Madrid City Council)
+Densidad (Habitantes / Ha.),float64,Population/area (hectarea) per district. End 2018 (Source: Madrid City Council)
+Edad promedio,float64,Average age per district. End 2018 (Source: Madrid City Council)
+Edad mediana,float64,Median age per district. End 2018 (Source: Madrid City Council)
+Renta media/persona (euros),int64,Average income/person/district (euros). End 2016 (from Expansion. See TFM references)
+Total Hogares,int64,Total homes per district (units). End 2018. (Source: Madrid City Council)
+Españoles,int64,Spaniards homes per district (units). End 2018. (Source: Madrid City Council)
+Extranjeros,int64,Foreigners homes per district (units). End 2018 (Source: Madrid City Council)
+Mixtos,int64,Mixed homes per district (units). End 2018. (Source: Madrid City Council)
+España fuera barrio dia laboral,int64,Spaniards floating traffic out of district from Monday to Friday (units). Week 16-22 april 2018 (Private source: Kinneo)
+Extranjero fuera barrio dia laboral,int64,Foreigners floating traffic from Monday to Friday (units). Week 16-22 april 2018 (Private source: Kinneo)
+Total fuera barrio dia laboral,int64,Total out of district  floating traffic  from Monday to Friday (units) . Week 16-22 april 2018 (Private source: Kinneo)
+España fuera barrio fin semana,int64,Spaniards from out of distrinct floating traffic from Saturday to Sunday (units). Week 16-22 april 2018 (Private source: Kinneo)
+Extranjero fuera barrio fin semana,int64,Foreigners floating traffic from Saturday to Sunday (units). Week 16-22 april 2018 (Private source: Kinneo)
+Total fuera barrio fin semana,int64,Total out of district floating traffic from Saturday to Sunday(units). Week 16-22 april 2018 (Private source: Kinneo)
+Total barrio dia laboral,int64,Residents floating traffic from Monday to Friday (units). Week 16-22 april 2018 (Private source: Kinneo)
+Total barrio fin semana,int64,Residents floating traffic from Saturday to Sunday (units). Week 16-22 april 2018 (Private source: Kinneo)
+Total trabajo dia laboral,int64,Working population (no residents) floating traffic from Monday to Friday (units). Week 16-22 april 2018 (Private source: Kinneo)
+Total trabajo fin semana,int64,Working population (no residents) floating traffic from Saturday to Sunday (units). Week 16-22 april 2018 (Private source: Kinneo)
+total_TF_week,int64,Total residents and out of the district floating traffic in a week (units). Week 16-22 april 2018 (Private source: Kinneo)
+ratio_t_total,float64,Working population vs total traffic ratio in a week (percentage). Week 16-22 april 2018 (Private source: Kinneo)
+ratio_fb_total,float64,Out of district vs total traffic ratio in a week (percentage). Week 16-22 april 2018 (Private source: Kinneo)
+ratio_b_total,float64,Residents vs total traffic ratio in a week (percentage). Week 16-22 april 2018 (Private source: Kinneo)
+dist_type,int64,"Type of district (Commercial, Residential or mixed): Detail: if ratio out of district/week > percentile 75 -> commercial (1), elif ratio district/week > percentile 75 -> residential (2), else mixed (3)"
+points_in_radius,int64,Number of stores of the same activity in 500 m
