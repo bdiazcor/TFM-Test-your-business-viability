@@ -1,8 +1,6 @@
 import pandas as pd
 import numpy as np
 import clean_functions as cl
-import os
-import sys
 from geopy.distance import geodesic
 
 # funcion que incluye el id_situacion en dataframes (era un campo vacío en fichero de epigrafes) 
